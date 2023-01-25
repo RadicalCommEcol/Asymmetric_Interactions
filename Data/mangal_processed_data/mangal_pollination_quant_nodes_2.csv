@@ -1,0 +1,861 @@
+node_id,taxonomy_name,taxonomy_rank,kingdom
+mangal_node_0001,Arnica angustifolia alpina,infraspecies,Plantae
+mangal_node_0003,Cassiope tetragona,species,Plantae
+mangal_node_0004,Cerastium alpinum,species,Plantae
+mangal_node_0009,Dryas integrifolia,species,Plantae
+mangal_node_0013,Papaver radicatum,species,Plantae
+mangal_node_0017,Bistorta affinis,species,Plantae
+mangal_node_0023,Saxifraga oppositifolia,species,Plantae
+mangal_node_0025,Silene acaulis,species,Plantae
+mangal_node_0036,Colias hecla,species,Animalia
+mangal_node_0038,Chironomidae,family,Animalia
+mangal_node_0040,Corynoneura scutellata,species,Animalia
+mangal_node_0044,Heterotrissocladius subpilosus,species,Animalia
+mangal_node_0053,Smittia,genus,Animalia
+mangal_node_0057,Micropsectra,genus,Animalia
+mangal_node_0064,Bradysia,genus,Animalia
+mangal_node_0065,Rhamphomyia,genus,Animalia
+mangal_node_0072,Spilogona,genus,Animalia
+mangal_node_0074,Spilogona dorsata,species,Animalia
+mangal_node_0075,Spilogona latilamina,species,Animalia
+mangal_node_0076,Spilogona melanosoma,species,Animalia
+mangal_node_0077,Spilogona sanctipauli,species,Animalia
+mangal_node_0080,Protophormia atriceps,species,Animalia
+mangal_node_0090,NA,NA,NA
+mangal_node_0098,Delia,genus,Animalia
+mangal_node_0103,Lasiomma,genus,Animalia
+mangal_node_0113,Rhododendron lapponicum,species,Plantae
+mangal_node_0115,Phaonia alpicola,species,Animalia
+mangal_node_0116,Limnophyes ninae,species,Animalia
+mangal_node_0117,Megaselia diversa,species,Animalia
+mangal_node_0118,Megaselia,genus,Animalia
+mangal_node_0119,Megaselia digitalis,species,Animalia
+mangal_node_0120,Chloropinae,NA,Animalia
+mangal_node_0121,Allopiophila vulgaris,species,Animalia
+mangal_node_0122,Aclastus,genus,Animalia
+mangal_node_0123,Micropsectra radialis,species,Animalia
+mangal_node_0124,Noctuidae,family,Animalia
+mangal_node_0125,Arpedium,genus,Animalia
+mangal_node_0126,Mycomya fuscata,species,Animalia
+mangal_node_0127,Oliveridia tricornis,species,Animalia
+mangal_node_0128,Phaonia subfuscinervis,species,Animalia
+mangal_node_0129,Podabrus,genus,Animalia
+mangal_node_0130,Rhamphomyia aethiops,species,Animalia
+mangal_node_0131,Rhamphomyia reflexa,species,Animalia
+mangal_node_0132,Cotesia,genus,Animalia
+mangal_node_0133,Empis lucida,species,Animalia
+mangal_node_0134,Limnephilus harrimani,species,Animalia
+mangal_node_0135,Paradelia,genus,Animalia
+mangal_node_0136,Pegoplata aestiva,species,Animalia
+mangal_node_0137,Pteromalidae,family,Animalia
+mangal_node_0138,Hesperia comma,species,Animalia
+mangal_node_0139,Botanophila bidens,species,Animalia
+mangal_node_0140,Cidaria,genus,Animalia
+mangal_node_0141,Egle parva,species,Animalia
+mangal_node_0142,Egle,genus,Animalia
+mangal_node_0143,Camptocladius brachytomus,species,Animalia
+mangal_node_0144,Limnophyes natalensis,species,Animalia
+mangal_node_0145,Bradysia giraudii,species,Animalia
+mangal_node_0146,Megaselia sordida,species,Animalia
+mangal_node_0147,Orthocentrinae,NA,Animalia
+mangal_node_0148,Phygadeuon,genus,Animalia
+mangal_node_0149,Rhamphomyia morio,species,Animalia
+mangal_node_0150,Thricops furcatus,species,Animalia
+mangal_node_0151,Acamptocladius submontanus,species,Animalia
+mangal_node_0152,Alliopsis glacialis,species,Animalia
+mangal_node_0153,Allophorocera lapponica,species,Animalia
+mangal_node_0154,Alysiinae,NA,Animalia
+mangal_node_0155,Anarta,genus,Animalia
+mangal_node_0156,Anthomyiidae,family,Animalia
+mangal_node_0157,Boletina,genus,Animalia
+mangal_node_0158,Bombus alpinus,species,Animalia
+mangal_node_0159,Bombus hyperboreus,species,Animalia
+mangal_node_0160,Bradysia giraudi,NA,Animalia
+mangal_node_0161,Psila morio,species,Animalia
+mangal_node_0162,Coenosia atritibia,species,Animalia
+mangal_node_0163,Coenosia octopunctata,species,Animalia
+mangal_node_0164,Corynoptera,genus,Animalia
+mangal_node_0165,Dasineura,genus,Animalia
+mangal_node_0166,Delia piliventris,species,Animalia
+mangal_node_0167,Dolichopus plumipes,species,Animalia
+mangal_node_0168,Egle minuta,species,Animalia
+mangal_node_0169,Fannia mollissima,species,Animalia
+mangal_node_0200,Dryas octopetala,species,Plantae
+mangal_node_0201,Potentilla crantzii,species,Plantae
+mangal_node_0202,Trollius europaeus,species,Plantae
+mangal_node_0203,Pinguicula alpina,species,Plantae
+mangal_node_0204,Rhodiola rosea,species,Plantae
+mangal_node_0205,Diapensia lapponica,species,Plantae
+mangal_node_0206,Saxifraga aizoides,species,Plantae
+mangal_node_0207,Parnassia palustris,species,Plantae
+mangal_node_0208,Arabis alpina,species,Plantae
+mangal_node_0209,Viola biflora,species,Plantae
+mangal_node_0211,Salix reticulata,species,Plantae
+mangal_node_0212,Harrimanella hypnoides,species,Plantae
+mangal_node_0213,Salix lanata,species,Plantae
+mangal_node_0214,Antennaria alpina,species,Plantae
+mangal_node_0215,Salix polaris,species,Plantae
+mangal_node_0216,Astragalus alpinus,species,Plantae
+mangal_node_0217,Bartsia alpina,species,Plantae
+mangal_node_1084,Erigeron annuus,species,Plantae
+mangal_node_1086,Erigeron philadelphicus,species,Plantae
+mangal_node_1201,Plantago major,species,Plantae
+mangal_node_1217,Portulaca oleracea,species,Plantae
+mangal_node_1221,Prunella vulgaris,species,Plantae
+mangal_node_1306,Trifolium repens,species,Plantae
+mangal_node_1375,Syrphus torvus,species,Animalia
+mangal_node_1429,Mallota posticata,species,Animalia
+mangal_node_1466,Stomoxys calcitrans,species,Animalia
+mangal_node_1517,Musca domestica,species,Animalia
+mangal_node_1617,Lasius niger,species,Animalia
+mangal_node_1646,Peponapis pruinosa,species,Animalia
+mangal_node_1659,Triepeolus concavus,species,Animalia
+mangal_node_1694,Lucilia sericata,species,Animalia
+mangal_node_1757,Forcipomyia,genus,Animalia
+mangal_node_1866,Pygoderma bilabiatum,species,Animalia
+mangal_node_1912,Fuchsia regia,species,Plantae
+mangal_node_1915,Psidium cattleianum,species,Plantae
+mangal_node_2029,Bombus polaris,species,Animalia
+mangal_node_2030,Boloria improba,NA,Animalia
+mangal_node_2031,Spilogona projecta,species,Animalia
+mangal_node_2032,Colias tyche,species,Animalia
+mangal_node_2033,Protocalliphora,genus,Animalia
+mangal_node_2034,Spilogona hurdiana,species,Animalia
+mangal_node_2035,Potentilla vahliana,species,Plantae
+mangal_node_2036,Taraxacum,genus,Plantae
+mangal_node_2037,Caltha palustris,species,Plantae
+mangal_node_2038,Petasites frigidus,species,Plantae
+mangal_node_2039,Geum rossii,species,Plantae
+mangal_node_2040,Oxytropis arctica,species,Plantae
+mangal_node_2041,Bombus brasiliensis,species,Animalia
+mangal_node_2042,Amazilia versicolor,species,Animalia
+mangal_node_2043,Anthracothorax nigricollis,species,Animalia
+mangal_node_2044,Clytolaema rubricauda,species,Animalia
+mangal_node_2045,Leucochloris albicollis,species,Animalia
+mangal_node_2046,Lophornis magnificus,species,Animalia
+mangal_node_2047,Phaethornis eurynome,species,Animalia
+mangal_node_2048,Thalurania glaucopis,species,Animalia
+mangal_node_2049,Anoura caudifer,species,Animalia
+mangal_node_2050,Anoura geoffroyi,species,Animalia
+mangal_node_2051,Aechmea cylindrata,species,Plantae
+mangal_node_2052,Vriesea altodaserrae,species,Plantae
+mangal_node_2053,Nidularium campo-alegrensis,species,Plantae
+mangal_node_2054,Vriesea guttata,species,Plantae
+mangal_node_2055,Vriesea heterostachys,species,Plantae
+mangal_node_2056,Vriesea hoehneana,species,Plantae
+mangal_node_2057,Vriesea platynema,species,Plantae
+mangal_node_2120,Aralia nudicaulis,species,Plantae
+mangal_node_2121,Chimaphila umbellata,species,Plantae
+mangal_node_2122,Clintonia borealis,species,Plantae
+mangal_node_2123,Cornus canadensis,species,Plantae
+mangal_node_2124,Cypripedium acaule,species,Plantae
+mangal_node_2125,Linnaea borealis,species,Plantae
+mangal_node_2126,Maianthemum canadense,species,Plantae
+mangal_node_2127,Medeola virginiana,species,Plantae
+mangal_node_2128,Oxalis montana,species,Plantae
+mangal_node_2129,Orthilia secunda,species,Plantae
+mangal_node_2130,Lysimachia borealis,species,Plantae
+mangal_node_2131,Trillium undulatum,species,Plantae
+mangal_node_2132,Andrena wheeleri,species,Animalia
+mangal_node_2133,Andrena w-scripta,species,Animalia
+mangal_node_2134,Bombus perplexus,species,Animalia
+mangal_node_2135,Bombus terricola,species,Animalia
+mangal_node_2136,Bombus vagans,species,Animalia
+mangal_node_2137,Cheilosia tristis,NA,Animalia
+mangal_node_2138,Lasioglossum flavipes,species,Animalia
+mangal_node_2139,Eusphalerum convexum,species,Animalia
+mangal_node_2140,Eusphalerum,genus,Animalia
+mangal_node_2142,Trachysida aspera,species,Animalia
+mangal_node_2143,Paramyia nitens,species,Animalia
+mangal_node_2144,Andrena wilkella,species,Animalia
+mangal_node_2145,Bombus ternarius,species,Animalia
+mangal_node_2147,Parasyrphus relictus,species,Animalia
+mangal_node_2148,Poanes hobomok,species,Animalia
+mangal_node_2149,Rhopalum,genus,Animalia
+mangal_node_2150,Sarcophaga nearctica,species,Animalia
+mangal_node_2152,Acmaeopsoides rufula,species,Animalia
+mangal_node_2153,Ancistrocerus,genus,Animalia
+mangal_node_2154,Andrena melanochroa,species,Animalia
+mangal_node_2155,Andrena miranda,species,Animalia
+mangal_node_2156,Andrena nivalis,species,Animalia
+mangal_node_2157,Andrena rufosignata,species,Animalia
+mangal_node_2158,Andrena sigmundi,species,Animalia
+mangal_node_2159,Andrena thaspii,species,Animalia
+mangal_node_2160,Anthaxia expansa,species,Animalia
+mangal_node_2161,Anthonomus,genus,Animalia
+mangal_node_2162,Blera badia,species,Animalia
+mangal_node_2163,Blera confusa,species,Animalia
+mangal_node_2164,Blera nigripes,species,Animalia
+mangal_node_2165,Bombylius major,species,Animalia
+mangal_node_2166,Cantharis,genus,Animalia
+mangal_node_2167,Celastrina argiolus,species,Animalia
+mangal_node_2168,Chalcosyrphus inarmatus,species,Animalia
+mangal_node_2169,Cheilosia sialia,NA,Animalia
+mangal_node_2170,Crabro,genus,Animalia
+mangal_node_2171,Dalopius,NA,Animalia
+mangal_node_2172,Eudasyphora cyanicolor,species,Animalia
+mangal_node_2173,Evodinus monticola,species,Animalia
+mangal_node_2175,Hylaeus basalis,species,Animalia
+mangal_node_2176,Judolia montivagans,species,Animalia
+mangal_node_2177,Nomada sayi,species,Animalia
+mangal_node_2178,Orsodacne atra,species,Animalia
+mangal_node_2180,Phaonia serva,species,Animalia
+mangal_node_2181,Pieris napi,species,Animalia
+mangal_node_2182,Bombus ashtoni,species,Animalia
+mangal_node_2183,Sphaerophoria bifurcata,species,Animalia
+mangal_node_2184,Sphaerophoria longipilosa,species,Animalia
+mangal_node_2187,Temnostoma alternans,species,Animalia
+mangal_node_2188,Temnostoma balyras,species,Animalia
+mangal_node_2189,Temnostoma barberi,species,Animalia
+mangal_node_2190,Tychius stephensi,species,Animalia
+mangal_node_2191,Xylota hinei,species,Animalia
+mangal_node_2192,Xylota,genus,Animalia
+mangal_node_2193,Fannia ungulata,species,Animalia
+mangal_node_2194,Hylaeus ellipticus,NA,Animalia
+mangal_node_2195,Osmia pumila,species,Animalia
+mangal_node_2196,Passaloecus,genus,Animalia
+mangal_node_2197,Platycheirus rosarum,species,Animalia
+mangal_node_2198,Cheilosia slossonae,NA,Animalia
+mangal_node_2199,Nomada cuneata,species,Animalia
+mangal_node_2200,Phalaenophana pyramusalis,NA,Animalia
+mangal_node_2201,Thamnotettix confinis,species,Animalia
+mangal_node_2202,Ephemerella,genus,Animalia
+mangal_node_2203,Cheilosia pallipes,species,Animalia
+mangal_node_2204,Melanostoma,genus,Animalia
+mangal_node_2205,Coelioxys producta,species,Animalia
+mangal_node_2216,Amazilia fimbriata,NA,Animalia
+mangal_node_2217,Glaucis hirsutus,species,Animalia
+mangal_node_2218,Phaethornis squalidus,species,Animalia
+mangal_node_2219,Rhamphodon naevius,NA,Animalia
+mangal_node_2220,Heliconius erato,species,Animalia
+mangal_node_2221,Heliconius ethilla,species,Animalia
+mangal_node_2222,Heliconius nattereri,species,Animalia
+mangal_node_2223,Heliconius sara,species,Animalia
+mangal_node_2224,Oleria aquata,species,Animalia
+mangal_node_2225,Saliana triangularis,species,Animalia
+mangal_node_2226,Bombus morio,species,Animalia
+mangal_node_2227,Epicharis obscura,species,Animalia
+mangal_node_2228,Euglossa chalybeata,species,Animalia
+mangal_node_2229,Euglossa,genus,Animalia
+mangal_node_2230,Trigona fulviventris,species,Animalia
+mangal_node_2231,Aechmea araneosa,species,Plantae
+mangal_node_2232,Aechmea triangularis,species,Plantae
+mangal_node_2233,Aechmea victoriana,species,Plantae
+mangal_node_2234,Quesnelia strobilispica,NA,Plantae
+mangal_node_2235,Aechmea pineliana,species,Plantae
+mangal_node_2236,Canistrum triangulare,species,Plantae
+mangal_node_2237,Vriesea simplex,species,Plantae
+mangal_node_2238,Portea petropolitana,species,Plantae
+mangal_node_2239,Aechmea bromeliifolia,species,Plantae
+mangal_node_2240,Vriesea psittacina,species,Plantae
+mangal_node_2241,Aechmea mutica,species,Plantae
+mangal_node_2242,Aechmea nudicaulis,species,Plantae
+mangal_node_2243,Nidularium cariacicaense,species,Plantae
+mangal_node_2244,Nidularium procerum,species,Plantae
+mangal_node_2245,Vriesea gracilior,species,Plantae
+mangal_node_2246,Tillandsia tenuifolia,species,Plantae
+mangal_node_2247,Acanthostachys strobilaceae,NA,Plantae
+mangal_node_2248,Aechmea lingulata,species,Plantae
+mangal_node_2249,Billbergia amoena,NA,Plantae
+mangal_node_2510,Azorina vidalii,species,Plantae
+mangal_node_2511,Crithmum maritimum,species,Plantae
+mangal_node_2512,Beta vulgaris,species,Plantae
+mangal_node_2513,Daucus carota,species,Plantae
+mangal_node_2514,Silene vulgaris,species,Plantae
+mangal_node_2516,Freesia refracta,species,Plantae
+mangal_node_2517,Reseda luteola,species,Plantae
+mangal_node_2518,Halictus,genus,Animalia
+mangal_node_2519,Micropeza thoracicum,species,Animalia
+mangal_node_2520,Bombus ruderatus,species,Animalia
+mangal_node_2521,Colias crocea,NA,Animalia
+mangal_node_2522,Eristalix tenax,NA,Animalia
+mangal_node_2523,Agrotis ipsilon,species,Animalia
+mangal_node_2524,Anothomyia pluvialis,NA,Animalia
+mangal_node_2540,Leptotes pirithous,species,Animalia
+mangal_node_2576,Phoebis sennae,species,Animalia
+mangal_node_2658,Erigeron tenuifolius,species,Plantae
+mangal_node_2662,Scalesia affinis,species,Plantae
+mangal_node_2668,Cordia lutea,species,Plantae
+mangal_node_2673,Opuntia galapageia,species,Plantae
+mangal_node_2708,Passiflora foetida,species,Plantae
+mangal_node_2709,Plumbago zeylanica,species,Plantae
+mangal_node_2719,Waltheria ovata,species,Plantae
+mangal_node_2724,Xylocopa darwini,species,Animalia
+mangal_node_2727,Anthrax tinctus,species,Animalia
+mangal_node_2739,Chrysopa,genus,Animalia
+mangal_node_2760,Lasioglossum apristum,species,Animalia
+mangal_node_2762,Meliscaeva cinctella,species,Animalia
+mangal_node_2763,Cheilosia,genus,Animalia
+mangal_node_2772,Melanostoma scalare,species,Animalia
+mangal_node_2782,Bombus ardens,species,Animalia
+mangal_node_2793,Byturus,genus,Animalia
+mangal_node_2811,Crossocerus,genus,Animalia
+mangal_node_2814,Hoplia moerens,species,Animalia
+mangal_node_2826,Mordellistena,genus,Animalia
+mangal_node_2834,Andrena longitibialis,species,Animalia
+mangal_node_2839,Episyrphus balteatus,species,Animalia
+mangal_node_2870,Vespa simillima,species,Animalia
+mangal_node_2873,Astilbe thunbergii,species,Plantae
+mangal_node_2881,Ranunculus japonicus,species,Plantae
+mangal_node_2883,Anaphalis margaritacea,species,Plantae
+mangal_node_2895,Hydrangea paniculata,species,Plantae
+mangal_node_2901,Patrinia villosa,species,Plantae
+mangal_node_2902,Ixeridium dentatum,species,Plantae
+mangal_node_2905,Adenophora triphylla,species,Plantae
+mangal_node_2931,Potentilla freyniana,species,Plantae
+mangal_node_2932,Weigela decora,species,Plantae
+mangal_node_2937,Pseudostellaria heterantha,species,Plantae
+mangal_node_2942,Viola grypoceras,species,Plantae
+mangal_node_2943,Veratrum maackii,species,Plantae
+mangal_node_3199,Coelioxys,genus,Animalia
+mangal_node_3207,Senecio,genus,Plantae
+mangal_node_3238,Vanessa indica,species,Animalia
+mangal_node_3239,Macroglossum stellatarum,species,Animalia
+mangal_node_3246,Lycaena phlaeas,species,Animalia
+mangal_node_3263,Drosophila,genus,Animalia
+mangal_node_3265,Lampides boeticus,species,Animalia
+mangal_node_3268,Sapromyza,genus,Animalia
+mangal_node_3269,Siphona,genus,Animalia
+mangal_node_3637,Erigeron bonariensis,species,Plantae
+mangal_node_3655,Eumerus strigatus,species,Animalia
+mangal_node_3658,Platycheirus quadratus,species,Animalia
+mangal_node_3662,Megachile rotundata,species,Animalia
+mangal_node_3671,Stelis laticincta,species,Animalia
+mangal_node_3672,Xylocopa varipuncta,species,Animalia
+mangal_node_3673,Palpada alhambra,species,Animalia
+mangal_node_3678,Andrena auricoma,species,Animalia
+mangal_node_3680,Prunus ilicifolia,species,Plantae
+mangal_node_3683,Hylaeus calvus,species,Animalia
+mangal_node_3687,Euphorbia maculata,species,Plantae
+mangal_node_3703,Bombus crotchii,species,Animalia
+mangal_node_3704,Lotus purshianus,NA,Plantae
+mangal_node_3707,Megachile brevis,species,Animalia
+mangal_node_3708,Paragus longistylus,species,Animalia
+mangal_node_3712,Torilis arvensis,species,Plantae
+mangal_node_3714,Punica granatum,species,Plantae
+mangal_node_3715,Plantago lanceolata,species,Plantae
+mangal_node_3716,Syrmatium glabrum,species,Plantae
+mangal_node_3720,Osmia laeta,species,Animalia
+mangal_node_3721,Lavandula angustifolia,species,Plantae
+mangal_node_3727,Xeromelecta californica,species,Animalia
+mangal_node_3729,Ceanothus cuneatus,species,Plantae
+mangal_node_3731,Osmia aglaia,NA,Animalia
+mangal_node_3734,Dianthidium ulkei,species,Animalia
+mangal_node_3741,Osmia nemoris,species,Animalia
+mangal_node_3746,Osmia gaudiosa,species,Animalia
+mangal_node_3747,Lupinus,genus,Plantae
+mangal_node_3750,Vicia americana,species,Plantae
+mangal_node_3751,Coriandrum sativum,species,Plantae
+mangal_node_3754,Andrena subchalybea,species,Animalia
+mangal_node_3755,Conyza canadensis,NA,Plantae
+mangal_node_3756,Osmia regulina,species,Animalia
+mangal_node_3757,Coelioxys novomexicana,species,Animalia
+mangal_node_3758,Ceanothus hearstiorum,species,Plantae
+mangal_node_3760,Coelioxys gilensis,species,Animalia
+mangal_node_3764,Osmia atrocyanea,species,Animalia
+mangal_node_3766,Megachile parallela,species,Animalia
+mangal_node_3767,Triepeolus melanarius,species,Animalia
+mangal_node_3768,Triepeolus subnitens,species,Animalia
+mangal_node_3769,Megachile lippiae,species,Animalia
+mangal_node_3772,Andrena knuthiana,species,Animalia
+mangal_node_3773,Amsinckia intermedia,species,Plantae
+mangal_node_3774,Allograpta micrura,species,Animalia
+mangal_node_3775,Heriades occidentalis,species,Animalia
+mangal_node_3776,Lythrum californicum,species,Plantae
+mangal_node_3777,Frangula californica,species,Plantae
+mangal_node_3780,Cirsium arvensis,NA,Plantae
+mangal_node_3783,Andrena angustitarsata,species,Animalia
+mangal_node_3784,Lasioglossum impavidum,species,Animalia
+mangal_node_3785,Osmia texana,species,Animalia
+mangal_node_3786,Epilobium canum,species,Plantae
+mangal_node_3788,Coelioxys octodentata,species,Animalia
+mangal_node_3790,Diadasia diminuta,species,Animalia
+mangal_node_3791,Acmispon americanus,species,Plantae
+mangal_node_3793,Mallota florea,species,Animalia
+mangal_node_3794,Megachile frugalis,species,Animalia
+mangal_node_3795,Artemesia,genus,Plantae
+mangal_node_3796,Holodiscus discolor,species,Plantae
+mangal_node_3797,Anthidium manicatum,species,Animalia
+mangal_node_3798,Hylaeus leptocephalus,species,Animalia
+mangal_node_3801,Rubus ursinus,species,Plantae
+mangal_node_3805,Vicia villosa,species,Plantae
+mangal_node_3806,Andrena semipunctata,species,Animalia
+mangal_node_3807,Epilobium pygmaeum,species,Plantae
+mangal_node_3808,Bombus vandykei,species,Animalia
+mangal_node_3809,Cirsium vulgare,species,Plantae
+mangal_node_3810,Helenium puberulum,species,Plantae
+mangal_node_3811,Andrena nigrocaerulea,species,Animalia
+mangal_node_3812,Calliopsis scitula,species,Animalia
+mangal_node_3813,Lasioglossum mellipes,species,Animalia
+mangal_node_3814,Juglans californica,species,Plantae
+mangal_node_3818,Ambrosia,genus,Plantae
+mangal_node_3819,Zinnia elegans,species,Plantae
+mangal_node_3821,Eremocarpus setigerus,NA,Plantae
+mangal_node_3822,Symphyotrichum chilense,species,Plantae
+mangal_node_3825,Trifolium incarnatum,species,Plantae
+mangal_node_3826,Euphorbia peplus,species,Plantae
+mangal_node_4057,Atherigona orientalis,species,Animalia
+mangal_node_4195,Simulium,genus,Animalia
+mangal_node_4447,Dolichopodidae,family,Animalia
+mangal_node_4507,Cerambycidae,family,Animalia
+mangal_node_4676,Sepsis,genus,Animalia
+mangal_node_5085,Syrphus vitripennis,species,Animalia
+mangal_node_5109,Scirtidae,family,Animalia
+mangal_node_5341,Stomorhina lunata,species,Animalia
+mangal_node_5348,Pachycerina crinicornis,species,Animalia
+mangal_node_5349,Copestylum pusillum,species,Animalia
+mangal_node_5350,Stomoxys niger,species,Animalia
+mangal_node_5351,Fannia pusio,species,Animalia
+mangal_node_5352,Brachymyrmex,genus,Animalia
+mangal_node_5353,Cethosia biblis nacoleia,infraspecies,Animalia
+mangal_node_5354,Technomyrmex albipes,species,Animalia
+mangal_node_5355,Zosterops mauritianus,species,Animalia
+mangal_node_5356,Chrysomya megacephala,species,Animalia
+mangal_node_5357,Henotesia narcissus,species,Animalia
+mangal_node_5358,Miridae,family,Animalia
+mangal_node_5359,Nyctemera insulare,species,Animalia
+mangal_node_5360,Ceratitis rosa,species,Animalia
+mangal_node_5361,Chaetocnema,genus,Animalia
+mangal_node_5362,Homoneura quadrivitta,species,Animalia
+mangal_node_5363,Lygistorrhina,genus,Animalia
+mangal_node_5364,Ophyra capensis,species,Animalia
+mangal_node_5365,Orchisia costata,species,Animalia
+mangal_node_5366,Cicadellidae,family,Animalia
+mangal_node_5367,Episyrphus,genus,Animalia
+mangal_node_5368,Eristalinus flaveolus,species,Animalia
+mangal_node_5369,Ischiodon aegyptius,species,Animalia
+mangal_node_5370,Limnophora quaterna,species,Animalia
+mangal_node_5371,Psyllidae,family,Animalia
+mangal_node_5372,Syritta nigrifemorata,species,Animalia
+mangal_node_5373,Tarundia servillei,species,Animalia
+mangal_node_5374,Tettigoniidae,family,Animalia
+mangal_node_5375,Sideroxylon cinereum,species,Plantae
+mangal_node_5376,Geniostoma rupestre,species,Plantae
+mangal_node_5377,Croton fothergillifolius,species,Plantae
+mangal_node_5378,Aphloia theiformis,species,Plantae
+mangal_node_5379,Psiadia terebinthina,species,Plantae
+mangal_node_5380,Toddalia asiatica,species,Plantae
+mangal_node_5381,Claoxylon linostachys,species,Plantae
+mangal_node_5382,Erythroxylum macrocarpum,species,Plantae
+mangal_node_5383,Antirhea borbonica,species,Plantae
+mangal_node_5384,Roussea simplex,species,Plantae
+mangal_node_5385,Phorinia,genus,Animalia
+mangal_node_5386,Allograpta nasuta,species,Animalia
+mangal_node_5387,Polistes hebraeus,NA,Animalia
+mangal_node_5388,Psilopa iceryae,species,Animalia
+mangal_node_5389,Allograpta,genus,Animalia
+mangal_node_5390,Melanagromyza sojae,species,Animalia
+mangal_node_5391,Sarcophaga arno,species,Animalia
+mangal_node_5392,Acopsis viridicans,species,Animalia
+mangal_node_5393,Atherigona,genus,Animalia
+mangal_node_5394,Homoneura,genus,Animalia
+mangal_node_5395,Paragus borbonicus,species,Animalia
+mangal_node_5396,Sepsis lateralis,species,Animalia
+mangal_node_5397,Dodonaea viscosa,species,Plantae
+mangal_node_5398,Lygaeidae,family,Animalia
+mangal_node_5399,Graphomya maculata,species,Animalia
+mangal_node_5400,Villa unifasciata,species,Animalia
+mangal_node_5401,Dioxyna sororcula,species,Animalia
+mangal_node_5402,Phelsuma cepediana,species,Animalia
+mangal_node_5403,Cheloninae,NA,Animalia
+mangal_node_5404,Hyadina,genus,Animalia
+mangal_node_5405,Mauritiobrium undulatum,species,Animalia
+mangal_node_5406,Parnara naso,species,Animalia
+mangal_node_5407,Pterophoridae,family,Animalia
+mangal_node_5408,Chassalia coriacea,species,Plantae
+mangal_node_5409,Bertiera zaluzania,species,Plantae
+mangal_node_5410,Stillingia lineata,species,Plantae
+mangal_node_5411,Melanostoma bituberculatum,species,Animalia
+mangal_node_5412,Cephonodes trochilus,species,Animalia
+mangal_node_5413,Lecithoceridae,family,Animalia
+mangal_node_5414,Syritta,genus,Animalia
+mangal_node_5416,Hydrillodes,genus,Animalia
+mangal_node_5417,Macroglossum milvus,species,Animalia
+mangal_node_5420,Trichoplusia indicator,species,Animalia
+mangal_node_5422,Dracaena reflexa,species,Plantae
+mangal_node_5423,Antidesma madagascariense,species,Plantae
+mangal_node_5424,Agarista salicifolia,species,Plantae
+mangal_node_5425,Flagellaria indica,species,Plantae
+mangal_node_5426,Coffea mauritiana,species,Plantae
+mangal_node_5427,Polyscias mauritiana,species,Plantae
+mangal_node_5428,Pandanus wiehei,species,Plantae
+mangal_node_5429,Ahasverus advena,species,Animalia
+mangal_node_5430,Pheidole megacephala,species,Animalia
+mangal_node_5431,Bactrocera cucurbitae,species,Animalia
+mangal_node_5432,Condica capensis,NA,Animalia
+mangal_node_5433,Eumolpinae,NA,Animalia
+mangal_node_5434,Limoniidae,family,Animalia
+mangal_node_5435,Mythimna,genus,Animalia
+mangal_node_5436,Zaprionus vittiger,species,Animalia
+mangal_node_5437,Sideroxylon puberulum,species,Plantae
+mangal_node_5438,Grangeria borbonica,species,Plantae
+mangal_node_5439,Eugenia kanakana,species,Plantae
+mangal_node_5440,Pittosporum senacia,species,Plantae
+mangal_node_5441,Coffea macrocarpa,species,Plantae
+mangal_node_5442,Chassalia petrinensis,species,Plantae
+mangal_node_5443,Hancea integrifolia,species,Plantae
+mangal_node_5444,Faujasiopsis flexuosa,species,Plantae
+mangal_node_5445,Doratoxylon apetalum,species,Plantae
+mangal_node_5446,Phyllanthus phillyreifolius,species,Plantae
+mangal_node_5447,Erythrospermum monticolum,species,Plantae
+mangal_node_5448,Mimusops erythroxylon,species,Plantae
+mangal_node_5449,Ochna mauritiana,species,Plantae
+mangal_node_5450,Olea lancea,species,Plantae
+mangal_node_5451,Mordellidae,family,Animalia
+mangal_node_5452,Gelechioidea,superfamily,Animalia
+mangal_node_5453,Scopariinae,NA,Animalia
+mangal_node_5454,Achaea finita,NA,Animalia
+mangal_node_5455,Campopleginae,NA,Animalia
+mangal_node_5456,Foudia madagascariensis,species,Animalia
+mangal_node_5457,Hippotion eson,species,Animalia
+mangal_node_5458,Limonia,genus,Animalia
+mangal_node_5459,Peribaea,genus,Animalia
+mangal_node_5460,Pycnonotus jocosus,species,Animalia
+mangal_node_5461,Spodoptera littoralis,species,Animalia
+mangal_node_5462,Gaertnera rotundifolia,species,Plantae
+mangal_node_5463,Warneckea trinervis,species,Plantae
+mangal_node_5464,Badula platyphylla,species,Plantae
+mangal_node_5465,Helichrysum yuccifolium,species,Plantae
+mangal_node_5466,Ocotea laevigata,species,Plantae
+mangal_node_5467,Lauxania,genus,Animalia
+mangal_node_5468,Phalanta phalantha,species,Animalia
+mangal_node_5469,Labourdonnaisia calophylloides,species,Plantae
+mangal_node_5470,Bakerella hoyifolia,species,Plantae
+mangal_node_5471,Gaertnera,genus,Plantae
+mangal_node_5472,Eugenia orbiculata,species,Plantae
+mangal_node_5473,Smilax anceps,species,Plantae
+mangal_node_5474,Pandanus barkleyi,species,Plantae
+mangal_node_5475,Pyrostria fasciculata,species,Plantae
+mangal_node_5476,Gaertnera edentata,species,Plantae
+mangal_node_5477,Nogodinidae,family,Animalia
+mangal_node_5478,Sarrothripinae,NA,Animalia
+mangal_node_5479,Diospyros revaughanii,species,Plantae
+mangal_node_5480,Tabernaemontana persicariifolia,species,Plantae
+mangal_node_5481,Turraea rigida,species,Plantae
+mangal_node_5482,Syzygium coriaceum,species,Plantae
+mangal_node_5483,Scolia,genus,Animalia
+mangal_node_5484,Casearia coriacea,species,Plantae
+mangal_node_5485,Calophyllum eputamen,species,Plantae
+mangal_node_5486,Xylopia lamarckii,species,Plantae
+mangal_node_5487,Embelia angustifolia,species,Plantae
+mangal_node_5488,Memecylon ovatifolium,species,Plantae
+mangal_node_5489,Trirhithrum,genus,Animalia
+mangal_node_5490,Conocephalus,genus,Animalia
+mangal_node_5491,Syzygium petrinense,species,Plantae
+mangal_node_5492,Syzygium commersonii,species,Plantae
+mangal_node_5493,Xyris,genus,Plantae
+mangal_node_5494,Thelairodrino,genus,Animalia
+mangal_node_5495,Syzygium mauritianum,species,Plantae
+mangal_node_5496,Badula insularis,species,Plantae
+mangal_node_5497,Pandanus rigidifolius,species,Plantae
+mangal_node_5498,Syzygium glomeratum,species,Plantae
+mangal_node_5499,Pleurostylia leucocarpa,species,Plantae
+mangal_node_5500,Trochetia blackburniana,species,Plantae
+mangal_node_5501,Hydrotaea fuliginosa,species,Animalia
+mangal_node_5502,Cixiidae,family,Animalia
+mangal_node_5503,Homalanthus populifolius,species,Plantae
+mangal_node_5506,Agathidinae,NA,Animalia
+mangal_node_5507,Ixora parviflora,species,Plantae
+mangal_node_5508,Catopsilia florella,species,Animalia
+mangal_node_5509,Cryptocephalinae,NA,Animalia
+mangal_node_5510,Nitidulidae,family,Animalia
+mangal_node_5511,Harungana madagascariensis,species,Plantae
+mangal_node_5512,Wikstroemia indica,species,Plantae
+mangal_node_5513,Psychotria terniflora,species,Plantae
+mangal_node_5514,Thysanoplusia orichalcea,species,Animalia
+mangal_node_5515,Croton grangerioides,species,Plantae
+mangal_node_5516,Molinaea macrantha,species,Plantae
+mangal_node_5517,Musca confiscata,species,Animalia
+mangal_node_5518,Rubus alceifolius,species,Plantae
+mangal_node_5519,Lasioglossum mahense,species,Animalia
+mangal_node_5520,Scaptodrosophila,genus,Animalia
+mangal_node_5521,Xylocopa caffra,species,Animalia
+mangal_node_5522,Geron seychellarum,species,Animalia
+mangal_node_5523,Phelsuma,genus,Animalia
+mangal_node_5525,Nephrosperma vanhoutteanum,NA,Plantae
+mangal_node_5526,Mimusops sechellarum,species,Plantae
+mangal_node_5527,Soulamea terminalioides,species,Plantae
+mangal_node_5528,Parasarcophaga hirtipes,NA,Animalia
+mangal_node_5530,Cinnyris dussumieri,species,Animalia
+mangal_node_5531,Hemipyrellia germana,species,Animalia
+mangal_node_5532,Simosyrphus aegyptius,NA,Animalia
+mangal_node_5533,Medusagyne oppositifolia,species,Plantae
+mangal_node_5534,Erythroxylum sechellarum,species,Plantae
+mangal_node_5535,Megachile seychellensis,species,Animalia
+mangal_node_5536,Hemipyrellia,genus,Animalia
+mangal_node_5537,Plagiostenopterina cyanosoma,species,Animalia
+mangal_node_5538,Physiphora azurea,species,Animalia
+mangal_node_5539,Cinnamomum verum,species,Plantae
+mangal_node_5541,Neophyllomyza approximatonervis,species,Animalia
+mangal_node_5542,Trachylepis sechellensis,species,Animalia
+mangal_node_5543,Phoenicophorium borsigianum,species,Plantae
+mangal_node_5544,Psychotria pervillei,species,Plantae
+mangal_node_5545,Syzygium wrightii,species,Plantae
+mangal_node_5546,Rhynchium brunneum,species,Animalia
+mangal_node_5547,Deckenia nobilis,species,Plantae
+mangal_node_5548,Diospyros boiviniana,species,Plantae
+mangal_node_5549,Timonius flavescens,species,Plantae
+mangal_node_5550,Ceratina tabescens,species,Animalia
+mangal_node_5551,Dichaetomyia fasciculifera,species,Animalia
+mangal_node_5552,Eagris sabadius,species,Animalia
+mangal_node_5553,Premna serratifolia,species,Plantae
+mangal_node_5556,Pachycerina seychellensis,species,Animalia
+mangal_node_5557,Tricimba seychellensis,species,Animalia
+mangal_node_5558,Alstonia macrophylla,species,Plantae
+mangal_node_5560,Roscheria melanochaetes,species,Plantae
+mangal_node_5561,Colea seychellarum,species,Plantae
+mangal_node_5562,Excoecaria benthamiana,species,Plantae
+mangal_node_5563,Craterispermum microdon,species,Plantae
+mangal_node_5564,Campnosperma seychellarum,species,Plantae
+mangal_node_5565,Fidena lingens,species,Animalia
+mangal_node_5566,Glionnetia sericea,species,Plantae
+mangal_node_5567,Polyscias crassa,species,Plantae
+mangal_node_5568,Agrius convolvuli,species,Animalia
+mangal_node_5570,Ochna kirkii,species,Plantae
+mangal_node_5571,Paraserianthes falcataria,species,Plantae
+mangal_node_5572,Euphorbia pyrifolia,species,Plantae
+mangal_node_5574,Nepenthes pervillei,species,Plantae
+mangal_node_5575,Forcipomyia litoraurea,species,Animalia
+mangal_node_5576,Ixora pudica,species,Plantae
+mangal_node_5577,Dillenia suffruticosa,species,Plantae
+mangal_node_5730,Pectis tenuifolia,species,Plantae
+mangal_node_5731,Chiococca alba,species,Plantae
+mangal_node_5732,Varronia revoluta,species,Plantae
+mangal_node_5733,Jasminocereus thouarsii,species,Plantae
+mangal_node_5734,Lippia rosmarinifolia,species,Plantae
+mangal_node_5735,Halmenus cuspidatus,species,Animalia
+mangal_node_5736,Melangyna,genus,Animalia
+mangal_node_5935,Deutzia crenata,species,Plantae
+mangal_node_5936,Cirsium japonicum,species,Plantae
+mangal_node_5937,Polygonum cuspidatum,NA,Plantae
+mangal_node_5938,Lysimachia clethroides,species,Plantae
+mangal_node_5939,Rhododendron kiusianum,species,Plantae
+mangal_node_5940,Sophora flavescens,species,Plantae
+mangal_node_5941,Hydrangea luteo-venosa,NA,Plantae
+mangal_node_5942,Veronica rotunda,species,Plantae
+mangal_node_5943,Vicia unijuga,species,Plantae
+mangal_node_5947,Pieris japonica,species,Plantae
+mangal_node_5948,Cirsium suffultum,species,Plantae
+mangal_node_5949,Diabelia serrata,species,Plantae
+mangal_node_5950,Lespedeza bicolor,species,Plantae
+mangal_node_5951,Geranium shikokianum,species,Plantae
+mangal_node_5952,Weigela japonica,species,Plantae
+mangal_node_5953,Rubus parvifolius,species,Plantae
+mangal_node_5954,Aster ageratoides,species,Plantae
+mangal_node_5955,Cornus kousa,species,Plantae
+mangal_node_5956,Ligularia japonica,species,Plantae
+mangal_node_5957,Viburnum dilatatum,species,Plantae
+mangal_node_5958,Hemerocallis citrina,species,Plantae
+mangal_node_5959,Spiraea japonica,species,Plantae
+mangal_node_5960,Viburnum erosum,species,Plantae
+mangal_node_5961,Ligularia fischeri,species,Plantae
+mangal_node_5962,Saussurea gracilis,species,Plantae
+mangal_node_5963,Valeriana officinalis,species,Plantae
+mangal_node_5966,Echinops setifer,species,Plantae
+mangal_node_5967,Allium thunbergii,species,Plantae
+mangal_node_5968,Hydrangea serrata,species,Plantae
+mangal_node_5969,Actaea japonica,species,Plantae
+mangal_node_5970,Isodon inflexus,species,Plantae
+mangal_node_5971,Heteropappus hispidus,species,Plantae
+mangal_node_5972,Aster scaber,species,Plantae
+mangal_node_5973,Solidago virgaurea,species,Plantae
+mangal_node_5974,Lyonia ovalifolia,species,Plantae
+mangal_node_5975,Styrax japonica,NA,Plantae
+mangal_node_5976,Rubus phoenicolasius,species,Plantae
+mangal_node_5977,Eupatorium chinense,species,Plantae
+mangal_node_5978,Epimedium diphyllum,species,Plantae
+mangal_node_5979,Hydrocotyle ramiflora,species,Plantae
+mangal_node_5980,Paederia foetida,species,Plantae
+mangal_node_5981,Polygala japonica,species,Plantae
+mangal_node_5982,Salix sieboldiana,species,Plantae
+mangal_node_5983,Viola orientalis,species,Plantae
+mangal_node_5984,Iris rossii,species,Plantae
+mangal_node_5985,Inula japonica,species,Plantae
+mangal_node_5986,Inula salicina,species,Plantae
+mangal_node_5987,Castanea crenata,species,Plantae
+mangal_node_5988,Prunus serrulata,species,Plantae
+mangal_node_5989,Moehringia lateriflora,species,Plantae
+mangal_node_5990,Clethra barbinervis,species,Plantae
+mangal_node_5991,Patrinia scabiosaefolia,NA,Plantae
+mangal_node_5992,Corydalis lineariloba,species,Plantae
+mangal_node_5993,Salix vulpina,species,Plantae
+mangal_node_5994,Lindera sericea,species,Plantae
+mangal_node_5995,Dianthus superbus,species,Plantae
+mangal_node_5996,Galium verum,species,Plantae
+mangal_node_5997,Quercus dentata,species,Plantae
+mangal_node_5998,Hypericum pseudopetiolatum,species,Plantae
+mangal_node_5999,Asparagus schoberioides,species,Plantae
+mangal_node_6000,Rhododendron reticulatum,species,Plantae
+mangal_node_6001,Viola hondoensis,species,Plantae
+mangal_node_6002,Chionographis japonica,species,Plantae
+mangal_node_6003,Lilium leichtlinii,species,Plantae
+mangal_node_6004,Cephalanthera falcata,species,Plantae
+mangal_node_6005,Codonopsis lanceolata,species,Plantae
+mangal_node_6006,Swertia japonica,species,Plantae
+mangal_node_6007,Hydrangea hydrangeoides,species,Plantae
+mangal_node_6008,Gentiana zollingeri,species,Plantae
+mangal_node_6009,Dioscorea asclepiadea,species,Plantae
+mangal_node_6010,Sanguisorba officinalis,species,Plantae
+mangal_node_6011,Galium kinuta,species,Plantae
+mangal_node_6012,Luzula capitata,species,Plantae
+mangal_node_6013,Staphylea bumalda,species,Plantae
+mangal_node_6014,Arisaema japonicum,species,Plantae
+mangal_node_6017,Bombus ignitus,species,Animalia
+mangal_node_6018,Oedemeronia lucidicollis,NA,Animalia
+mangal_node_6019,Ceratina flavipes,species,Animalia
+mangal_node_6020,Ceratina megastigmata,species,Animalia
+mangal_node_6021,Nonarthra cyanea,NA,Animalia
+mangal_node_6022,Eristalis cerealis,species,Animalia
+mangal_node_6023,Stomorhina obsoleta,NA,Animalia
+mangal_node_6024,Betasyrphus serarius,species,Animalia
+mangal_node_6025,Campsomeris prismatica,NA,Animalia
+mangal_node_6026,Fabriciana adippe,species,Animalia
+mangal_node_6027,Hoplismenus,genus,Animalia
+mangal_node_6028,Oxycetonia jucunda,NA,Animalia
+mangal_node_6029,Parnara guttata,NA,Animalia
+mangal_node_6030,Ammophila sabulosa,species,Animalia
+mangal_node_6031,Andrena mikado,species,Animalia
+mangal_node_6032,Andrena watasei,species,Animalia
+mangal_node_6033,Camponotus japonicus,species,Animalia
+mangal_node_6034,Helophilus virgatus,NA,Animalia
+mangal_node_6035,Sphaerophoria macrogaster,species,Animalia
+mangal_node_6036,Andrena dentata,species,Animalia
+mangal_node_6037,Andrena knuthi,species,Animalia
+mangal_node_6038,Andrena komachi,species,Animalia
+mangal_node_6039,Bibio,genus,Animalia
+mangal_node_6040,Euthyneura,genus,Animalia
+mangal_node_6041,Ochlodes ochraceus,NA,Animalia
+mangal_node_6042,Paragus jozanus,species,Animalia
+mangal_node_6043,Platycheirus urakawensis,species,Animalia
+mangal_node_6044,Prosena,genus,Animalia
+mangal_node_6045,Andrena kaguya,species,Animalia
+mangal_node_6046,Andrena minutula,species,Animalia
+mangal_node_6048,Apis cerana,species,Animalia
+mangal_node_6049,Dactylispa nigripennis,species,Animalia
+mangal_node_6050,Dalopius tamui,NA,Animalia
+mangal_node_6051,Fabriciana nerippe,species,Animalia
+mangal_node_6052,Formica japonica,species,Animalia
+mangal_node_6053,Himatium,genus,Animalia
+mangal_node_6054,Lasioglossum sibiriacum,species,Animalia
+mangal_node_6055,Manobidia nipponica,NA,Animalia
+mangal_node_6056,Megacampsomeris grossa,NA,Animalia
+mangal_node_6057,Megachile tsurugensis,species,Animalia
+mangal_node_6058,Meligethes,genus,Animalia
+mangal_node_6059,Myrmica,genus,Animalia
+mangal_node_6060,Panorpa trizonata,species,Animalia
+mangal_node_6061,Paragus quadrifasciatus,species,Animalia
+mangal_node_6062,Pidonia puziloi,species,Animalia
+mangal_node_6063,Pieris melete,species,Animalia
+mangal_node_6064,Platycheirus clypeatus,species,Animalia
+mangal_node_6065,Polytremis pellucida,species,Animalia
+mangal_node_6066,Popillia japonica,species,Animalia
+mangal_node_6067,Prothemus ciusianus,NA,Animalia
+mangal_node_6068,Eupeodes lapponicus,species,Animalia
+mangal_node_6069,Urophora sachalinensis,species,Animalia
+mangal_node_6070,Calliphora grahami,species,Animalia
+mangal_node_6071,Allobaccha apicalis,species,Animalia
+mangal_node_6072,Allobaccha,genus,Animalia
+mangal_node_6073,Ampelophaga rubiginosa,species,Animalia
+mangal_node_6074,Anaspis,genus,Animalia
+mangal_node_6075,Andrena benefica,species,Animalia
+mangal_node_6076,Andrena halictoides,species,Animalia
+mangal_node_6077,Andrena hikosana,species,Animalia
+mangal_node_6078,Andrena okabei,species,Animalia
+mangal_node_6079,Andrena prostomias,species,Animalia
+mangal_node_6080,Anechura japonica,species,Animalia
+mangal_node_6081,Anomala octiescostata,species,Animalia
+mangal_node_6082,Apoderus erythrogaster,species,Animalia
+mangal_node_6083,Argyronome ruslana,species,Animalia
+mangal_node_6084,Athousius,NA,Animalia
+mangal_node_6085,Baccha maculata,species,Animalia
+mangal_node_6086,Balataea gracilis,species,Animalia
+mangal_node_6087,Bibio aneuretus,species,Animalia
+mangal_node_6088,Bibio simulans,species,Animalia
+mangal_node_6089,Campiglossa hirayamae,species,Animalia
+mangal_node_6090,Campsomeriella annulata,NA,Animalia
+mangal_node_6091,Ceratina iwatai,species,Animalia
+mangal_node_6092,Chrysomela vigintipunctata,NA,Animalia
+mangal_node_6093,Colletes perforator,species,Animalia
+mangal_node_6094,Copromyza,genus,Animalia
+mangal_node_6095,Dideoides coquilletti,species,Animalia
+mangal_node_6096,Dinoptera minuta,species,Animalia
+mangal_node_6097,Ectinohoplia obducta,species,Animalia
+mangal_node_6098,Eupeodes aino,species,Animalia
+mangal_node_6099,Cetonia pilifera,species,Animalia
+mangal_node_6100,Eumea,genus,Animalia
+mangal_node_6101,Eumerus,genus,Animalia
+mangal_node_6102,Eurychaeta,genus,Animalia
+mangal_node_6103,Exosoma flaviventre,NA,Animalia
+mangal_node_6104,Fischeria,genus,Animalia
+mangal_node_6105,Coptotermes gambrinus,species,Animalia
+mangal_node_6106,Ichneumon,genus,Animalia
+mangal_node_6107,Ivela auripes,species,Animalia
+mangal_node_6108,Lasioglossum baleicum,species,Animalia
+mangal_node_6109,Lasioglossum occidens,species,Animalia
+mangal_node_6110,Linnaemya,genus,Animalia
+mangal_node_6111,Liriomyza,genus,Animalia
+mangal_node_6112,Macroglossum bombylans,species,Animalia
+mangal_node_6113,Macroglossum,genus,Animalia
+mangal_node_6114,Macrolagria robusticeps,NA,Animalia
+mangal_node_6115,Phengaris teleius,NA,Animalia
+mangal_node_6116,Megachile japonica,species,Animalia
+mangal_node_6117,Megachile remota,species,Animalia
+mangal_node_6118,Meigenia,genus,Animalia
+mangal_node_6119,Minois dryas,NA,Animalia
+mangal_node_6120,Neoitamus angusticornis,species,Animalia
+mangal_node_6121,Nemophora umbripennis,species,Animalia
+mangal_node_6122,Neope niphonica,NA,Animalia
+mangal_node_6123,Neptis sappho,species,Animalia
+mangal_node_6124,Nomada asozuana,species,Animalia
+mangal_node_6125,Nomada japonica,species,Animalia
+mangal_node_6127,Papilio bianor,species,Animalia
+mangal_node_6128,Phebellia,genus,Animalia
+mangal_node_6129,Phyllopertha diversa,species,Animalia
+mangal_node_6130,Phytobius,genus,Animalia
+mangal_node_6131,Pipunculus,genus,Animalia
+mangal_node_6132,Prosena siberita,species,Animalia
+mangal_node_6133,Protichneumon,genus,Animalia
+mangal_node_6134,Ravinia,genus,Animalia
+mangal_node_6135,Rhinoncomimus,genus,Animalia
+mangal_node_6136,Rhogogaster,NA,Animalia
+mangal_node_6137,Scirpophaga,genus,Animalia
+mangal_node_6138,Sisyropa,genus,Animalia
+mangal_node_6139,Sympetrum depressiusculum,species,Animalia
+mangal_node_6140,Tachina,genus,Animalia
+mangal_node_6141,Tapinoma,genus,Animalia
+mangal_node_6142,Thoressa varia,species,Animalia
+mangal_node_6143,Trachys saundersi,species,Animalia
+mangal_node_6144,Trypherus niponicus,NA,Animalia
+mangal_node_6145,Vespa tropica,species,Animalia
+mangal_node_6146,Vibidia duodecimguttata,NA,Animalia
+mangal_node_6147,Volucella jeddona,species,Animalia
+mangal_node_6148,Vuilletus viridis,NA,Animalia
+mangal_node_6149,Zodion,genus,Animalia
+mangal_node_7204,Androsace septentrionalis,NA,Plantae
+mangal_node_7229,Anthidium emarginatum,NA,Animalia
+mangal_node_7241,Sericomyia flagrans,NA,Animalia
+mangal_node_7242,Galium boreale,NA,Plantae
+mangal_node_7252,Lomatium dissectum,NA,Plantae
+mangal_node_7254,Ranunculus inamoenus,NA,Plantae
+mangal_node_7255,Mahonia repens,NA,Plantae
+mangal_node_7258,Chrysis coerulans,NA,Animalia
+mangal_node_7265,Fragaria virginiana,NA,Plantae
+mangal_node_7271,Castilleja septentrionalis,NA,Plantae
+mangal_node_7275,Bombus balteatus,NA,Animalia
+mangal_node_7276,Sphex,NA,Animalia
+mangal_node_7277,Colias alexandra,NA,Animalia
+mangal_node_7278,Gentiana parryi,NA,Plantae
+mangal_node_7279,Amelanchier pumila,NA,Plantae
+mangal_node_7280,Platycheirus kelloggi,NA,Animalia
+mangal_node_7281,Halictus virgatellus,NA,Animalia
+mangal_node_7282,Phormia,NA,Animalia
+mangal_node_7284,Coenonympha ochracea,NA,Animalia
+mangal_node_7285,Megachile frigida,NA,Animalia
+mangal_node_7286,Phacelia heterophylla,NA,Plantae
+mangal_node_7287,Lycaena cupreus,NA,Animalia
+mangal_node_7288,Osmia tristella,NA,Animalia
+mangal_node_7289,Bombus mixtus,NA,Animalia
+mangal_node_7290,Melissodes confusus,NA,Animalia
+mangal_node_7291,Colletes nigrifrons,NA,Animalia
+mangal_node_7292,Linum lewisii,NA,Plantae
+mangal_node_7293,Polygonia zephyrus,NA,Animalia

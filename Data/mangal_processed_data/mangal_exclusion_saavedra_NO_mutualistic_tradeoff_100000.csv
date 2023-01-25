@@ -1,0 +1,1735 @@
+species,network_id,prob_excl_saavedra
+Apis mellifera,mangal_929,0.39647
+Centris,mangal_929,0.42557
+Centris aenea,mangal_929,0.29616
+Centris caxiensis,mangal_929,0.33148999999999995
+Centris flavifrons,mangal_929,0.35616000000000003
+Centris fuscata,mangal_929,0.29691999999999996
+Centris obsoleta,mangal_929,0.44121
+Centris tarsata,mangal_929,0.32819
+Centris trigonoides,mangal_929,0.40905
+Epicharis,mangal_929,0.40952999999999995
+Xylocopa,mangal_929,0.42618999999999996
+Xylocopa grisescens,mangal_929,0.44245
+Banisteriopsis muricata,mangal_929,0.29956000000000005
+Banisteriopsis schizoptera,mangal_929,0.38788
+Banisteriopsis stellaris,mangal_929,0.38858000000000004
+Byrsonima gardnerana,mangal_929,0.36285999999999996
+Carolus chasei,mangal_929,0.38837
+Dicella bracteosa,mangal_929,0.37309000000000003
+Diplopterys pubipetala,mangal_929,0.33052000000000004
+Heteropterys,mangal_929,0.32806
+Janusia anisandra,mangal_929,0.40373000000000003
+Stigmaphyllon auriculatum,mangal_929,0.39159999999999995
+Stigmaphyllon ciliatum,mangal_929,0.40591
+Stigmaphyllon paralias,mangal_929,0.42215
+Allograpta exotica,mangal_1384,0.38444
+Calliopsis scutellaris,mangal_1384,0.43945999999999996
+Eupeodes fumipennis,mangal_1384,0.41291999999999995
+Eupeodes volucris,mangal_1384,0.43835999999999997
+Halictus ligatus,mangal_1384,0.41607000000000005
+Helophilus latifrons,mangal_1384,0.41367
+Lasioglossum diversopunctatum,mangal_1384,0.41533
+Melissodes agilis,mangal_1384,0.41406
+Melissodes robustior,mangal_1384,0.41478000000000004
+Sphaerophoria contigua,mangal_1384,0.41403999999999996
+Syritta pipiens,mangal_1384,0.38695
+Toxomerus marginatus,mangal_1384,0.41455
+Eriogonum fasciculatum,mangal_1384,0.24712
+Heliotropium curassavicum,mangal_1384,0.40098999999999996
+Heteromeles arbutifolia,mangal_1384,0.43257
+Sambucus mexicana,mangal_1384,0.37627999999999995
+Allograpta exotica,mangal_1388,0.42233
+Cheilosia aenea,mangal_1388,0.42178000000000004
+Eupeodes fumipennis,mangal_1388,0.39964
+Eupeodes volucris,mangal_1388,0.42235
+Halictus ligatus,mangal_1388,0.38956
+Halictus tripartitus,mangal_1388,0.39225
+Helophilus latifrons,mangal_1388,0.41877
+Lasioglossum incompletum,mangal_1388,0.37289000000000005
+Lasioglossum sisymbrii,mangal_1388,0.44565
+Megachile onobrychidis,mangal_1388,0.42266000000000004
+Melissodes lupina,mangal_1388,0.43691
+Sphaerophoria contigua,mangal_1388,0.41994
+Sphaerophoria sulphuripes,mangal_1388,0.39393999999999996
+Brassica,mangal_1388,0.40906
+Convolvulus arvensis,mangal_1388,0.23423000000000005
+Helminthotheca echioides,mangal_1388,0.33681000000000005
+Rosa californica,mangal_1388,0.43167
+Andrena cerasifolii,mangal_1387,0.39110999999999996
+Ceratina acantha,mangal_1387,0.42574
+Eupeodes fumipennis,mangal_1387,0.35007999999999995
+Eupeodes volucris,mangal_1387,0.42232000000000003
+Halictus tripartitus,mangal_1387,0.42789999999999995
+Helophilus latifrons,mangal_1387,0.42274
+Lasioglossum incompletum,mangal_1387,0.39747
+Platycheirus stegnus,mangal_1387,0.42423
+Scaeva pyrastri,mangal_1387,0.36028000000000004
+Sphaerophoria sulphuripes,mangal_1387,0.41959
+Syrphus opinator,mangal_1387,0.42156000000000005
+Toxomerus marginatus,mangal_1387,0.42327000000000004
+Brassica,mangal_1387,0.31762
+Convolvulus arvensis,mangal_1387,0.34436
+Helminthotheca echioides,mangal_1387,0.42627000000000004
+Heteromeles arbutifolia,mangal_1387,0.3297
+Rhamnus californica,mangal_1387,0.38715
+Sambucus mexicana,mangal_1387,0.38378999999999996
+Ceratina dallatorreana,mangal_1361,0.43471000000000004
+Eupeodes fumipennis,mangal_1361,0.42193
+Halictus ligatus,mangal_1361,0.39151
+Halictus tripartitus,mangal_1361,0.38653000000000004
+Lasioglossum incompletum,mangal_1361,0.36066
+Megachile apicalis,mangal_1361,0.41717000000000004
+Paragus haemorrhous,mangal_1361,0.41830999999999996
+Scaeva pyrastri,mangal_1361,0.41618
+Sphaerophoria contigua,mangal_1361,0.41651000000000005
+Sphaerophoria sulphuripes,mangal_1361,0.41913
+Toxomerus marginatus,mangal_1361,0.43876000000000004
+Brassica,mangal_1361,0.24953000000000003
+Centaurea solstitialis,mangal_1361,0.3974
+Convolvulus arvensis,mangal_1361,0.35109
+Allograpta exotica,mangal_1389,0.42922000000000005
+Allograpta obliqua,mangal_1389,0.44028999999999996
+Andrena candida,mangal_1389,0.44530000000000003
+Ceratina dallatorreana,mangal_1389,0.43548
+Ceratina nanula,mangal_1389,0.43072
+Cheilosia aenea,mangal_1389,0.40059
+Diadasia enavata,mangal_1389,0.43696
+Eupeodes fumipennis,mangal_1389,0.44203000000000003
+Halictus ligatus,mangal_1389,0.33962000000000003
+Halictus tripartitus,mangal_1389,0.37692000000000003
+Lasioglossum incompletum,mangal_1389,0.31584999999999996
+Lasioglossum megastictum,mangal_1389,0.42913
+Megachile apicalis,mangal_1389,0.41213
+Melissodes agilis,mangal_1389,0.43316
+Melissodes lupina,mangal_1389,0.40689
+Paragus haemorrhous,mangal_1389,0.33953
+Platycheirus stegnus,mangal_1389,0.44384
+Sphaerophoria sulphuripes,mangal_1389,0.42900000000000005
+Syritta pipiens,mangal_1389,0.44166000000000005
+Toxomerus marginatus,mangal_1389,0.43478000000000006
+Atriplex lentiformis,mangal_1389,0.42222000000000004
+Baccharis salicifolia,mangal_1389,0.41518
+Brassica,mangal_1389,0.42513
+Centaurea solstitialis,mangal_1389,0.30940999999999996
+Convolvulus arvensis,mangal_1389,0.26839
+Eriogonum fasciculatum,mangal_1389,0.33440000000000003
+Helminthotheca echioides,mangal_1389,0.35324
+Heteromeles arbutifolia,mangal_1389,0.38607
+Lactuca serriola,mangal_1389,0.37116000000000005
+Sambucus mexicana,mangal_1389,0.38859999999999995
+Allograpta obliqua,mangal_1407,0.41249
+Cheilosia aenea,mangal_1407,0.41327
+Eupeodes fumipennis,mangal_1407,0.43239000000000005
+Halictus ligatus,mangal_1407,0.41171
+Lasioglossum incompletum,mangal_1407,0.38177000000000005
+Platycheirus stegnus,mangal_1407,0.43174
+Toxomerus marginatus,mangal_1407,0.41113
+Brassica,mangal_1407,0.42257999999999996
+Convolvulus arvensis,mangal_1407,0.30400000000000005
+Sambucus mexicana,mangal_1407,0.40176
+Ceratina arizonensis,mangal_1321,0.43182
+Ceratina dallatorreana,mangal_1321,0.42911999999999995
+Ceratina nanula,mangal_1321,0.35538000000000003
+Ceratina timberlakei,mangal_1321,0.44550999999999996
+Eristalis stipator,mangal_1321,0.4294
+Eupeodes fumipennis,mangal_1321,0.42567
+Eupeodes volucris,mangal_1321,0.43394999999999995
+Halictus ligatus,mangal_1321,0.43138
+Halictus tripartitus,mangal_1321,0.37446
+Helophilus latifrons,mangal_1321,0.38141
+Lasioglossum incompletum,mangal_1321,0.34099
+Melissodes lupina,mangal_1321,0.43378000000000005
+Platycheirus stegnus,mangal_1321,0.43384
+Sphaerophoria contigua,mangal_1321,0.43355
+Sphaerophoria sulphuripes,mangal_1321,0.43121
+Syritta pipiens,mangal_1321,0.43099
+Toxomerus marginatus,mangal_1321,0.36536
+Toxomerus occidentalis,mangal_1321,0.43167
+Brassica,mangal_1321,0.29947999999999997
+Carduus pycnocephalus,mangal_1321,0.42669999999999997
+Convolvulus arvensis,mangal_1321,0.26661999999999997
+Datura wrightii,mangal_1321,0.37354
+Helminthotheca echioides,mangal_1321,0.42147
+Lepidium latifolium,mangal_1321,0.28844000000000003
+Rubus rigidus,mangal_1321,0.43145999999999995
+Ceratina dallatorreana,mangal_1393,0.43148
+Diadasia enavata,mangal_1393,0.41008
+Eristalis stipator,mangal_1393,0.42661000000000004
+Eupeodes volucris,mangal_1393,0.42749000000000004
+Halictus ligatus,mangal_1393,0.37038000000000004
+Halictus tripartitus,mangal_1393,0.33440000000000003
+Helophilus latifrons,mangal_1393,0.39434
+Lasioglossum diversopunctatum,mangal_1393,0.39008
+Lasioglossum incompletum,mangal_1393,0.36228000000000005
+Megachile apicalis,mangal_1393,0.42837000000000003
+Melissodes lupina,mangal_1393,0.4302
+Paragus haemorrhous,mangal_1393,0.42716
+Platycheirus stegnus,mangal_1393,0.42604
+Sphaerophoria sulphuripes,mangal_1393,0.44442000000000004
+Toxomerus marginatus,mangal_1393,0.39907000000000004
+Toxomerus occidentalis,mangal_1393,0.44221
+Brassica,mangal_1393,0.29107000000000005
+Centaurea solstitialis,mangal_1393,0.32965999999999995
+Convolvulus arvensis,mangal_1393,0.3196
+Grindelia camporum,mangal_1393,0.39809000000000005
+Helminthotheca echioides,mangal_1393,0.32304999999999995
+Raphanus raphanistrum,mangal_1393,0.39931000000000005
+Trifolium pratense,mangal_1393,0.43294
+Diadasia consociata,mangal_1345,0.42344000000000004
+Eupeodes fumipennis,mangal_1345,0.41791
+Eupeodes volucris,mangal_1345,0.41656000000000004
+Halictus tripartitus,mangal_1345,0.42352999999999996
+Lasioglossum diversopunctatum,mangal_1345,0.42159
+Lasioglossum incompletum,mangal_1345,0.34385
+Platycheirus stegnus,mangal_1345,0.41677
+Sphaerophoria contigua,mangal_1345,0.41503999999999996
+Syrphus opinator,mangal_1345,0.41816
+Toxomerus marginatus,mangal_1345,0.42322000000000004
+Brassica,mangal_1345,0.28888
+Convolvulus arvensis,mangal_1345,0.31033
+Medicago sativa,mangal_1345,0.41690000000000005
+Eupeodes fumipennis,mangal_1402,0.34486000000000006
+Eupeodes volucris,mangal_1402,0.37934999999999997
+Megachile angelarum,mangal_1402,0.42172
+Paragus haemorrhous,mangal_1402,0.38858000000000004
+Platycheirus stegnus,mangal_1402,0.41103999999999996
+Brassica,mangal_1402,0.34014
+Ceanothus,mangal_1402,0.42447
+Raphanus raphanistrum,mangal_1402,0.38721000000000005
+Rhamnus californica,mangal_1402,0.41525
+Rosa californica,mangal_1402,0.41030999999999995
+Sambucus mexicana,mangal_1402,0.42208999999999997
+Allograpta exotica,mangal_1346,0.42364999999999997
+Eupeodes fumipennis,mangal_1346,0.41859
+Halictus ligatus,mangal_1346,0.39918
+Halictus tripartitus,mangal_1346,0.35383
+Hylaeus mesillae,mangal_1346,0.38783999999999996
+Lasioglossum diatretum,mangal_1346,0.41717000000000004
+Lasioglossum incompletum,mangal_1346,0.35346999999999995
+Platycheirus stegnus,mangal_1346,0.4182
+Syrphus opinator,mangal_1346,0.41672
+Toxomerus marginatus,mangal_1346,0.39742999999999995
+Brassica,mangal_1346,0.27588999999999997
+Convolvulus arvensis,mangal_1346,0.31613
+Lepidium latifolium,mangal_1346,0.39854999999999996
+Malvella leprosa,mangal_1346,0.42445
+Melilotus albus,mangal_1346,0.43178000000000005
+Sonchus,mangal_1346,0.42381
+Allograpta obliqua,mangal_1365,0.42277
+Lasioglossum incompletum,mangal_1365,0.30437000000000003
+Toxomerus marginatus,mangal_1365,0.43593000000000004
+Brassica,mangal_1365,0.41189
+Convolvulus arvensis,mangal_1365,0.38049
+Helminthotheca echioides,mangal_1365,0.41412000000000004
+Polygonum arenastrum,mangal_1365,0.41255
+Solanum americanum,mangal_1365,0.4113
+Tribulus terrestris,mangal_1365,0.44020000000000004
+Allograpta exotica,mangal_1404,0.41923
+Ceratina dallatorreana,mangal_1404,0.44171000000000005
+Ceratina nanula,mangal_1404,0.41757
+Eristalis tenax,mangal_1404,0.41656000000000004
+Eupeodes fumipennis,mangal_1404,0.41842999999999997
+Eupeodes volucris,mangal_1404,0.41791
+Halictus ligatus,mangal_1404,0.39729000000000003
+Halictus tripartitus,mangal_1404,0.3792
+Hylaeus rudbeckiae,mangal_1404,0.41991999999999996
+Lasioglossum diversopunctatum,mangal_1404,0.41872
+Lasioglossum incompletum,mangal_1404,0.37621000000000004
+Paragus haemorrhous,mangal_1404,0.41742999999999997
+Sphaerophoria contigua,mangal_1404,0.41888000000000003
+Sphaerophoria sulphuripes,mangal_1404,0.41747999999999996
+Syritta flaviventris,mangal_1404,0.41939000000000004
+Syritta pipiens,mangal_1404,0.41639000000000004
+Toxomerus marginatus,mangal_1404,0.41844000000000003
+Brassica,mangal_1404,0.18759000000000003
+Convolvulus arvensis,mangal_1404,0.38410999999999995
+Helminthotheca echioides,mangal_1404,0.42669
+Lepidium latifolium,mangal_1404,0.42698
+Malvella leprosa,mangal_1404,0.42510000000000003
+Ceratina dallatorreana,mangal_1323,0.39173
+Ceratina nanula,mangal_1323,0.43331
+Eristalis arbustorum,mangal_1323,0.42767999999999995
+Eupeodes volucris,mangal_1323,0.42832000000000003
+Halictus tripartitus,mangal_1323,0.39209000000000005
+Lasioglossum incompletum,mangal_1323,0.39135
+Syritta pipiens,mangal_1323,0.42864
+Toxomerus marginatus,mangal_1323,0.37185
+Brassica,mangal_1323,0.29046000000000005
+Convolvulus arvensis,mangal_1323,0.32776000000000005
+Lepidium latifolium,mangal_1323,0.4314
+Bombus californicus,mangal_1372,0.41585000000000005
+Diadasia enavata,mangal_1372,0.38473999999999997
+Halictus ligatus,mangal_1372,0.38439
+Lasioglossum incompletum,mangal_1372,0.43566000000000005
+Megachile apicalis,mangal_1372,0.41657
+Megachile onobrychidis,mangal_1372,0.41617000000000004
+Melissodes lupina,mangal_1372,0.38517
+Paragus haemorrhous,mangal_1372,0.44067999999999996
+Centaurea solstitialis,mangal_1372,0.28964
+Helminthotheca echioides,mangal_1372,0.39415999999999995
+Lactuca serriola,mangal_1372,0.39958000000000005
+Polygonum arenastrum,mangal_1372,0.4357
+Allograpta exotica,mangal_1403,0.39585000000000004
+Bombus vosnesenskii,mangal_1403,0.44018
+Ceratina dallatorreana,mangal_1403,0.42051000000000005
+Diadasia consociata,mangal_1403,0.44743999999999995
+Halictus ligatus,mangal_1403,0.41981
+Halictus tripartitus,mangal_1403,0.37150000000000005
+Hylaeus mesillae,mangal_1403,0.39137999999999995
+Lasioglossum incompletum,mangal_1403,0.37790999999999997
+Melissodes lupina,mangal_1403,0.41857
+Paragus haemorrhous,mangal_1403,0.39283
+Platycheirus stegnus,mangal_1403,0.4163
+Sphaerophoria contigua,mangal_1403,0.41764999999999997
+Syritta flaviventris,mangal_1403,0.42069
+Syritta pipiens,mangal_1403,0.41745
+Syrphus opinator,mangal_1403,0.42056000000000004
+Toxomerus marginatus,mangal_1403,0.43967
+Brassica,mangal_1403,0.21192999999999995
+Chenopodium album,mangal_1403,0.40146000000000004
+Convolvulus arvensis,mangal_1403,0.40274
+Lepidium latifolium,mangal_1403,0.34014999999999995
+Malvella leprosa,mangal_1403,0.42904
+Andrena chlorogaster,mangal_1369,0.41157999999999995
+Halictus tripartitus,mangal_1369,0.41325
+Lasioglossum incompletum,mangal_1369,0.32267
+Megachile angelarum,mangal_1369,0.43152999999999997
+Megachile apicalis,mangal_1369,0.43167999999999995
+Paragus haemorrhous,mangal_1369,0.43318999999999996
+Platycheirus stegnus,mangal_1369,0.41490000000000005
+Brassica,mangal_1369,0.43128999999999995
+Convolvulus arvensis,mangal_1369,0.41345
+Helminthotheca echioides,mangal_1369,0.41076999999999997
+Lotus corniculatus,mangal_1369,0.39780000000000004
+Salix,mangal_1369,0.32006999999999997
+Sonchus,mangal_1369,0.41289
+Agapostemon texanus,mangal_1391,0.43923
+Allograpta exotica,mangal_1391,0.39283
+Ceratina dallatorreana,mangal_1391,0.41823999999999995
+Eupeodes fumipennis,mangal_1391,0.41988000000000003
+Halictus ligatus,mangal_1391,0.31787
+Halictus tripartitus,mangal_1391,0.37331000000000003
+Lasioglossum incompletum,mangal_1391,0.36946999999999997
+Megachile apicalis,mangal_1391,0.43596
+Megachile onobrychidis,mangal_1391,0.42242
+Melissodes lupina,mangal_1391,0.38993999999999995
+Platycheirus stegnus,mangal_1391,0.43501
+Toxomerus marginatus,mangal_1391,0.43632000000000004
+Centaurea solstitialis,mangal_1391,0.37385999999999997
+Convolvulus arvensis,mangal_1391,0.26371
+Helminthotheca echioides,mangal_1391,0.36814
+Kickxia elatine,mangal_1391,0.4284
+Melilotus albus,mangal_1391,0.39692000000000005
+Persicaria lapathifolia lapathifolia,mangal_1391,0.37710999999999995
+Raphanus raphanistrum,mangal_1391,0.39605
+Halictus ligatus,mangal_1343,0.39671999999999996
+Halictus tripartitus,mangal_1343,0.39244999999999997
+Lasioglossum incompletum,mangal_1343,0.34543
+Megachile apicalis,mangal_1343,0.43999999999999995
+Melissodes lupina,mangal_1343,0.41971
+Osmia,mangal_1343,0.4246
+Paragus haemorrhous,mangal_1343,0.39597000000000004
+Sphaerophoria sulphuripes,mangal_1343,0.42484
+Toxomerus marginatus,mangal_1343,0.36912
+Brassica,mangal_1343,0.26785000000000003
+Centaurea solstitialis,mangal_1343,0.40642999999999996
+Convolvulus arvensis,mangal_1343,0.37207999999999997
+Lepidium latifolium,mangal_1343,0.40119000000000005
+Melilotus albus,mangal_1343,0.40168000000000004
+Eristalis arbustorum,mangal_1342,0.43367
+Eristalis stipator,mangal_1342,0.43177
+Eristalis tenax,mangal_1342,0.38754999999999995
+Eupeodes fumipennis,mangal_1342,0.42003999999999997
+Halictus ligatus,mangal_1342,0.42391999999999996
+Halictus tripartitus,mangal_1342,0.38904000000000005
+Helophilus latifrons,mangal_1342,0.42284999999999995
+Lasioglossum incompletum,mangal_1342,0.3709
+Melissodes lupina,mangal_1342,0.42184
+Platycheirus stegnus,mangal_1342,0.42151000000000005
+Sphaerophoria contigua,mangal_1342,0.42359
+Sphaerophoria sulphuripes,mangal_1342,0.39009000000000005
+Toxomerus marginatus,mangal_1342,0.4223
+Brassica,mangal_1342,0.31428999999999996
+Centaurea solstitialis,mangal_1342,0.4336
+Convolvulus arvensis,mangal_1342,0.24705
+Helminthotheca echioides,mangal_1342,0.43261000000000005
+Sonchus,mangal_1342,0.42752
+Cheilosia aenea,mangal_1309,0.43376000000000003
+Eristalis stipator,mangal_1309,0.41871
+Eristalis tenax,mangal_1309,0.39939
+Eupeodes fumipennis,mangal_1309,0.38061999999999996
+Eupeodes volucris,mangal_1309,0.42052
+Halictus ligatus,mangal_1309,0.41125
+Halictus tripartitus,mangal_1309,0.41011
+Helophilus latifrons,mangal_1309,0.41876
+Hylaeus mesillae,mangal_1309,0.39537999999999995
+Lasioglossum incompletum,mangal_1309,0.36245000000000005
+Melissodes agilis,mangal_1309,0.43403
+Melissodes robustior,mangal_1309,0.43574
+Paragus haemorrhous,mangal_1309,0.39901
+Sphaerophoria pyrrhina,mangal_1309,0.37234
+Sphaerophoria sulphuripes,mangal_1309,0.44689999999999996
+Syritta flaviventris,mangal_1309,0.41871
+Syritta pipiens,mangal_1309,0.4195
+Syrphus opinator,mangal_1309,0.44514
+Toxomerus marginatus,mangal_1309,0.34377
+Tropidia quadrata,mangal_1309,0.42417000000000005
+Achillea millefolium,mangal_1309,0.42427000000000004
+Aster chilensis,mangal_1309,0.42616
+Baccharis salicifolia,mangal_1309,0.40532999999999997
+Brassica,mangal_1309,0.20931999999999995
+Carduus pycnocephalus,mangal_1309,0.42423
+Convolvulus arvensis,mangal_1309,0.35387
+Eriogonum fasciculatum,mangal_1309,0.3791
+Helminthotheca echioides,mangal_1309,0.30406
+Sambucus mexicana,mangal_1309,0.40883
+Ceratina dallatorreana,mangal_1299,0.41281
+Diadasia enavata,mangal_1299,0.4144
+Eristalis arbustorum,mangal_1299,0.41218
+Eupeodes fumipennis,mangal_1299,0.41328
+Eupeodes volucris,mangal_1299,0.41469
+Halictus ligatus,mangal_1299,0.38993
+Halictus tripartitus,mangal_1299,0.38917
+Helophilus latifrons,mangal_1299,0.41593
+Lasioglossum incompletum,mangal_1299,0.3658
+Megachile apicalis,mangal_1299,0.39005999999999996
+Megachile onobrychidis,mangal_1299,0.44133999999999995
+Melissodes lupina,mangal_1299,0.37193
+Sphaerophoria sulphuripes,mangal_1299,0.41398
+Sphecodes,mangal_1299,0.43445
+Syritta flaviventris,mangal_1299,0.41425999999999996
+Triepeolus,mangal_1299,0.41218
+Brassica,mangal_1299,0.21731
+Carduus pycnocephalus,mangal_1299,0.39975000000000005
+Centaurea solstitialis,mangal_1299,0.40381
+Convolvulus arvensis,mangal_1299,0.35985
+Helianthus annuus,mangal_1299,0.42301
+Medicago sativa,mangal_1299,0.43126
+Melilotus albus,mangal_1299,0.40102000000000004
+Silybum marianum,mangal_1299,0.42778000000000005
+Bombus californicus,mangal_1375,0.41618
+Bombus vosnesenskii,mangal_1375,0.35707
+Eupeodes fumipennis,mangal_1375,0.40178
+Halictus ligatus,mangal_1375,0.43006
+Halictus tripartitus,mangal_1375,0.28747999999999996
+Helophilus latifrons,mangal_1375,0.43542000000000003
+Hylaeus mesillae,mangal_1375,0.40564
+Hylaeus rudbeckiae,mangal_1375,0.4303
+Melissodes robustior,mangal_1375,0.43123999999999996
+Paragus haemorrhous,mangal_1375,0.34787999999999997
+Platycheirus stegnus,mangal_1375,0.37166
+Scaeva pyrastri,mangal_1375,0.37104000000000004
+Syrphus opinator,mangal_1375,0.42527000000000004
+Toxomerus marginatus,mangal_1375,0.43771000000000004
+Achillea millefolium,mangal_1375,0.42789999999999995
+Brassica,mangal_1375,0.30574
+Capsella bursa-pastoris,mangal_1375,0.39884
+Centaurea cyanus,mangal_1375,0.38732
+Convolvulus arvensis,mangal_1375,0.42034000000000005
+Eschscholzia californica,mangal_1375,0.31937000000000004
+Foeniculum vulgare,mangal_1375,0.35297999999999996
+Grindelia hirsutula,mangal_1375,0.42190000000000005
+Helminthotheca echioides,mangal_1375,0.35389000000000004
+Lotus corniculatus,mangal_1375,0.40742
+Phacelia californica,mangal_1375,0.40573000000000004
+Sonchus,mangal_1375,0.43191
+Trifolium pratense,mangal_1375,0.43613999999999997
+Andrena piperi,mangal_1337,0.41646000000000005
+Andrena scurra,mangal_1337,0.41686
+Ceratina arizonensis,mangal_1337,0.41612000000000005
+Eupeodes fumipennis,mangal_1337,0.41920999999999997
+Eupeodes volucris,mangal_1337,0.41749000000000003
+Halictus ligatus,mangal_1337,0.39376
+Halictus tripartitus,mangal_1337,0.39191
+Hylaeus mesillae,mangal_1337,0.41825999999999997
+Lasioglossum diversopunctatum,mangal_1337,0.4162
+Lasioglossum incompletum,mangal_1337,0.35209
+Megachile apicalis,mangal_1337,0.4436
+Megachile onobrychidis,mangal_1337,0.44306
+Platycheirus stegnus,mangal_1337,0.41784
+Syritta flaviventris,mangal_1337,0.4164
+Syrphus opinator,mangal_1337,0.41781999999999997
+Brassica,mangal_1337,0.20918000000000003
+Centaurea solstitialis,mangal_1337,0.41368000000000005
+Convolvulus arvensis,mangal_1337,0.39832999999999996
+Malva parviflora,mangal_1337,0.40047
+Rubus rigidus,mangal_1337,0.42503
+Allograpta exotica,mangal_1428,0.38105
+Allograpta obliqua,mangal_1428,0.42510000000000003
+Ceratina acantha,mangal_1428,0.40051000000000003
+Halictus tripartitus,mangal_1428,0.38097000000000003
+Helophilus latifrons,mangal_1428,0.42359
+Megachile apicalis,mangal_1428,0.42647999999999997
+Megachile onobrychidis,mangal_1428,0.42800000000000005
+Sphaerophoria contigua,mangal_1428,0.44340999999999997
+Sphaerophoria pyrrhina,mangal_1428,0.42162999999999995
+Syritta flaviventris,mangal_1428,0.42374
+Syritta pipiens,mangal_1428,0.42567
+Toxomerus marginatus,mangal_1428,0.38336000000000003
+Triepeolus timberlakei,mangal_1428,0.42452
+Brassica,mangal_1428,0.26822999999999997
+Carduus pycnocephalus,mangal_1428,0.42888000000000004
+Centaurea solstitialis,mangal_1428,0.29008999999999996
+Helminthotheca echioides,mangal_1428,0.42962999999999996
+Halictus tripartitus,mangal_1318,0.41486
+Lasioglossum incompletum,mangal_1318,0.37044
+Megachile angelarum,mangal_1318,0.43172999999999995
+Paragus haemorrhous,mangal_1318,0.42203
+Toxomerus marginatus,mangal_1318,0.41223
+Convolvulus arvensis,mangal_1318,0.34469000000000005
+Lotus corniculatus,mangal_1318,0.43213
+Tribulus terrestris,mangal_1318,0.37999000000000005
+Eupeodes fumipennis,mangal_1305,0.41773000000000005
+Eupeodes volucris,mangal_1305,0.41545
+Halictus ligatus,mangal_1305,0.38813
+Halictus tripartitus,mangal_1305,0.42016
+Lasioglossum incompletum,mangal_1305,0.39093
+Megachile apicalis,mangal_1305,0.44372
+Platycheirus stegnus,mangal_1305,0.41717000000000004
+Syritta pipiens,mangal_1305,0.41866000000000003
+Syrphus opinator,mangal_1305,0.41628
+Brassica,mangal_1305,0.26361999999999997
+Carduus pycnocephalus,mangal_1305,0.43182
+Sonchus,mangal_1305,0.39939
+Cheilosia aenea,mangal_1301,0.44340999999999997
+Copestylum mexicanum,mangal_1301,0.43788000000000005
+Eristalis stipator,mangal_1301,0.42303999999999997
+Eupeodes fumipennis,mangal_1301,0.42510000000000003
+Halictus ligatus,mangal_1301,0.39534
+Halictus tripartitus,mangal_1301,0.39675000000000005
+Helophilus latifrons,mangal_1301,0.42347999999999997
+Lasioglossum diversopunctatum,mangal_1301,0.42196
+Lasioglossum incompletum,mangal_1301,0.36922999999999995
+Lasioglossum punctatoventre,mangal_1301,0.44738999999999995
+Megachile apicalis,mangal_1301,0.42306999999999995
+Megachile fidelis,mangal_1301,0.44282
+Melissodes lupina,mangal_1301,0.41868000000000005
+Melissodes robustior,mangal_1301,0.4377
+Sphaerophoria contigua,mangal_1301,0.42289
+Syritta flaviventris,mangal_1301,0.42286
+Syritta pipiens,mangal_1301,0.42737000000000003
+Toxomerus marginatus,mangal_1301,0.36846999999999996
+Brassica,mangal_1301,0.21472999999999998
+Convolvulus arvensis,mangal_1301,0.35858
+Helminthotheca echioides,mangal_1301,0.32382
+Silybum marianum,mangal_1301,0.42884999999999995
+Ceratina dallatorreana,mangal_1322,0.36038000000000003
+Ceratina nanula,mangal_1322,0.41724000000000006
+Eristalis arbustorum,mangal_1322,0.43128999999999995
+Eristalis stipator,mangal_1322,0.41690000000000005
+Eupeodes fumipennis,mangal_1322,0.39588999999999996
+Eupeodes volucris,mangal_1322,0.42735
+Halictus tripartitus,mangal_1322,0.34992999999999996
+Helophilus latifrons,mangal_1322,0.4184
+Lasioglossum incompletum,mangal_1322,0.39170000000000005
+Paragus haemorrhous,mangal_1322,0.39342999999999995
+Sphaerophoria pyrrhina,mangal_1322,0.42873000000000006
+Sphaerophoria sulphuripes,mangal_1322,0.42945999999999995
+Syritta pipiens,mangal_1322,0.42950999999999995
+Toxomerus marginatus,mangal_1322,0.39398
+Brassica,mangal_1322,0.32006
+Carduus pycnocephalus,mangal_1322,0.42917000000000005
+Centaurea solstitialis,mangal_1322,0.42491999999999996
+Convolvulus arvensis,mangal_1322,0.26003
+Helminthotheca echioides,mangal_1322,0.39883
+Lepidium latifolium,mangal_1322,0.32918000000000003
+Eupeodes fumipennis,mangal_1385,0.43801
+Halictus ligatus,mangal_1385,0.3769
+Halictus tripartitus,mangal_1385,0.29956000000000005
+Hylaeus conspicuus,mangal_1385,0.42600000000000005
+Lasioglossum diversopunctatum,mangal_1385,0.43455
+Lasioglossum incompletum,mangal_1385,0.35267000000000004
+Megachile apicalis,mangal_1385,0.40664999999999996
+Megachile coquilletti,mangal_1385,0.39774
+Melissodes lupina,mangal_1385,0.43806
+Scaeva pyrastri,mangal_1385,0.43649000000000004
+Sphaerophoria contigua,mangal_1385,0.44021
+Sphecodes,mangal_1385,0.42645999999999995
+Syritta pipiens,mangal_1385,0.42713999999999996
+Syrphus opinator,mangal_1385,0.44064000000000003
+Triepeolus,mangal_1385,0.42886
+Asclepias fascicularis,mangal_1385,0.34363999999999995
+Brassica,mangal_1385,0.37566999999999995
+Centaurea solstitialis,mangal_1385,0.36822
+Convolvulus arvensis,mangal_1385,0.34168
+Eriogonum fasciculatum,mangal_1385,0.28971
+Grindelia hirsutula,mangal_1385,0.40581999999999996
+Helminthotheca echioides,mangal_1385,0.38936000000000004
+Sambucus mexicana,mangal_1385,0.41125999999999996
+Ceratina acantha,mangal_1324,0.42534000000000005
+Ceratina nanula,mangal_1324,0.42742
+Eristalis arbustorum,mangal_1324,0.4255
+Eristalis stipator,mangal_1324,0.42644000000000004
+Eristalis tenax,mangal_1324,0.42867999999999995
+Eucera actuosa,mangal_1324,0.44160999999999995
+Halictus tripartitus,mangal_1324,0.33420000000000005
+Helophilus latifrons,mangal_1324,0.37885
+Lasioglossum incompletum,mangal_1324,0.37338000000000005
+Paragus haemorrhous,mangal_1324,0.42752
+Platycheirus stegnus,mangal_1324,0.44103000000000003
+Scaeva pyrastri,mangal_1324,0.44175
+Toxomerus marginatus,mangal_1324,0.33309
+Brassica,mangal_1324,0.25751
+Carduus pycnocephalus,mangal_1324,0.43640999999999996
+Convolvulus arvensis,mangal_1324,0.35231999999999997
+Erodium cicutarium,mangal_1324,0.37734
+Helminthotheca echioides,mangal_1324,0.37477000000000005
+Lepidium latifolium,mangal_1324,0.40353000000000006
+Silybum marianum,mangal_1324,0.40867
+Halictus tripartitus,mangal_1295,0.38609000000000004
+Lasioglossum incompletum,mangal_1295,0.42506
+Toxomerus marginatus,mangal_1295,0.38600999999999996
+Convolvulus arvensis,mangal_1295,0.35861
+Croton setigerus,mangal_1295,0.39057
+Allograpta exotica,mangal_1327,0.38332999999999995
+Ceratina dallatorreana,mangal_1327,0.43154000000000003
+Ceratina nanula,mangal_1327,0.43394999999999995
+Eupeodes fumipennis,mangal_1327,0.42289
+Eupeodes volucris,mangal_1327,0.37572000000000005
+Halictus tripartitus,mangal_1327,0.43367
+Helophilus latifrons,mangal_1327,0.41896
+Lasioglossum incompletum,mangal_1327,0.43149000000000004
+Melissodes lupina,mangal_1327,0.41849000000000003
+Paragus haemorrhous,mangal_1327,0.35968
+Platycheirus stegnus,mangal_1327,0.41895000000000004
+Scaeva pyrastri,mangal_1327,0.4215
+Sphaerophoria sulphuripes,mangal_1327,0.42334000000000005
+Syritta flaviventris,mangal_1327,0.39309000000000005
+Syritta pipiens,mangal_1327,0.42011
+Toxomerus marginatus,mangal_1327,0.43400000000000005
+Brassica,mangal_1327,0.22884000000000004
+Convolvulus arvensis,mangal_1327,0.29905000000000004
+Lepidium latifolium,mangal_1327,0.37361
+Rubus rigidus,mangal_1327,0.42949000000000004
+Allograpta exotica,mangal_1376,0.43383000000000005
+Bombus californicus,mangal_1376,0.43711
+Bombus melanopygus,mangal_1376,0.42489
+Bombus vosnesenskii,mangal_1376,0.3167
+Ceratina arizonensis,mangal_1376,0.44362999999999997
+Ceratina dallatorreana,mangal_1376,0.44055
+Ceriana tridens,mangal_1376,0.43720000000000003
+Eristalis arbustorum,mangal_1376,0.43823
+Eupeodes fumipennis,mangal_1376,0.43462999999999996
+Eupeodes volucris,mangal_1376,0.41396999999999995
+Halictus ligatus,mangal_1376,0.43945
+Halictus tripartitus,mangal_1376,0.28534000000000004
+Hylaeus mesillae,mangal_1376,0.41474999999999995
+Lasioglossum incompletum,mangal_1376,0.39520999999999995
+Megachile angelarum,mangal_1376,0.43898000000000004
+Megachile apicalis,mangal_1376,0.44481000000000004
+Megachile gentilis,mangal_1376,0.43737000000000004
+Megachile montivaga,mangal_1376,0.44184999999999997
+Megachile onobrychidis,mangal_1376,0.44345
+Melissodes agilis,mangal_1376,0.39754
+Melissodes robustior,mangal_1376,0.43643
+Nomada,mangal_1376,0.43882
+Osmia granulosa,mangal_1376,0.44391
+Paragus haemorrhous,mangal_1376,0.25982000000000005
+Sphaerophoria contigua,mangal_1376,0.43904
+Sphaerophoria pyrrhina,mangal_1376,0.43638999999999994
+Syritta flaviventris,mangal_1376,0.43959000000000004
+Syritta pipiens,mangal_1376,0.43957999999999997
+Syrphus opinator,mangal_1376,0.43643
+Toxomerus marginatus,mangal_1376,0.34394
+Achillea millefolium,mangal_1376,0.33131999999999995
+Alyssum,mangal_1376,0.38642
+Anthemis cotula,mangal_1376,0.35048999999999997
+Brassica,mangal_1376,0.30398000000000003
+Calendula officinalis,mangal_1376,0.40911
+Centaurea cyanus,mangal_1376,0.4165
+Eriogonum fasciculatum,mangal_1376,0.42528999999999995
+Eschscholzia californica,mangal_1376,0.36932
+Foeniculum vulgare,mangal_1376,0.33123
+Grindelia hirsutula,mangal_1376,0.38427
+Helminthotheca echioides,mangal_1376,0.32354000000000005
+Heteromeles arbutifolia,mangal_1376,0.41649
+Lobularia maritima,mangal_1376,0.39814000000000005
+Lotus corniculatus,mangal_1376,0.33125000000000004
+Melilotus officinalis,mangal_1376,0.42464999999999997
+Physalis philadelphica,mangal_1376,0.42406999999999995
+Polygonum arenastrum,mangal_1376,0.41752
+Raphanus raphanistrum,mangal_1376,0.33086000000000004
+Salvia,mangal_1376,0.39524000000000004
+Ceratina acantha,mangal_1325,0.42995000000000005
+Ceratina nanula,mangal_1325,0.42534000000000005
+Copestylum mexicanum,mangal_1325,0.42856000000000005
+Diadasia enavata,mangal_1325,0.39637999999999995
+Eupeodes fumipennis,mangal_1325,0.4293
+Halictus tripartitus,mangal_1325,0.30838
+Helophilus latifrons,mangal_1325,0.43091999999999997
+Megachile apicalis,mangal_1325,0.36509
+Megachile onobrychidis,mangal_1325,0.43264
+Melissodes lupina,mangal_1325,0.42769999999999997
+Paragus haemorrhous,mangal_1325,0.44315000000000004
+Toxomerus marginatus,mangal_1325,0.42911999999999995
+Brassica,mangal_1325,0.34009999999999996
+Centaurea solstitialis,mangal_1325,0.33796000000000004
+Convolvulus arvensis,mangal_1325,0.32809999999999995
+Helminthotheca echioides,mangal_1325,0.33903000000000005
+Malva neglecta,mangal_1325,0.43462999999999996
+Symphoricarpos mollis,mangal_1325,0.41679999999999995
+Eupeodes volucris,mangal_1319,0.37505
+Halictus tripartitus,mangal_1319,0.40907000000000004
+Lasioglossum incompletum,mangal_1319,0.40724000000000005
+Convolvulus arvensis,mangal_1319,0.37341
+Polygonum arenastrum,mangal_1319,0.40830999999999995
+Tribulus terrestris,mangal_1319,0.40952999999999995
+Ceratina acantha,mangal_1326,0.4206
+Ceratina arizonensis,mangal_1326,0.41991999999999996
+Ceratina dallatorreana,mangal_1326,0.44757
+Ceratina nanula,mangal_1326,0.37668
+Eupeodes fumipennis,mangal_1326,0.42108999999999996
+Eupeodes volucris,mangal_1326,0.42132000000000003
+Halictus tripartitus,mangal_1326,0.36106000000000005
+Helophilus latifrons,mangal_1326,0.39713
+Lasioglossum incompletum,mangal_1326,0.3982
+Paragus haemorrhous,mangal_1326,0.39752
+Platycheirus stegnus,mangal_1326,0.42300000000000004
+Scaeva pyrastri,mangal_1326,0.42212000000000005
+Sphaerophoria contigua,mangal_1326,0.42413999999999996
+Sphaerophoria pyrrhina,mangal_1326,0.42401999999999995
+Syritta flaviventris,mangal_1326,0.42290000000000005
+Syritta pipiens,mangal_1326,0.42249000000000003
+Toxomerus marginatus,mangal_1326,0.39627
+Brassica,mangal_1326,0.19172999999999996
+Centaurea solstitialis,mangal_1326,0.40946000000000005
+Convolvulus arvensis,mangal_1326,0.32959000000000005
+Medicago polymorpha,mangal_1326,0.42957999999999996
+Silybum marianum,mangal_1326,0.42866000000000004
+Eupeodes fumipennis,mangal_1307,0.4173
+Eupeodes volucris,mangal_1307,0.41386999999999996
+Halictus ligatus,mangal_1307,0.36028000000000004
+Halictus tripartitus,mangal_1307,0.38646
+Hylaeus mesillae,mangal_1307,0.44221
+Lasioglossum incompletum,mangal_1307,0.33529
+Melissodes lupina,mangal_1307,0.41740999999999995
+Paragus haemorrhous,mangal_1307,0.44140999999999997
+Platycheirus stegnus,mangal_1307,0.39453000000000005
+Scaeva pyrastri,mangal_1307,0.41623
+Sphaerophoria sulphuripes,mangal_1307,0.41559
+Syritta pipiens,mangal_1307,0.41551000000000005
+Syrphus opinator,mangal_1307,0.41657
+Toxomerus marginatus,mangal_1307,0.43389999999999995
+Triepeolus,mangal_1307,0.43499
+Baccharis salicifolia,mangal_1307,0.40947999999999996
+Brassica,mangal_1307,0.24139
+Carduus pycnocephalus,mangal_1307,0.42069999999999996
+Convolvulus arvensis,mangal_1307,0.34365
+Eschscholzia californica,mangal_1307,0.42787
+Grindelia hirsutula,mangal_1307,0.39032
+Helminthotheca echioides,mangal_1307,0.36878999999999995
+Allograpta exotica,mangal_1341,0.39464
+Ceratina acantha,mangal_1341,0.42147
+Ceratina nanula,mangal_1341,0.44743999999999995
+Eristalis arbustorum,mangal_1341,0.42286
+Eupeodes fumipennis,mangal_1341,0.42096999999999996
+Eupeodes volucris,mangal_1341,0.39588
+Halictus ligatus,mangal_1341,0.39827
+Halictus tripartitus,mangal_1341,0.35255000000000003
+Helophilus latifrons,mangal_1341,0.41981
+Lasioglossum incompletum,mangal_1341,0.42418999999999996
+Paragus haemorrhous,mangal_1341,0.39527999999999996
+Platycheirus stegnus,mangal_1341,0.41957999999999995
+Scaeva pyrastri,mangal_1341,0.42215
+Syritta pipiens,mangal_1341,0.42442
+Brassica,mangal_1341,0.21245999999999998
+Convolvulus arvensis,mangal_1341,0.40718
+Malva neglecta,mangal_1341,0.37992000000000004
+Silybum marianum,mangal_1341,0.37960000000000005
+Allograpta exotica,mangal_1310,0.43774
+Allograpta obliqua,mangal_1310,0.43584
+Cheilosia aenea,mangal_1310,0.39742
+Diadasia enavata,mangal_1310,0.44601999999999997
+Eristalis arbustorum,mangal_1310,0.42721
+Eristalis tenax,mangal_1310,0.39693
+Eupeodes fumipennis,mangal_1310,0.40325999999999995
+Halictus ligatus,mangal_1310,0.44650999999999996
+Halictus tripartitus,mangal_1310,0.32406999999999997
+Helophilus latifrons,mangal_1310,0.43011999999999995
+Hylaeus mesillae,mangal_1310,0.42791
+Lasioglossum incompletum,mangal_1310,0.36626000000000003
+Lasioglossum megastictum,mangal_1310,0.44145999999999996
+Paragus haemorrhous,mangal_1310,0.43039000000000005
+Platycheirus stegnus,mangal_1310,0.43479
+Sphaerophoria pyrrhina,mangal_1310,0.43183000000000005
+Syritta pipiens,mangal_1310,0.42701
+Toxomerus marginatus,mangal_1310,0.43443
+Toxomerus occidentalis,mangal_1310,0.43565
+Tropidia quadrata,mangal_1310,0.39627
+Brassica,mangal_1310,0.2994
+Convolvulus arvensis,mangal_1310,0.28737999999999997
+Grindelia camporum,mangal_1310,0.40032999999999996
+Helminthotheca echioides,mangal_1310,0.3819
+Heteromeles arbutifolia,mangal_1310,0.25292000000000003
+Ceratina acantha,mangal_1338,0.41932
+Ceratina dallatorreana,mangal_1338,0.43936
+Cheilosia aenea,mangal_1338,0.41842
+Eristalis arbustorum,mangal_1338,0.42033
+Eristalis stipator,mangal_1338,0.42030999999999996
+Eristalis tenax,mangal_1338,0.41967
+Eupeodes fumipennis,mangal_1338,0.39576
+Halictus ligatus,mangal_1338,0.34502999999999995
+Halictus tripartitus,mangal_1338,0.38741000000000003
+Helophilus latifrons,mangal_1338,0.42249000000000003
+Lasioglossum incompletum,mangal_1338,0.38846
+Platycheirus stegnus,mangal_1338,0.42090000000000005
+Syritta pipiens,mangal_1338,0.42256000000000005
+Toxomerus marginatus,mangal_1338,0.43403
+Toxomerus occidentalis,mangal_1338,0.43643
+Brassica,mangal_1338,0.22024999999999995
+Carduus pycnocephalus,mangal_1338,0.42337
+Convolvulus arvensis,mangal_1338,0.32069000000000003
+Silybum marianum,mangal_1338,0.39908
+Andrena cerasifolii,mangal_1289,0.43661000000000005
+Ceriana tridens,mangal_1289,0.43154000000000003
+Eupeodes fumipennis,mangal_1289,0.38821000000000006
+Halictus ligatus,mangal_1289,0.42356000000000005
+Halictus tripartitus,mangal_1289,0.41218
+Lasioglossum diversopunctatum,mangal_1289,0.41213
+Lasioglossum incompletum,mangal_1289,0.32309
+Toxomerus marginatus,mangal_1289,0.38349999999999995
+Toxomerus occidentalis,mangal_1289,0.41657999999999995
+Baccharis salicifolia,mangal_1289,0.35609
+Brassica,mangal_1289,0.41237
+Ceanothus,mangal_1289,0.39097000000000004
+Convolvulus arvensis,mangal_1289,0.30679
+Heteromeles arbutifolia,mangal_1289,0.43394
+Lepidium latifolium,mangal_1289,0.41376
+Sambucus mexicana,mangal_1289,0.43196999999999997
+Allograpta exotica,mangal_1302,0.39674
+Allograpta obliqua,mangal_1302,0.43632000000000004
+Eupeodes fumipennis,mangal_1302,0.39807000000000003
+Halictus ligatus,mangal_1302,0.3881
+Halictus tripartitus,mangal_1302,0.39648000000000005
+Helophilus latifrons,mangal_1302,0.43713
+Lasioglossum incompletum,mangal_1302,0.40317000000000003
+Lasioglossum sisymbrii,mangal_1302,0.43226
+Melissodes agilis,mangal_1302,0.40398
+Melissodes lupina,mangal_1302,0.43901
+Melissodes robustior,mangal_1302,0.43055
+Platycheirus obscurus,mangal_1302,0.43165
+Platycheirus stegnus,mangal_1302,0.42818999999999996
+Sphaerophoria pyrrhina,mangal_1302,0.36880999999999997
+Sphecodes kincaidii,mangal_1302,0.43386
+Toxomerus marginatus,mangal_1302,0.35065
+Toxomerus occidentalis,mangal_1302,0.4433
+Brassica,mangal_1302,0.24834
+Centaurea solstitialis,mangal_1302,0.42718999999999996
+Convolvulus arvensis,mangal_1302,0.27497000000000005
+Helminthotheca echioides,mangal_1302,0.30842
+Lactuca serriola,mangal_1302,0.42762
+Agapostemon texanus,mangal_1339,0.42530999999999997
+Allograpta obliqua,mangal_1339,0.42408
+Andrena piperi,mangal_1339,0.43321
+Ceratina acantha,mangal_1339,0.45021999999999995
+Cheilosia aenea,mangal_1339,0.4232
+Eupeodes fumipennis,mangal_1339,0.42528999999999995
+Halictus ligatus,mangal_1339,0.38966999999999996
+Halictus tripartitus,mangal_1339,0.38821000000000006
+Helophilus latifrons,mangal_1339,0.39015999999999995
+Lasioglossum incompletum,mangal_1339,0.37
+Nomada,mangal_1339,0.43210000000000004
+Sphaerophoria pyrrhina,mangal_1339,0.42416
+Syritta flaviventris,mangal_1339,0.43511999999999995
+Syritta pipiens,mangal_1339,0.42101999999999995
+Toxomerus marginatus,mangal_1339,0.35404
+Toxomerus occidentalis,mangal_1339,0.42344000000000004
+Brassica,mangal_1339,0.29020999999999997
+Convolvulus arvensis,mangal_1339,0.22909000000000002
+Helminthotheca echioides,mangal_1339,0.43347
+Lactuca serriola,mangal_1339,0.42391
+Malvella leprosa,mangal_1339,0.42647999999999997
+Rosa californica,mangal_1339,0.42600000000000005
+Allograpta exotica,mangal_1408,0.42090000000000005
+Cheilosia aenea,mangal_1408,0.41762
+Eupeodes fumipennis,mangal_1408,0.41625
+Eupeodes volucris,mangal_1408,0.41507000000000005
+Halictus tripartitus,mangal_1408,0.39295
+Lasioglossum incompletum,mangal_1408,0.39317
+Nomada,mangal_1408,0.41981999999999997
+Paragus haemorrhous,mangal_1408,0.41949000000000003
+Platycheirus stegnus,mangal_1408,0.41656000000000004
+Sphaerophoria contigua,mangal_1408,0.44665
+Sphaerophoria pyrrhina,mangal_1408,0.41805000000000003
+Syritta pipiens,mangal_1408,0.41632
+Syrphus opinator,mangal_1408,0.41881999999999997
+Brassica,mangal_1408,0.21901000000000004
+Convolvulus arvensis,mangal_1408,0.40475000000000005
+Lactuca serriola,mangal_1408,0.42864
+Agapostemon texanus,mangal_1285,0.43201999999999996
+Allograpta obliqua,mangal_1285,0.43601999999999996
+Anthophora urbana,mangal_1285,0.41934000000000005
+Diadasia enavata,mangal_1285,0.41015
+Eupeodes fumipennis,mangal_1285,0.43201999999999996
+Halictus ligatus,mangal_1285,0.38673
+Halictus tripartitus,mangal_1285,0.34092999999999996
+Lasioglossum incompletum,mangal_1285,0.31389999999999996
+Melissodes lupina,mangal_1285,0.43872999999999995
+Paragus haemorrhous,mangal_1285,0.38454999999999995
+Sphaerophoria sulphuripes,mangal_1285,0.40564
+Syritta pipiens,mangal_1285,0.43579
+Toxomerus marginatus,mangal_1285,0.35404
+Asclepias fascicularis,mangal_1285,0.38700999999999997
+Brassica,mangal_1285,0.32047000000000003
+Centaurea solstitialis,mangal_1285,0.3439
+Convolvulus arvensis,mangal_1285,0.30394
+Lactuca serriola,mangal_1285,0.37805999999999995
+Lepidium latifolium,mangal_1285,0.33989
+Marrubium vulgare,mangal_1285,0.43896
+Raphanus raphanistrum,mangal_1285,0.39992000000000005
+Diadasia enavata,mangal_1415,0.42047999999999996
+Eristalis arbustorum,mangal_1415,0.40630999999999995
+Eristalis tenax,mangal_1415,0.42994
+Eupeodes fumipennis,mangal_1415,0.43598000000000003
+Halictus ligatus,mangal_1415,0.33458
+Halictus tripartitus,mangal_1415,0.35707999999999995
+Lasioglossum incompletum,mangal_1415,0.37541
+Lasioglossum megastictum,mangal_1415,0.43528
+Lasioglossum titusi,mangal_1415,0.4337
+Megachile apicalis,mangal_1415,0.44394
+Megachile montivaga,mangal_1415,0.44387
+Melissodes lupina,mangal_1415,0.35973
+Paragus haemorrhous,mangal_1415,0.42845999999999995
+Platycheirus stegnus,mangal_1415,0.42569
+Scaeva pyrastri,mangal_1415,0.44504
+Sphaerophoria sulphuripes,mangal_1415,0.39844999999999997
+Syritta pipiens,mangal_1415,0.44165
+Syrphus opinator,mangal_1415,0.44320000000000004
+Toxomerus marginatus,mangal_1415,0.37846
+Toxomerus occidentalis,mangal_1415,0.44210000000000005
+Brassica,mangal_1415,0.25939999999999996
+Carduus pycnocephalus,mangal_1415,0.38707
+Centaurea solstitialis,mangal_1415,0.40403
+Convolvulus arvensis,mangal_1415,0.32138
+Helminthotheca echioides,mangal_1415,0.32091000000000003
+Lactuca serriola,mangal_1415,0.42482
+Lepidium latifolium,mangal_1415,0.38861999999999997
+Marrubium vulgare,mangal_1415,0.39049999999999996
+Melilotus officinalis,mangal_1415,0.40774
+Rosa californica,mangal_1415,0.43052
+Allograpta exotica,mangal_1348,0.41727000000000003
+Anthophora urbana,mangal_1348,0.44306
+Bombus vosnesenskii,mangal_1348,0.44382999999999995
+Eupeodes fumipennis,mangal_1348,0.41781999999999997
+Eupeodes volucris,mangal_1348,0.42007000000000005
+Halictus ligatus,mangal_1348,0.36768
+Halictus tripartitus,mangal_1348,0.36802999999999997
+Lasioglossum incompletum,mangal_1348,0.38834
+Melissodes agilis,mangal_1348,0.41925
+Melissodes lupina,mangal_1348,0.41803
+Paragus haemorrhous,mangal_1348,0.41991999999999996
+Syritta flaviventris,mangal_1348,0.41657999999999995
+Syritta pipiens,mangal_1348,0.41786
+Toxomerus marginatus,mangal_1348,0.41306
+Brassica,mangal_1348,0.23126000000000002
+Convolvulus arvensis,mangal_1348,0.35105
+Dipsacus laciniatus,mangal_1348,0.41115
+Medicago sativa,mangal_1348,0.42656000000000005
+Tribulus terrestris,mangal_1348,0.40361
+Allograpta exotica,mangal_1304,0.42521
+Cheilosia aenea,mangal_1304,0.39044999999999996
+Eupeodes fumipennis,mangal_1304,0.43823
+Eupeodes volucris,mangal_1304,0.34509999999999996
+Halictus ligatus,mangal_1304,0.39770000000000005
+Halictus tripartitus,mangal_1304,0.3901
+Lasioglossum incompletum,mangal_1304,0.34223000000000003
+Melissodes stearnsi,mangal_1304,0.43784999999999996
+Paragus haemorrhous,mangal_1304,0.43750999999999995
+Brassica,mangal_1304,0.30262999999999995
+Convolvulus arvensis,mangal_1304,0.34430000000000005
+Croton setigerus,mangal_1304,0.40322
+Helminthotheca echioides,mangal_1304,0.39939
+Lepidium latifolium,mangal_1304,0.41618
+Raphanus raphanistrum,mangal_1304,0.42762
+Silybum marianum,mangal_1304,0.4285
+Apis mellifera,mangal_1655,0.41103
+Cratopus aurostriatus,mangal_1655,0.44023
+Eristalinus vicarians,mangal_1655,0.41396
+Ornidia obesa,mangal_1655,0.41366000000000003
+Polistes olivaceus,mangal_1655,0.41294
+Trypoxylon errans,mangal_1655,0.41457
+Chrysobalanus icaco,mangal_1655,0.30721
+Dillenia ferruginea,mangal_1655,0.43372999999999995
+Adelidae,mangal_5015,0.41903
+Andrena agilissima,mangal_5015,0.43672
+Andrena cinerea,mangal_5015,0.38552
+Andrena senecionis,mangal_5015,0.43054000000000003
+Anthidium septemspinosum,mangal_5015,0.41752
+Anthidium sticticum,mangal_5015,0.32128
+Anthophora aestivalis,mangal_5015,0.41700000000000004
+Anthophora retusa,mangal_5015,0.41894
+Apis melifera,mangal_5015,0.38966
+Bibionidae,mangal_5015,0.43676000000000004
+Chalicodoma pyrenaica,mangal_5015,0.41759
+Coleoptera,mangal_5015,0.40890000000000004
+Cryptocephalus,mangal_5015,0.40337999999999996
+Halictus rubicundus,mangal_5015,0.41779999999999995
+Ichneumonidae,mangal_5015,0.41774999999999995
+Lasioglossum bimaculatum,mangal_5015,0.41845
+Milichidae,mangal_5015,0.43728999999999996
+Oedemera flavipes,mangal_5015,0.38722
+Oedemera lurida,mangal_5015,0.36097999999999997
+Osmia aurulenta,mangal_5015,0.42023
+Panurgus calcaratus,mangal_5015,0.43494999999999995
+Polistes gallicus,mangal_5015,0.41476999999999997
+Psilothrix viridicoerulea,mangal_5015,0.40286999999999995
+Sphecodes,mangal_5015,0.4175
+Aetheorrhiza bulbosa,mangal_5015,0.29779999999999995
+Alyssum maritimum,mangal_5015,0.39337999999999995
+Convolvulus althaeoides,mangal_5015,0.39842999999999995
+Euphorbia segetalis,mangal_5015,0.42611
+Lathyrus clymenum,mangal_5015,0.41600000000000004
+Lavandula stoechas,mangal_5015,0.21214
+Sonchus tenerrinus,mangal_5015,0.32975
+Thymelaea hirsuta,mangal_5015,0.32055
+Urospermum picroides,mangal_5015,0.39644999999999997
+Andrena,mangal_5016,0.45119
+Andrena cinerea,mangal_5016,0.44784999999999997
+Andrena colletiformis,mangal_5016,0.44567999999999997
+Andrena fabrella,mangal_5016,0.45519
+Andrena nigroaenea,mangal_5016,0.43967
+Andrena senecionis,mangal_5016,0.39993999999999996
+Andrena taraxaci,mangal_5016,0.44796
+Anthidium sticticum,mangal_5016,0.40498999999999996
+Anthophora retusa,mangal_5016,0.44904
+Apis melifera,mangal_5016,0.41913
+Bibionidae,mangal_5016,0.45037000000000005
+Bombus terrestris,mangal_5016,0.42271000000000003
+Callophrys rubi,mangal_5016,0.45192
+Chalicodoma pyrenaica,mangal_5016,0.45067999999999997
+Coleoptera,mangal_5016,0.39536000000000004
+Colletes,mangal_5016,0.44953
+Cryptocephalus,mangal_5016,0.39991
+Dasytidae,mangal_5016,0.44118999999999997
+Eucera,mangal_5016,0.44201999999999997
+Halictus gemmeus,mangal_5016,0.45016999999999996
+Halictus rubicundus,mangal_5016,0.42172
+Helorus coruscus,mangal_5016,0.45077
+Hylaeus gredleri,mangal_5016,0.44555999999999996
+Lasioglossum,mangal_5016,0.43677999999999995
+Lasioglossum bimaculatum,mangal_5016,0.45331
+Lasioglossum pauxillum,mangal_5016,0.44838999999999996
+Milichidae,mangal_5016,0.4536
+Mordella bipunctata,mangal_5016,0.39051
+Mordellistena pumila,mangal_5016,0.39493999999999996
+Nomada fallax,mangal_5016,0.44775
+Nomada merceti,mangal_5016,0.44545
+Oedemera flavipes,mangal_5016,0.35629
+Oedemera lurida,mangal_5016,0.34201000000000004
+Oedemera nobilis,mangal_5016,0.44047000000000003
+Osmia aurulenta,mangal_5016,0.42052
+Oxythyrea funesta,mangal_5016,0.39697000000000005
+Plagiolepis pygmaea,mangal_5016,0.40781999999999996
+Polistes gallicus,mangal_5016,0.45065
+Psilothrix viridicoerulea,mangal_5016,0.37028000000000005
+Aetheorrhiza bulbosa,mangal_5016,0.28835
+Alyssum maritimum,mangal_5016,0.39102000000000003
+Carpobrotus affinis acinaciformis,mangal_5016,0.21311999999999998
+Convolvulus althaeoides,mangal_5016,0.38166999999999995
+Euphorbia segetalis,mangal_5016,0.41978000000000004
+Lathyrus clymenum,mangal_5016,0.41838
+Lavandula stoechas,mangal_5016,0.33082
+Sonchus tenerrinus,mangal_5016,0.27025
+Thymelaea hirsuta,mangal_5016,0.32737000000000005
+Urospermum picroides,mangal_5016,0.29881
+Andrena,mangal_5017,0.39585000000000004
+Anthophora,mangal_5017,0.44337000000000004
+Apis melifera,mangal_5017,0.38488999999999995
+Bombus terrestris,mangal_5017,0.43055
+Ceratina curcurbitina,mangal_5017,0.44379
+Coleoptera,mangal_5017,0.39595
+Dasytidae,mangal_5017,0.43677
+Halictus gemmeus,mangal_5017,0.397
+Halictus pyrenaeus,mangal_5017,0.44155
+Hylaeus variegatus,mangal_5017,0.42555
+Lasioglossum pauxillum,mangal_5017,0.33292999999999995
+Mordella bipunctata,mangal_5017,0.42467999999999995
+Mordellistena pumila,mangal_5017,0.37075
+Nomada merceti,mangal_5017,0.42601999999999995
+Oedemera lurida,mangal_5017,0.42001999999999995
+Panurgus calcaratus,mangal_5017,0.42689999999999995
+Scolia hirta,mangal_5017,0.42506999999999995
+Sphaerophoria,mangal_5017,0.42896
+Sphecodes,mangal_5017,0.42742
+Convolvulus althaeoides,mangal_5017,0.34862000000000004
+Daucus carota carota,mangal_5017,0.252
+Echium sabulicola,mangal_5017,0.39561
+Eryngium campestre,mangal_5017,0.42439000000000004
+Sedum sediforme,mangal_5017,0.38047
+Sonchus tenerrinus,mangal_5017,0.28088
+Urospermum picroides,mangal_5017,0.42915000000000003
+Andrena,mangal_5018,0.4387
+Anthidium sticticum,mangal_5018,0.42193
+Apis melifera,mangal_5018,0.38822999999999996
+Bombus terrestris,mangal_5018,0.42603
+Braconidae,mangal_5018,0.44891000000000003
+Camponotus aetiops,mangal_5018,0.42652
+Coleoptera,mangal_5018,0.44199
+Dasytidae,mangal_5018,0.39866
+Halictus fulvipes,mangal_5018,0.42332000000000003
+Halictus gemmeus,mangal_5018,0.38186
+Halictus pyrenaeus,mangal_5018,0.38649
+Hylaeus nigritus,mangal_5018,0.38765000000000005
+Lasioglossum bimaculatum,mangal_5018,0.40769999999999995
+Lasioglossum pauxillum,mangal_5018,0.36717999999999995
+Mordellistena pumila,mangal_5018,0.39976
+Oedemera barbara,mangal_5018,0.42927000000000004
+Oedemera flavipes,mangal_5018,0.44506
+Oedemera lurida,mangal_5018,0.42798
+Oxythyrea funesta,mangal_5018,0.42628
+Panurgus calcaratus,mangal_5018,0.40498999999999996
+Scolia hirta,mangal_5018,0.42428
+Sphaerophoria,mangal_5018,0.42944000000000004
+Xylocopa violacea,mangal_5018,0.42730999999999997
+Allium ampeloprasum,mangal_5018,0.42886
+Convolvulus althaeoides,mangal_5018,0.35997999999999997
+Daucus carota carota,mangal_5018,0.38465000000000005
+Eryngium campestre,mangal_5018,0.39986999999999995
+Opuntia stricta,mangal_5018,0.23141
+Sedum sediforme,mangal_5018,0.42451000000000005
+Sonchus tenerrinus,mangal_5018,0.25599000000000005
+Urospermum picroides,mangal_5018,0.40286
+Adelidae,mangal_5019,0.43487
+Andrena,mangal_5019,0.40417000000000003
+Andrena fabrella,mangal_5019,0.42847999999999997
+Andrena lepida,mangal_5019,0.34951
+Andrena senecionis,mangal_5019,0.44367999999999996
+Anthidium sticticum,mangal_5019,0.37922999999999996
+Anthophora,mangal_5019,0.43165
+Apis melifera,mangal_5019,0.40161
+Bibionidae,mangal_5019,0.43262
+Bombilius,mangal_5019,0.37085999999999997
+Coleoptera,mangal_5019,0.40771
+Colletes,mangal_5019,0.44074
+Lasioglossum bimaculatum,mangal_5019,0.4344
+Nomada succincta,mangal_5019,0.43506999999999996
+Oedemera lurida,mangal_5019,0.37104000000000004
+Oedemera nobilis,mangal_5019,0.42754000000000003
+Osmia aurulenta,mangal_5019,0.41324000000000005
+Osmia dimidiata,mangal_5019,0.42832000000000003
+Oxythyrea funesta,mangal_5019,0.37212999999999996
+Panurgus,mangal_5019,0.44475
+Plagiolepis pygmaea,mangal_5019,0.39551000000000003
+Cistus albidus,mangal_5019,0.35062000000000004
+Cistus monspeliensis,mangal_5019,0.29556000000000004
+Cistus salvifolius,mangal_5019,0.28502000000000005
+Dorycnium pentaphyllum,mangal_5019,0.40722
+Lavandula stoechas,mangal_5019,0.32184999999999997
+Linum,mangal_5019,0.42677
+Rosmarinus officinalis,mangal_5019,0.32352000000000003
+Sonchus tenerrinus,mangal_5019,0.42905000000000004
+Urospermum picroides,mangal_5019,0.43043
+Vicia lutea,mangal_5019,0.41988000000000003
+Adelidae,mangal_5020,0.44776000000000005
+Andrena,mangal_5020,0.42715000000000003
+Andrena cinerea,mangal_5020,0.43683000000000005
+Andrena fabrella,mangal_5020,0.40771999999999997
+Andrena lepida,mangal_5020,0.43533
+Andrena taraxaci,mangal_5020,0.45333999999999997
+Andrena villipes,mangal_5020,0.38905999999999996
+Anthidium sticticum,mangal_5020,0.41000000000000003
+Anthophora,mangal_5020,0.41315999999999997
+Apis melifera,mangal_5020,0.35884000000000005
+Bibionidae,mangal_5020,0.44282999999999995
+Bombilius,mangal_5020,0.41279
+Bombus terrestris,mangal_5020,0.42081999999999997
+Callophrys rubi,mangal_5020,0.44530000000000003
+Coleoptera,mangal_5020,0.37437
+Colletes,mangal_5020,0.43143
+Conophorus virescens,mangal_5020,0.43492
+Cryptocephalus,mangal_5020,0.4507
+Halictus pyrenaeus,mangal_5020,0.45104999999999995
+Hylaeus taeniolatus,mangal_5020,0.44343999999999995
+Lasioglossum,mangal_5020,0.44199999999999995
+Lasioglossum bimaculatum,mangal_5020,0.43367999999999995
+Lasioglossum xanthopus,mangal_5020,0.4417
+Megachilidae,mangal_5020,0.43988000000000005
+Milichidae,mangal_5020,0.44006
+Mordellistena pumila,mangal_5020,0.36134999999999995
+Mylabris quadripunctata,mangal_5020,0.44364000000000003
+Nomada,mangal_5020,0.44996
+Oedemera flavipes,mangal_5020,0.3761
+Oedemera lurida,mangal_5020,0.34957000000000005
+Oxythyrea funesta,mangal_5020,0.31767
+Panurgus banksianus,mangal_5020,0.45208000000000004
+Plagiolepis pygmaea,mangal_5020,0.43510000000000004
+Platynochaetus setosus,mangal_5020,0.39437999999999995
+Psilothrix viridicoerulea,mangal_5020,0.36983
+Sphaerophoria,mangal_5020,0.44865
+Sphecodes gibbus,mangal_5020,0.44210000000000005
+Aetheorrhiza bulbosa,mangal_5020,0.42088000000000003
+Carpobrotus affinis acinaciformis,mangal_5020,0.27149
+Cistus albidus,mangal_5020,0.32674000000000003
+Cistus monspeliensis,mangal_5020,0.26537999999999995
+Cistus salvifolius,mangal_5020,0.21609
+Dorycnium pentaphyllum,mangal_5020,0.42628999999999995
+Galactites tomentosa,mangal_5020,0.40208
+Helianthemum guttatum,mangal_5020,0.38604000000000005
+Helichrysum stoechas,mangal_5020,0.37826000000000004
+Lathyrus clymenum,mangal_5020,0.42408999999999997
+Lavandula stoechas,mangal_5020,0.37093
+Rosmarinus officinalis,mangal_5020,0.31581000000000004
+Sonchus tenerrinus,mangal_5020,0.37305999999999995
+Urospermum picroides,mangal_5020,0.37744999999999995
+Andrena,mangal_5021,0.41818
+Andrena haemorrhoa,mangal_5021,0.42857999999999996
+Andrena senecionis,mangal_5021,0.44323
+Andrena taraxaci,mangal_5021,0.44414
+Andrena villipes,mangal_5021,0.42815000000000003
+Anthidium septemspinosum,mangal_5021,0.43655999999999995
+Anthidium sticticum,mangal_5021,0.37956
+Apis melifera,mangal_5021,0.33655
+Bombilius,mangal_5021,0.38385
+Bombus terrestris,mangal_5021,0.43731
+Coleoptera,mangal_5021,0.40608
+Colletes,mangal_5021,0.42489
+Conophorus virescens,mangal_5021,0.42491
+Halictus pyrenaeus,mangal_5021,0.44699999999999995
+Halictus quadricinctus,mangal_5021,0.43549000000000004
+Hylaeus variegatus,mangal_5021,0.42673000000000005
+Lasioglossum bimaculatum,mangal_5021,0.42767999999999995
+Lasioglossum parvulum,mangal_5021,0.42825
+Mordellistena pumila,mangal_5021,0.39714000000000005
+Oedemera lurida,mangal_5021,0.37134
+Osmia dimidiata,mangal_5021,0.43577
+Osmia tricornis,mangal_5021,0.43688000000000005
+Oxythyrea funesta,mangal_5021,0.35348
+Psilothrix viridicoerulea,mangal_5021,0.41506
+Sphaerophoria,mangal_5021,0.42745999999999995
+Zygaena,mangal_5021,0.43840999999999997
+Cistus albidus,mangal_5021,0.3085
+Cistus monspeliensis,mangal_5021,0.22724
+Cistus salvifolius,mangal_5021,0.40196
+Dorycnium pentaphyllum,mangal_5021,0.42645
+Galactites tomentosa,mangal_5021,0.28358000000000005
+Lavandula stoechas,mangal_5021,0.36185999999999996
+Psoralea bituminosa,mangal_5021,0.42728
+Rosmarinus officinalis,mangal_5021,0.40086999999999995
+Sonchus tenerrinus,mangal_5021,0.35756
+Urospermum picroides,mangal_5021,0.42752999999999997
+Andrena,mangal_5022,0.40084
+Andrena cinerea,mangal_5022,0.44855999999999996
+Andrena ovatula,mangal_5022,0.39827
+Andrena senecionis,mangal_5022,0.44853
+Andrena tenuistriata,mangal_5022,0.43952
+Anthidium sticticum,mangal_5022,0.39880000000000004
+Apis melifera,mangal_5022,0.36
+Bombus terrestris,mangal_5022,0.41733
+Callophrys rubi,mangal_5022,0.44899999999999995
+Coleoptera,mangal_5022,0.37455000000000005
+Colletes,mangal_5022,0.44728999999999997
+Conophorus virescens,mangal_5022,0.44532000000000005
+Cryptocephalus,mangal_5022,0.4202
+Dasytidae,mangal_5022,0.44186000000000003
+Halictus pyrenaeus,mangal_5022,0.42910000000000004
+Hoplitis adunca,mangal_5022,0.44118
+Mordellistena pumila,mangal_5022,0.38295999999999997
+Oedemera lurida,mangal_5022,0.32262
+Oedemera nobilis,mangal_5022,0.35275
+Oxythyrea funesta,mangal_5022,0.35224999999999995
+Plagiolepis pygmaea,mangal_5022,0.43827000000000005
+Psilothrix viridicoerulea,mangal_5022,0.41303999999999996
+Pyronia tithonus,mangal_5022,0.44005000000000005
+Xylocopa iris,mangal_5022,0.44074
+Zygaena,mangal_5022,0.44331
+Carpobrotus affinis acinaciformis,mangal_5022,0.27202000000000004
+Cistus albidus,mangal_5022,0.30813999999999997
+Cistus monspeliensis,mangal_5022,0.35995
+Cistus salvifolius,mangal_5022,0.28467
+Dorycnium pentaphyllum,mangal_5022,0.41186999999999996
+Galactites tomentosa,mangal_5022,0.30352999999999997
+Helichrysum stoechas,mangal_5022,0.40952999999999995
+Lavandula stoechas,mangal_5022,0.39479
+Rosmarinus officinalis,mangal_5022,0.4164
+Sonchus tenerrinus,mangal_5022,0.38090999999999997
+Urospermum picroides,mangal_5022,0.39473
+Andrena,mangal_5023,0.37619
+Apis melifera,mangal_5023,0.40012000000000003
+Bombilius,mangal_5023,0.43716999999999995
+Bombus terrestris,mangal_5023,0.43571000000000004
+Camponotus aetiops,mangal_5023,0.4305
+Ceratina curcurbitina,mangal_5023,0.43718999999999997
+Colletes,mangal_5023,0.45013000000000003
+Dasytidae,mangal_5023,0.37470000000000003
+Diptera,mangal_5023,0.39931000000000005
+Halictus gemmeus,mangal_5023,0.37341
+Halictus pyrenaeus,mangal_5023,0.41296999999999995
+Hylaeus nigritus,mangal_5023,0.43013
+Mordella bipunctata,mangal_5023,0.42847999999999997
+Mordellistena pumila,mangal_5023,0.38382000000000005
+Mylabris quadripunctata,mangal_5023,0.34548
+Oedemera barbara,mangal_5023,0.43052
+Oedemera lurida,mangal_5023,0.42998000000000003
+Panurgus calcaratus,mangal_5023,0.41018
+Papilio machaon,mangal_5023,0.43598000000000003
+Physocephala,mangal_5023,0.43413999999999997
+Syrphidae,mangal_5023,0.43150999999999995
+Tachinidae,mangal_5023,0.43106999999999995
+Trichodes apiarius,mangal_5023,0.39573
+Vanessa atalanta,mangal_5023,0.4485
+Brassica fruticulosa,mangal_5023,0.42595000000000005
+Convolvulus althaeoides,mangal_5023,0.42478000000000005
+Daucus carota carota,mangal_5023,0.24750000000000005
+Eryngium campestre,mangal_5023,0.38193
+Psoralea bituminosa,mangal_5023,0.42333
+Scabiosa stellata,mangal_5023,0.28295000000000003
+Sonchus tenerrinus,mangal_5023,0.26114000000000004
+Urospermum picroides,mangal_5023,0.35619
+Andrena,mangal_5024,0.33742000000000005
+Apis melifera,mangal_5024,0.36543000000000003
+Bombus terrestris,mangal_5024,0.42232000000000003
+Buprestidae,mangal_5024,0.43593000000000004
+Conophorus virescens,mangal_5024,0.43526
+Dasytidae,mangal_5024,0.43422000000000005
+Gymnosoma rotundatum,mangal_5024,0.43057999999999996
+Halictus gemmeus,mangal_5024,0.37803
+Halictus pyrenaeus,mangal_5024,0.41917000000000004
+Hylaeus,mangal_5024,0.43089999999999995
+Hylaeus nigritus,mangal_5024,0.43378000000000005
+Lasioglossum,mangal_5024,0.43689
+Lasioglossum interruptum,mangal_5024,0.42256000000000005
+Mordella bipunctata,mangal_5024,0.43237000000000003
+Mordellistena pumila,mangal_5024,0.38619000000000003
+Mylabris quadripunctata,mangal_5024,0.42193
+Oedemera flavipes,mangal_5024,0.39339
+Osmia submicans,mangal_5024,0.43833
+Oxythyrea funesta,mangal_5024,0.39569
+Panurgus calcaratus,mangal_5024,0.42027000000000003
+Pieris rapae,mangal_5024,0.43482
+Scolia hirta,mangal_5024,0.44201
+Trichodes apiarius,mangal_5024,0.43928999999999996
+Xylocopa violacea,mangal_5024,0.4213
+Convolvulus althaeoides,mangal_5024,0.41452999999999995
+Daucus carota carota,mangal_5024,0.29191
+Eryngium campestre,mangal_5024,0.32967
+Opuntia stricta,mangal_5024,0.24009000000000003
+Scabiosa stellata,mangal_5024,0.33965999999999996
+Sedum sediforme,mangal_5024,0.3983
+Sonchus tenerrinus,mangal_5024,0.35236
+Urospermum picroides,mangal_5024,0.42310000000000003
+Andrena,mangal_5025,0.38834
+Anthidium sticticum,mangal_5025,0.44349000000000005
+Apis melifera,mangal_5025,0.39729000000000003
+Bombus terrestris,mangal_5025,0.42068000000000005
+Cerceris,mangal_5025,0.42866000000000004
+Colletes,mangal_5025,0.4223
+Dasytidae,mangal_5025,0.4196
+Halictus subauratus,mangal_5025,0.39936000000000005
+Hylaeus nigritus,mangal_5025,0.43110000000000004
+Lasioglossum pauxillum,mangal_5025,0.44206
+Megachile atratula,mangal_5025,0.39942
+Mordella bipunctata,mangal_5025,0.39353000000000005
+Mordellistena pumila,mangal_5025,0.34402
+Nomada,mangal_5025,0.42135
+Oedemera barbara,mangal_5025,0.41501
+Oedemera flavipes,mangal_5025,0.36258
+Panurgus calcaratus,mangal_5025,0.44784
+Polistes gallicus,mangal_5025,0.43396
+Scolia hirta,mangal_5025,0.42054
+Trichodes apiarius,mangal_5025,0.43299
+Daucus carota carota,mangal_5025,0.35694000000000004
+Eryngium campestre,mangal_5025,0.37361
+Helianthemum guttatum,mangal_5025,0.42726
+Helichrysum stoechas,mangal_5025,0.42765
+Psoralea bituminosa,mangal_5025,0.40937
+Ruta chalepensis,mangal_5025,0.29857999999999996
+Scabiosa stellata,mangal_5025,0.40410999999999997
+Sedum sediforme,mangal_5025,0.23640000000000005
+Sonchus tenerrinus,mangal_5025,0.42965
+Andrena,mangal_5026,0.39676
+Anthidium septemspinosum,mangal_5026,0.36294000000000004
+Anthidium sticticum,mangal_5026,0.42669999999999997
+Apis melifera,mangal_5026,0.42965
+Bombus terrestris,mangal_5026,0.42645999999999995
+Braconidae,mangal_5026,0.4416
+Coleoptera,mangal_5026,0.42811999999999995
+Dasytidae,mangal_5026,0.39227
+Halictus gemmeus,mangal_5026,0.44435
+Hymenoptera,mangal_5026,0.43061000000000005
+Lasioglossum pauxillum,mangal_5026,0.39415
+Lasiopogon,mangal_5026,0.44233999999999996
+Megachile,mangal_5026,0.44169
+Mordella bipunctata,mangal_5026,0.39298
+Mordellistena pumila,mangal_5026,0.40203999999999995
+Mylabris quadripunctata,mangal_5026,0.38543000000000005
+Oedemera barbara,mangal_5026,0.43105000000000004
+Oedemera flavipes,mangal_5026,0.35646999999999995
+Oxythyrea funesta,mangal_5026,0.42726
+Polistes gallicus,mangal_5026,0.44377999999999995
+Psilothrix viridicoerulea,mangal_5026,0.42934000000000005
+Scolia hirta,mangal_5026,0.39108
+Stenopterus rufus,mangal_5026,0.42666000000000004
+Trichodes apiarius,mangal_5026,0.40885000000000005
+Vanessa atalanta,mangal_5026,0.44667
+Xylocopa violacea,mangal_5026,0.42905000000000004
+Daucus carota carota,mangal_5026,0.23723000000000005
+Dianthus caryophyllus,mangal_5026,0.41854
+Eryngium campestre,mangal_5026,0.40374
+Hypericum perfoliatum,mangal_5026,0.41952999999999996
+Opuntia stricta,mangal_5026,0.23268999999999995
+Psoralea bituminosa,mangal_5026,0.34739
+Ruta chalepensis,mangal_5026,0.35250000000000004
+Sedum sediforme,mangal_5026,0.38037
+Sonchus tenerrinus,mangal_5026,0.42071000000000003
+Andrena cyanophila,mangal_5116,0.41869
+Lasioglossum,mangal_5116,0.34882
+Osmia coloradensis,mangal_5116,0.43169
+Pieris rapae,mangal_5116,0.41574999999999995
+Syrphidae,mangal_5116,0.41452
+Claytonia lanceolata,mangal_5116,0.32215000000000005
+Mertensia oblongifolia,mangal_5116,0.38546
+Viola praemorsa,mangal_5116,0.42284
+Bombus appositus,mangal_5119,0.43272
+Bombus flavifrons,mangal_5119,0.39805999999999997
+Lasioglossum,mangal_5119,0.32537000000000005
+Osmia coloradensis,mangal_5119,0.41403
+Osmia iridis,mangal_5119,0.38051
+Osmia montana,mangal_5119,0.40979
+Syrphidae,mangal_5119,0.4132
+Systoechus,mangal_5119,0.41279
+Boechera stricta,mangal_5119,0.42045999999999994
+Delphinium nuttallianum,mangal_5119,0.36183
+Draba aurea,mangal_5119,0.41838
+Lathyrus lanszwertii,mangal_5119,0.39715
+Senecio integerrimus,mangal_5119,0.28569
+Bombus appositus,mangal_5120,0.4
+Halictidae,mangal_5120,0.42374
+Hoplitis fulgida,mangal_5120,0.41713999999999996
+Lasioglossum,mangal_5120,0.42411
+Megachile pugnata,mangal_5120,0.42659
+Nymphalidae,mangal_5120,0.38534
+Osmia coloradensis,mangal_5120,0.42018999999999995
+Osmia iridis,mangal_5120,0.38417999999999997
+Osmia subaustralis,mangal_5120,0.38038000000000005
+Pieris rapae,mangal_5120,0.43655
+Selasphorus platycercus,mangal_5120,0.43867
+Syrphidae,mangal_5120,0.39192000000000005
+Systoechus,mangal_5120,0.37734
+Delphinium nuttallianum,mangal_5120,0.42644000000000004
+Erigeron flagellaris,mangal_5120,0.31708000000000003
+Eriogonum umbellatum,mangal_5120,0.40025
+Ipomopsis aggregata,mangal_5120,0.42898000000000003
+Lathyrus lanszwertii,mangal_5120,0.34268
+Senecio integerrimus,mangal_5120,0.29169999999999996
+Bombus appositus,mangal_5123,0.42766000000000004
+Bombus bifarius,mangal_5123,0.41318
+Bombus flavifrons,mangal_5123,0.43199
+Lycaenidae,mangal_5123,0.38187000000000004
+Megachile relativa,mangal_5123,0.38243000000000005
+Nymphalidae,mangal_5123,0.35529999999999995
+Ochlodes sylvanoides,mangal_5123,0.36990999999999996
+Osmia montana,mangal_5123,0.42928999999999995
+Syrphidae,mangal_5123,0.38034999999999997
+Agoseris aurantiaca,mangal_5123,0.41861000000000004
+Eremogone congesta,mangal_5123,0.39371999999999996
+Erigeron speciosus,mangal_5123,0.37956
+Eriogonum umbellatum,mangal_5123,0.34531999999999996
+Helianthella quinquenervis,mangal_5123,0.39818
+Heterotheca villosa,mangal_5123,0.3244
+Sedum lanceolatum,mangal_5123,0.42262
+Bombus appositus,mangal_5125,0.43411
+Bombus bifarius,mangal_5125,0.35670999999999997
+Bombus californicus,mangal_5125,0.43274
+Bombus flavifrons,mangal_5125,0.34447000000000005
+Bombus occidentalis,mangal_5125,0.43265
+Bombus sylvicola,mangal_5125,0.35771
+Lycaenidae,mangal_5125,0.39976
+Megachile relativa,mangal_5125,0.44516
+Nymphalidae,mangal_5125,0.40037
+Ochlodes sylvanoides,mangal_5125,0.40605
+Syrphidae,mangal_5125,0.43183000000000005
+Thricops septentrionalis,mangal_5125,0.39919000000000004
+Campanula rotundifolia,mangal_5125,0.38863000000000003
+Erigeron speciosus,mangal_5125,0.27935
+Helianthella quinquenervis,mangal_5125,0.42918
+Heliomeris multiflora,mangal_5125,0.36212999999999995
+Heterotheca villosa,mangal_5125,0.29439000000000004
+Solidago multiradiata,mangal_5125,0.43065
+Andrena costillensis,mangal_5126,0.43008
+Bombus bifarius,mangal_5126,0.39144999999999996
+Bombus flavifrons,mangal_5126,0.35928000000000004
+Bombus sylvicola,mangal_5126,0.39192000000000005
+Lycaenidae,mangal_5126,0.43496999999999997
+Megachile relativa,mangal_5126,0.40544
+Nymphalidae,mangal_5126,0.43504
+Syrphidae,mangal_5126,0.42889999999999995
+Thricops septentrionalis,mangal_5126,0.39298
+Campanula rotundifolia,mangal_5126,0.4353
+Erigeron speciosus,mangal_5126,0.35394000000000003
+Heliomeris multiflora,mangal_5126,0.32304999999999995
+Heterotheca villosa,mangal_5126,0.32141
+Andrena costillensis,mangal_5127,0.43303
+Bombus appositus,mangal_5127,0.39825
+Bombus bifarius,mangal_5127,0.39864
+Bombus californicus,mangal_5127,0.39480000000000004
+Bombus flavifrons,mangal_5127,0.39827999999999997
+Bombus sylvicola,mangal_5127,0.40064
+Lycaenidae,mangal_5127,0.43252999999999997
+Megachile relativa,mangal_5127,0.43422000000000005
+Panurginus ineptus,mangal_5127,0.36302
+Pieridae,mangal_5127,0.43398000000000003
+Syrphidae,mangal_5127,0.39827999999999997
+Systoechus,mangal_5127,0.41352
+Erigeron flagellaris,mangal_5127,0.41313999999999995
+Heliomeris multiflora,mangal_5127,0.27717
+Heterotheca villosa,mangal_5127,0.26497000000000004
+Potentilla hippiana,mangal_5127,0.43166000000000004
+Andrena cyanophila,mangal_5128,0.38731000000000004
+Bombus bifarius,mangal_5128,0.42412000000000005
+Lasioglossum,mangal_5128,0.35511000000000004
+Claytonia lanceolata,mangal_5128,0.38821000000000006
+Erythronium grandiflorum,mangal_5128,0.35507
+Mertensia oblongifolia,mangal_5128,0.42817000000000005
+Bombus appositus,mangal_5132,0.44354000000000005
+Halictidae,mangal_5132,0.41751000000000005
+Halictus rubicundus,mangal_5132,0.4171
+Hoplitis fulgida,mangal_5132,0.41716
+Lasioglossum,mangal_5132,0.41745
+Muscidae,mangal_5132,0.41967
+Osmia bucephala,mangal_5132,0.43901
+Osmia iridis,mangal_5132,0.36645000000000005
+Osmia montana,mangal_5132,0.43745
+Osmia subaustralis,mangal_5132,0.36041999999999996
+Syrphidae,mangal_5132,0.41718
+Systoechus,mangal_5132,0.38851
+Delphinium nuttallianum,mangal_5132,0.43194999999999995
+Erigeron flagellaris,mangal_5132,0.24863999999999997
+Eriogonum umbellatum,mangal_5132,0.37292000000000003
+Lathyrus lanszwertii,mangal_5132,0.42482
+Senecio integerrimus,mangal_5132,0.37143000000000004
+Bombus bifarius,mangal_5134,0.39093999999999995
+Colletes kincaidii,mangal_5134,0.38373
+Halictidae,mangal_5134,0.43037000000000003
+Hoplitis fulgida,mangal_5134,0.41607000000000005
+Megachile relativa,mangal_5134,0.42608
+Osmia bucephala,mangal_5134,0.42728
+Osmia proxima,mangal_5134,0.42045
+Syrphidae,mangal_5134,0.34550000000000003
+Systoechus,mangal_5134,0.38459
+Eremogone congesta,mangal_5134,0.35645000000000004
+Erigeron flagellaris,mangal_5134,0.38563000000000003
+Eriogonum umbellatum,mangal_5134,0.38227999999999995
+Helianthella quinquenervis,mangal_5134,0.42308999999999997
+Heterotheca villosa,mangal_5134,0.35026999999999997
+Potentilla hippiana,mangal_5134,0.42887
+Rosa woodsii,mangal_5134,0.38852
+Bombus appositus,mangal_5135,0.38083
+Bombus flavifrons,mangal_5135,0.42108999999999996
+Bombus sylvicola,mangal_5135,0.33763
+Halictidae,mangal_5135,0.4344
+Lycaenidae,mangal_5135,0.38856999999999997
+Megachile relativa,mangal_5135,0.41374999999999995
+Ochlodes sylvanoides,mangal_5135,0.42966000000000004
+Osmia montana,mangal_5135,0.4185
+Systoechus,mangal_5135,0.41581
+Eremogone congesta,mangal_5135,0.37566999999999995
+Erigeron speciosus,mangal_5135,0.39573
+Helianthella quinquenervis,mangal_5135,0.35278
+Heterotheca villosa,mangal_5135,0.32032000000000005
+Potentilla hippiana,mangal_5135,0.4295
+Sedum lanceolatum,mangal_5135,0.42256000000000005
+Bombus appositus,mangal_5136,0.40908
+Bombus bifarius,mangal_5136,0.42216
+Bombus californicus,mangal_5136,0.42147
+Bombus sylvicola,mangal_5136,0.33718000000000004
+Lycaenidae,mangal_5136,0.38932
+Nymphalidae,mangal_5136,0.38805999999999996
+Syrphidae,mangal_5136,0.41891999999999996
+Campanula rotundifolia,mangal_5136,0.43287
+Erigeron speciosus,mangal_5136,0.36519
+Helianthella quinquenervis,mangal_5136,0.39444
+Heliomeris multiflora,mangal_5136,0.42613999999999996
+Heterotheca villosa,mangal_5136,0.29628
+Andrena costillensis,mangal_5137,0.43788000000000005
+Bombus appositus,mangal_5137,0.38193
+Bombus bifarius,mangal_5137,0.38073
+Bombus californicus,mangal_5137,0.3813
+Bombus flavifrons,mangal_5137,0.36623000000000006
+Bombus sylvicola,mangal_5137,0.36656999999999995
+Halictidae,mangal_5137,0.40736000000000006
+Megachile relativa,mangal_5137,0.43845999999999996
+Muscidae,mangal_5137,0.43777
+Systoechus,mangal_5137,0.43723
+Eremogone congesta,mangal_5137,0.4373
+Erigeron speciosus,mangal_5137,0.29908
+Heliomeris multiflora,mangal_5137,0.34909999999999997
+Heterotheca villosa,mangal_5137,0.30208
+Senecio serra,mangal_5137,0.43750999999999995
+Bombus appositus,mangal_5138,0.4244
+Bombus bifarius,mangal_5138,0.36585
+Bombus flavifrons,mangal_5138,0.34738
+Bombus sylvicola,mangal_5138,0.39022
+Lycaenidae,mangal_5138,0.40341000000000005
+Muscidae,mangal_5138,0.38888
+Syrphidae,mangal_5138,0.42884
+Systoechus,mangal_5138,0.43083000000000005
+Erigeron speciosus,mangal_5138,0.40598999999999996
+Heliomeris multiflora,mangal_5138,0.31116999999999995
+Heterotheca villosa,mangal_5138,0.30483000000000005
+Potentilla hippiana,mangal_5138,0.43018
+Solidago multiradiata,mangal_5138,0.43001999999999996
+Andrena costillensis,mangal_5139,0.43093000000000004
+Bombus appositus,mangal_5139,0.39302000000000004
+Bombus bifarius,mangal_5139,0.37855000000000005
+Bombus californicus,mangal_5139,0.4355
+Bombus flavifrons,mangal_5139,0.39795
+Bombus sylvicola,mangal_5139,0.39581
+Coelioxys funeraria,mangal_5139,0.43204
+Nymphalidae,mangal_5139,0.39496
+Osmia grindeliae,mangal_5139,0.43401999999999996
+Pieridae,mangal_5139,0.43308
+Syrphidae,mangal_5139,0.43045999999999995
+Thricops septentrionalis,mangal_5139,0.39627999999999997
+Heliomeris multiflora,mangal_5139,0.25898
+Heterotheca villosa,mangal_5139,0.28891
+Potentilla hippiana,mangal_5139,0.43001
+Bombus bifarius,mangal_5140,0.38842
+Halictus confusus,mangal_5140,0.4232
+Halictus rubicundus,mangal_5140,0.42132000000000003
+Lasioglossum,mangal_5140,0.34234
+Osmia coloradensis,mangal_5140,0.33321999999999996
+Osmia iridis,mangal_5140,0.40080000000000005
+Claytonia lanceolata,mangal_5140,0.31279999999999997
+Hydrophyllum fendleri,mangal_5140,0.42872
+Mertensia oblongifolia,mangal_5140,0.36556999999999995
+Senecio integerrimus,mangal_5140,0.38731000000000004
+Taraxacum officinale,mangal_5140,0.42656000000000005
+Viola praemorsa,mangal_5140,0.39675000000000005
+Andrena transnigra,mangal_5143,0.41389
+Bombus appositus,mangal_5143,0.43721
+Bombus bifarius,mangal_5143,0.36289000000000005
+Bombus flavifrons,mangal_5143,0.38965000000000005
+Bombus nevadensis,mangal_5143,0.43623999999999996
+Coelioxys funeraria,mangal_5143,0.41871
+Halictus rubicundus,mangal_5143,0.41667
+Lasioglossum,mangal_5143,0.44349000000000005
+Megachile melanophaea,mangal_5143,0.41503
+Osmia bucephala,mangal_5143,0.44565
+Osmia iridis,mangal_5143,0.41530999999999996
+Osmia montana,mangal_5143,0.41363000000000005
+Osmia subaustralis,mangal_5143,0.41469999999999996
+Sphaerophoria philanthus,mangal_5143,0.41762999999999995
+Systoechus,mangal_5143,0.41945
+Thricops septentrionalis,mangal_5143,0.44549000000000005
+Cymopterus lemmonii,mangal_5143,0.42816
+Delphinium nuttallianum,mangal_5143,0.35448
+Lathyrus lanszwertii,mangal_5143,0.43096
+Senecio integerrimus,mangal_5143,0.22696000000000005
+Taraxacum officinale,mangal_5143,0.40244
+Bombus appositus,mangal_5156,0.40781999999999996
+Bombus bifarius,mangal_5156,0.42899
+Bombus nevadensis,mangal_5156,0.40581
+Halictus rubicundus,mangal_5156,0.41913999999999996
+Lasioglossum,mangal_5156,0.3729
+Osmia coloradensis,mangal_5156,0.41852
+Selasphorus platycercus,mangal_5156,0.37334
+Boechera stricta,mangal_5156,0.41393
+Delphinium nuttallianum,mangal_5156,0.34270999999999996
+Hydrophyllum capitatum,mangal_5156,0.42340999999999995
+Senecio integerrimus,mangal_5156,0.38007
+Taraxacum officinale,mangal_5156,0.37588999999999995
+Andrena transnigra,mangal_5160,0.38847
+Bombus bifarius,mangal_5160,0.43669
+Bombus flavifrons,mangal_5160,0.41472
+Glaucopsyche lygdamus,mangal_5160,0.38814000000000004
+Halictus rubicundus,mangal_5160,0.41615
+Lasioglossum,mangal_5160,0.36136
+Megachile relativa,mangal_5160,0.37727999999999995
+Ochlodes sylvanoides,mangal_5160,0.37848000000000004
+Panurginus ineptus,mangal_5160,0.39349999999999996
+Sphaerophoria philanthus,mangal_5160,0.40564999999999996
+Systoechus,mangal_5160,0.4153
+Thricops septentrionalis,mangal_5160,0.35258999999999996
+Cymopterus lemmonii,mangal_5160,0.43406999999999996
+Eremogone congesta,mangal_5160,0.29686999999999997
+Erigeron flagellaris,mangal_5160,0.33113000000000004
+Eriogonum umbellatum,mangal_5160,0.37051
+Helianthella quinquenervis,mangal_5160,0.42440999999999995
+Mertensia ciliata,mangal_5160,0.42674999999999996
+Potentilla gracilis,mangal_5160,0.3608
+Potentilla hippiana,mangal_5160,0.39091
+Sedum lanceolatum,mangal_5160,0.42808999999999997
+Senecio integerrimus,mangal_5160,0.42545999999999995
+Andrena vicinoides,mangal_5162,0.41125
+Anthophora terminalis,mangal_5162,0.41193
+Bombus bifarius,mangal_5162,0.35575999999999997
+Bombus flavifrons,mangal_5162,0.38668
+Bombus sylvicola,mangal_5162,0.43221
+Glaucopsyche lygdamus,mangal_5162,0.37554
+Hoplitis fulgida,mangal_5162,0.41242999999999996
+Lasioglossum,mangal_5162,0.401
+Megachile pugnata,mangal_5162,0.37712999999999997
+Panurginus ineptus,mangal_5162,0.35428000000000004
+Campanula rotundifolia,mangal_5162,0.40107000000000004
+Eremogone congesta,mangal_5162,0.39013
+Erigeron speciosus,mangal_5162,0.36685999999999996
+Helianthella quinquenervis,mangal_5162,0.4295
+Heliomeris multiflora,mangal_5162,0.42464999999999997
+Heterotheca villosa,mangal_5162,0.27092000000000005
+Potentilla hippiana,mangal_5162,0.39456
+Sedum lanceolatum,mangal_5162,0.42434000000000005
+Bombus appositus,mangal_5165,0.41776
+Bombus bifarius,mangal_5165,0.30606999999999995
+Bombus californicus,mangal_5165,0.41568000000000005
+Bombus flavifrons,mangal_5165,0.38691
+Bombus insularis,mangal_5165,0.41578000000000004
+Bombus sylvicola,mangal_5165,0.41657999999999995
+Glaucopsyche lygdamus,mangal_5165,0.38600999999999996
+Halictus rubicundus,mangal_5165,0.41418
+Lasioglossum,mangal_5165,0.44114
+Megachile melanophaea,mangal_5165,0.43162
+Megachile pugnata,mangal_5165,0.39836000000000005
+Ochlodes sylvanoides,mangal_5165,0.41652999999999996
+Panurginus ineptus,mangal_5165,0.43476000000000004
+Speyeria mormonia,mangal_5165,0.41559999999999997
+Campanula rotundifolia,mangal_5165,0.43255999999999994
+Eremogone congesta,mangal_5165,0.42013999999999996
+Erigeron flagellaris,mangal_5165,0.41752
+Erigeron speciosus,mangal_5165,0.42073000000000005
+Heliomeris multiflora,mangal_5165,0.33225000000000005
+Heterotheca villosa,mangal_5165,0.22874000000000005
+Potentilla hippiana,mangal_5165,0.39761
+Bombus appositus,mangal_5166,0.39305
+Bombus bifarius,mangal_5166,0.39398
+Bombus californicus,mangal_5166,0.39422
+Bombus flavifrons,mangal_5166,0.39231000000000005
+Bombus frigidus,mangal_5166,0.42752999999999997
+Bombus insularis,mangal_5166,0.43274
+Bombus occidentalis,mangal_5166,0.39320999999999995
+Bombus sylvicola,mangal_5166,0.43017000000000005
+Chrysotoxum derivatum,mangal_5166,0.43386
+Glaucopsyche lygdamus,mangal_5166,0.43335
+Halictus rubicundus,mangal_5166,0.43167999999999995
+Systoechus,mangal_5166,0.43061000000000005
+Heliomeris multiflora,mangal_5166,0.26924000000000003
+Heterotheca villosa,mangal_5166,0.28264999999999996
+Andrena cyanophila,mangal_5170,0.41608
+Bombus bifarius,mangal_5170,0.38636000000000004
+Callophrys affinis,mangal_5170,0.41295000000000004
+Eupeodes volucris,mangal_5170,0.41838
+Lasioglossum,mangal_5170,0.41485000000000005
+Muscidae,mangal_5170,0.41552999999999995
+Claytonia lanceolata,mangal_5170,0.29028
+Mertensia oblongifolia,mangal_5170,0.42779999999999996
+Andrena cyanophila,mangal_5186,0.38876999999999995
+Bombus bifarius,mangal_5186,0.38902000000000003
+Callophrys affinis,mangal_5186,0.41786999999999996
+Eupeodes volucris,mangal_5186,0.41549
+Lasioglossum,mangal_5186,0.38783
+Muscidae,mangal_5186,0.41730999999999996
+Osmia lignaria,mangal_5186,0.4163
+Claytonia lanceolata,mangal_5186,0.27556
+Erythronium grandiflorum,mangal_5186,0.39771999999999996
+Mertensia oblongifolia,mangal_5186,0.43396
+Bombus appositus,mangal_5201,0.42952999999999997
+Bombus bifarius,mangal_5201,0.39871
+Bombus californicus,mangal_5201,0.39632
+Bombus flavifrons,mangal_5201,0.43184999999999996
+Bombus insularis,mangal_5201,0.39788999999999997
+Glaucopsyche lygdamus,mangal_5201,0.39642999999999995
+Muscidae,mangal_5201,0.42796
+Panurginus ineptus,mangal_5201,0.39776
+Thricops septentrionalis,mangal_5201,0.42948
+Heliomeris multiflora,mangal_5201,0.26497000000000004
+Heterotheca villosa,mangal_5201,0.33765

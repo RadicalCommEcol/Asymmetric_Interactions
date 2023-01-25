@@ -1,0 +1,370 @@
+node_id,taxonomy_name,taxonomy_rank
+mangal_node_0084,Ichneumonidae,family
+mangal_node_0087,Braconidae,family
+mangal_node_0089,Apis mellifera,species
+mangal_node_0107,Salix,genus
+mangal_node_0210,Taraxacum officinale,species
+mangal_node_0982,Achillea millefolium,species
+mangal_node_0998,Anthemis cotula,species
+mangal_node_1029,Capsella bursa-pastoris,species
+mangal_node_1114,Helianthus annuus,species
+mangal_node_1165,Marrubium vulgare,species
+mangal_node_1167,Melilotus albus,species
+mangal_node_1209,Persicaria lapathifolia lapathifolia,infraspecies
+mangal_node_1304,Trifolium pratense,species
+mangal_node_1333,Agapostemon texanus,species
+mangal_node_1426,Tropidia quadrata,species
+mangal_node_1427,Helophilus latifrons,species
+mangal_node_1609,Melissodes agilis,species
+mangal_node_1626,Vanessa atalanta,species
+mangal_node_1660,Eristalis tenax,species
+mangal_node_1991,Solanum americanum,species
+mangal_node_2141,Halictus rubicundus,species
+mangal_node_2146,Osmia lignaria,species
+mangal_node_2151,Sphaerophoria,genus
+mangal_node_2174,Halictus confusus,species
+mangal_node_2179,Osmia proxima,species
+mangal_node_2185,Sphecodes,genus
+mangal_node_2186,Syritta pipiens,species
+mangal_node_2250,Centris aenea,species
+mangal_node_2251,Centris fuscata,species
+mangal_node_2252,Centris caxiensis,species
+mangal_node_2253,Centris tarsata,species
+mangal_node_2254,Centris flavifrons,species
+mangal_node_2255,Centris trigonoides,species
+mangal_node_2256,Centris obsoleta,species
+mangal_node_2257,Epicharis,genus
+mangal_node_2258,Centris,genus
+mangal_node_2259,Xylocopa,genus
+mangal_node_2260,Xylocopa grisescens,species
+mangal_node_2261,Diplopterys pubipetala,species
+mangal_node_2262,Byrsonima gardnerana,NA
+mangal_node_2263,Banisteriopsis muricata,species
+mangal_node_2264,Heteropterys,genus
+mangal_node_2265,Dicella bracteosa,species
+mangal_node_2266,Carolus chasei,species
+mangal_node_2267,Stigmaphyllon paralias,species
+mangal_node_2268,Banisteriopsis stellaris,species
+mangal_node_2269,Banisteriopsis schizoptera,species
+mangal_node_2270,Stigmaphyllon auriculatum,species
+mangal_node_2271,Stigmaphyllon ciliatum,species
+mangal_node_2272,Janusia anisandra,species
+mangal_node_2515,Lotus corniculatus,species
+mangal_node_2542,Ornidia obesa,species
+mangal_node_2545,Megachile,genus
+mangal_node_2802,Papilio machaon,species
+mangal_node_2815,Lasioglossum,genus
+mangal_node_2866,Nomada,genus
+mangal_node_3087,Osmia,genus
+mangal_node_3094,Platycheirus obscurus,species
+mangal_node_3118,Erodium cicutarium,species
+mangal_node_3159,Tachinidae,family
+mangal_node_3161,Hymenoptera,order
+mangal_node_3165,Bibionidae,family
+mangal_node_3166,Coleoptera,order
+mangal_node_3189,Anthophora,genus
+mangal_node_3198,Colletes,genus
+mangal_node_3200,Muscidae,family
+mangal_node_3232,Syrphidae,family
+mangal_node_3240,Pieris rapae,species
+mangal_node_3255,Andrena,genus
+mangal_node_3275,Galactites tomentosa,species
+mangal_node_3281,Cistus monspeliensis,species
+mangal_node_3290,Raphanus raphanistrum,species
+mangal_node_3635,Malva parviflora,species
+mangal_node_3636,Brassica,genus
+mangal_node_3638,Eupeodes fumipennis,species
+mangal_node_3639,Bombus melanopygus,species
+mangal_node_3640,Lactuca serriola,species
+mangal_node_3641,Convolvulus arvensis,species
+mangal_node_3642,Paragus haemorrhous,species
+mangal_node_3643,Halictus tripartitus,species
+mangal_node_3644,Scaeva pyrastri,species
+mangal_node_3645,Syritta flaviventris,species
+mangal_node_3646,Cheilosia aenea,species
+mangal_node_3647,Centaurea solstitialis,species
+mangal_node_3648,Lasioglossum incompletum,species
+mangal_node_3649,Toxomerus marginatus,species
+mangal_node_3650,Sphaerophoria contigua,species
+mangal_node_3651,Helminthotheca echioides,species
+mangal_node_3652,Halictus ligatus,species
+mangal_node_3653,Syrphus opinator,species
+mangal_node_3654,Eupeodes volucris,species
+mangal_node_3656,Sphaerophoria sulphuripes,species
+mangal_node_3657,Sphaerophoria pyrrhina,species
+mangal_node_3659,Salvia,genus
+mangal_node_3660,Eschscholzia californica,species
+mangal_node_3661,Ceanothus,genus
+mangal_node_3663,Ceriana tridens,species
+mangal_node_3664,Megachile onobrychidis,NA
+mangal_node_3665,Bombus vosnesenskii,species
+mangal_node_3666,Andrena candida,species
+mangal_node_3667,Eriogonum fasciculatum,species
+mangal_node_3668,Chenopodium album,species
+mangal_node_3669,Rhamnus californica,NA
+mangal_node_3670,Anthophora urbana,species
+mangal_node_3674,Polygonum arenastrum,species
+mangal_node_3675,Heteromeles arbutifolia,species
+mangal_node_3676,Lasioglossum diversopunctatum,species
+mangal_node_3677,Ceratina arizonensis,species
+mangal_node_3681,Hylaeus mesillae,species
+mangal_node_3682,Andrena chlorogaster,species
+mangal_node_3684,Lasioglossum sisymbrii,species
+mangal_node_3686,Malvella leprosa,species
+mangal_node_3688,Lasioglossum megastictum,species
+mangal_node_3689,Lepidium latifolium,species
+mangal_node_3690,Toxomerus occidentalis,species
+mangal_node_3691,Allograpta exotica,species
+mangal_node_3692,Heliotropium curassavicum,species
+mangal_node_3693,Melissodes robustior,species
+mangal_node_3694,Calliopsis scutellaris,species
+mangal_node_3695,Sambucus mexicana,NA
+mangal_node_3696,Foeniculum vulgare,species
+mangal_node_3697,Eucera actuosa,species
+mangal_node_3698,Calendula officinalis,species
+mangal_node_3699,Phacelia californica,species
+mangal_node_3700,Megachile gentilis,species
+mangal_node_3701,Sonchus,genus
+mangal_node_3702,Melissodes stearnsi,species
+mangal_node_3705,Melilotus officinalis,species
+mangal_node_3706,Bombus californicus,species
+mangal_node_3709,Rosa californica,species
+mangal_node_3710,Melissodes lupina,species
+mangal_node_3711,Grindelia camporum,NA
+mangal_node_3713,Lobularia maritima,species
+mangal_node_3717,Megachile apicalis,species
+mangal_node_3718,Megachile angelarum,species
+mangal_node_3719,Andrena cerasifolii,species
+mangal_node_3722,Platycheirus stegnus,species
+mangal_node_3723,Allograpta obliqua,species
+mangal_node_3724,Eristalis stipator,species
+mangal_node_3725,Asclepias fascicularis,species
+mangal_node_3726,Hylaeus conspicuus,species
+mangal_node_3728,Ceratina nanula,species
+mangal_node_3730,Lasioglossum titusi,species
+mangal_node_3732,Grindelia hirsutula,species
+mangal_node_3733,Diadasia enavata,species
+mangal_node_3735,Ceratina acantha,species
+mangal_node_3736,Ceratina dallatorreana,species
+mangal_node_3737,Baccharis salicifolia,species
+mangal_node_3738,Atriplex lentiformis,species
+mangal_node_3739,Silybum marianum,species
+mangal_node_3740,Eristalis arbustorum,species
+mangal_node_3742,Carduus pycnocephalus,species
+mangal_node_3743,Rubus rigidus,species
+mangal_node_3744,Datura wrightii,species
+mangal_node_3745,Ceratina timberlakei,species
+mangal_node_3748,Diadasia consociata,species
+mangal_node_3749,Medicago sativa,species
+mangal_node_3752,Medicago polymorpha,species
+mangal_node_3753,Tribulus terrestris,species
+mangal_node_3759,Megachile fidelis,species
+mangal_node_3761,Lasioglossum diatretum,species
+mangal_node_3762,Malva neglecta,species
+mangal_node_3763,Lasioglossum punctatoventre,species
+mangal_node_3765,Sphecodes kincaidii,species
+mangal_node_3770,Megachile coquilletti,species
+mangal_node_3771,Hylaeus rudbeckiae,species
+mangal_node_3778,Aster chilensis,NA
+mangal_node_3779,Kickxia elatine,species
+mangal_node_3781,Osmia coloradensis,species
+mangal_node_3782,Osmia granulosa,species
+mangal_node_3787,Megachile montivaga,species
+mangal_node_3789,Andrena scurra,species
+mangal_node_3792,Andrena piperi,species
+mangal_node_3799,Triepeolus,genus
+mangal_node_3800,Centaurea cyanus,species
+mangal_node_3802,Triepeolus timberlakei,species
+mangal_node_3803,Croton setigerus,species
+mangal_node_3804,Copestylum mexicanum,species
+mangal_node_3815,Alyssum,genus
+mangal_node_3816,Physalis philadelphica,species
+mangal_node_3817,Symphoricarpos mollis,species
+mangal_node_3820,Dipsacus laciniatus,species
+mangal_node_5524,Polistes olivaceus,species
+mangal_node_5529,Eristalinus vicarians,species
+mangal_node_5540,Cratopus aurostriatus,species
+mangal_node_5554,Dillenia ferruginea,species
+mangal_node_5569,Chrysobalanus icaco,species
+mangal_node_5573,Trypoxylon errans,species
+mangal_node_5792,Bombus terrestris,species
+mangal_node_5809,Hylaeus,genus
+mangal_node_6015,Sphaerophoria philanthus,species
+mangal_node_6047,Andrena taraxaci,species
+mangal_node_6655,Oedemera lurida,NA
+mangal_node_6849,Oedemera flavipes,NA
+mangal_node_6850,Anthidium sticticum,NA
+mangal_node_6851,Psilothrix viridicoerulea,NA
+mangal_node_6852,Cryptocephalus,NA
+mangal_node_6853,Osmia aurulenta,NA
+mangal_node_6854,Anthophora aestivalis,NA
+mangal_node_6855,Andrena cinerea,NA
+mangal_node_6856,Apis melifera,NA
+mangal_node_6857,Polistes gallicus,NA
+mangal_node_6858,Adelidae,NA
+mangal_node_6859,Lasioglossum bimaculatum,NA
+mangal_node_6860,Anthophora retusa,NA
+mangal_node_6861,Andrena senecionis,NA
+mangal_node_6862,Chalicodoma pyrenaica,NA
+mangal_node_6863,Panurgus calcaratus,NA
+mangal_node_6864,Anthidium septemspinosum,NA
+mangal_node_6865,Milichidae,NA
+mangal_node_6866,Andrena agilissima,NA
+mangal_node_6867,Urospermum picroides,NA
+mangal_node_6868,Sonchus tenerrinus,NA
+mangal_node_6869,Lavandula stoechas,NA
+mangal_node_6870,Aetheorrhiza bulbosa,NA
+mangal_node_6871,Euphorbia segetalis,NA
+mangal_node_6872,Convolvulus althaeoides,NA
+mangal_node_6873,Alyssum maritimum,NA
+mangal_node_6874,Lathyrus clymenum,NA
+mangal_node_6875,Thymelaea hirsuta,NA
+mangal_node_6876,Mordella bipunctata,NA
+mangal_node_6877,Helorus coruscus,NA
+mangal_node_6878,Andrena colletiformis,NA
+mangal_node_6879,Oxythyrea funesta,NA
+mangal_node_6880,Halictus gemmeus,NA
+mangal_node_6881,Plagiolepis pygmaea,NA
+mangal_node_6882,Lasioglossum pauxillum,NA
+mangal_node_6883,Callophrys rubi,NA
+mangal_node_6884,Andrena nigroaenea,NA
+mangal_node_6885,Nomada merceti,NA
+mangal_node_6886,Hylaeus gredleri,NA
+mangal_node_6887,Eucera,NA
+mangal_node_6888,Mordellistena pumila,NA
+mangal_node_6889,Dasytidae,NA
+mangal_node_6890,Nomada fallax,NA
+mangal_node_6891,Oedemera nobilis,NA
+mangal_node_6892,Andrena fabrella,NA
+mangal_node_6893,Carpobrotus affinis acinaciformis,NA
+mangal_node_6894,Scolia hirta,NA
+mangal_node_6895,Ceratina curcurbitina,NA
+mangal_node_6896,Hylaeus variegatus,NA
+mangal_node_6897,Halictus pyrenaeus,NA
+mangal_node_6898,Echium sabulicola,NA
+mangal_node_6899,Daucus carota carota,NA
+mangal_node_6900,Eryngium campestre,NA
+mangal_node_6901,Sedum sediforme,NA
+mangal_node_6902,Oedemera barbara,NA
+mangal_node_6903,Hylaeus nigritus,NA
+mangal_node_6904,Camponotus aetiops,NA
+mangal_node_6905,Xylocopa violacea,NA
+mangal_node_6906,Halictus fulvipes,NA
+mangal_node_6907,Allium ampeloprasum,NA
+mangal_node_6908,Opuntia stricta,NA
+mangal_node_6909,Panurgus,NA
+mangal_node_6910,Nomada succincta,NA
+mangal_node_6911,Bombilius,NA
+mangal_node_6912,Andrena lepida,NA
+mangal_node_6913,Osmia dimidiata,NA
+mangal_node_6914,Cistus albidus,NA
+mangal_node_6915,Rosmarinus officinalis,NA
+mangal_node_6916,Cistus salvifolius,NA
+mangal_node_6917,Vicia lutea,NA
+mangal_node_6918,Dorycnium pentaphyllum,NA
+mangal_node_6919,Linum,NA
+mangal_node_6920,Panurgus banksianus,NA
+mangal_node_6921,Platynochaetus setosus,NA
+mangal_node_6922,Conophorus virescens,NA
+mangal_node_6923,Andrena villipes,NA
+mangal_node_6924,Lasioglossum xanthopus,NA
+mangal_node_6925,Hylaeus taeniolatus,NA
+mangal_node_6926,Helianthemum guttatum,NA
+mangal_node_6927,Megachilidae,NA
+mangal_node_6928,Sphecodes gibbus,NA
+mangal_node_6929,Mylabris quadripunctata,NA
+mangal_node_6930,Helichrysum stoechas,NA
+mangal_node_6931,Lasioglossum parvulum,NA
+mangal_node_6932,Psoralea bituminosa,NA
+mangal_node_6933,Andrena haemorrhoa,NA
+mangal_node_6934,Halictus quadricinctus,NA
+mangal_node_6935,Osmia tricornis,NA
+mangal_node_6936,Zygaena,NA
+mangal_node_6937,Pyronia tithonus,NA
+mangal_node_6938,Xylocopa iris,NA
+mangal_node_6939,Hoplitis adunca,NA
+mangal_node_6940,Andrena tenuistriata,NA
+mangal_node_6941,Andrena ovatula,NA
+mangal_node_6942,Brassica fruticulosa,NA
+mangal_node_6943,Trichodes apiarius,NA
+mangal_node_6944,Physocephala,NA
+mangal_node_6945,Scabiosa stellata,NA
+mangal_node_6946,Diptera,NA
+mangal_node_6947,Osmia submicans,NA
+mangal_node_6948,Buprestidae,NA
+mangal_node_6949,Lasioglossum interruptum,NA
+mangal_node_6950,Gymnosoma rotundatum,NA
+mangal_node_6951,Megachile atratula,NA
+mangal_node_6952,Cerceris,NA
+mangal_node_6953,Ruta chalepensis,NA
+mangal_node_6954,Halictus subauratus,NA
+mangal_node_6955,Hypericum perfoliatum,NA
+mangal_node_6956,Stenopterus rufus,NA
+mangal_node_6957,Dianthus caryophyllus,NA
+mangal_node_6958,Lasiopogon,NA
+mangal_node_7200,Andrena cyanophila,NA
+mangal_node_7201,Claytonia lanceolata,NA
+mangal_node_7202,Mertensia oblongifolia,NA
+mangal_node_7203,Viola praemorsa,NA
+mangal_node_7205,Draba aurea,NA
+mangal_node_7206,Hydrophyllum capitatum,NA
+mangal_node_7207,Osmia iridis,NA
+mangal_node_7208,Cymopterus lemmonii,NA
+mangal_node_7209,Senecio integerrimus,NA
+mangal_node_7210,Lathyrus lanszwertii,NA
+mangal_node_7211,Osmia montana,NA
+mangal_node_7212,Boechera stricta,NA
+mangal_node_7213,Bombus appositus,NA
+mangal_node_7214,Delphinium nuttallianum,NA
+mangal_node_7215,Systoechus,NA
+mangal_node_7216,Bombus flavifrons,NA
+mangal_node_7217,Erigeron flagellaris,NA
+mangal_node_7218,Nymphalidae,NA
+mangal_node_7219,Osmia subaustralis,NA
+mangal_node_7220,Eriogonum umbellatum,NA
+mangal_node_7221,Selasphorus platycercus,NA
+mangal_node_7222,Megachile pugnata,NA
+mangal_node_7223,Halictidae,NA
+mangal_node_7224,Ipomopsis aggregata,NA
+mangal_node_7225,Hoplitis fulgida,NA
+mangal_node_7226,Eremogone congesta,NA
+mangal_node_7227,Potentilla hippiana,NA
+mangal_node_7228,Lycaenidae,NA
+mangal_node_7230,Helianthella quinquenervis,NA
+mangal_node_7231,Colletes kincaidii,NA
+mangal_node_7232,Coelioxys funeraria,NA
+mangal_node_7233,Bombus bifarius,NA
+mangal_node_7234,Megachile relativa,NA
+mangal_node_7235,Heterotheca villosa,NA
+mangal_node_7236,Sedum lanceolatum,NA
+mangal_node_7237,Erigeron speciosus,NA
+mangal_node_7238,Ochlodes sylvanoides,NA
+mangal_node_7239,Agoseris aurantiaca,NA
+mangal_node_7240,Campanula rotundifolia,NA
+mangal_node_7243,Bombus sylvicola,NA
+mangal_node_7244,Thricops septentrionalis,NA
+mangal_node_7245,Bombus occidentalis,NA
+mangal_node_7246,Heliomeris multiflora,NA
+mangal_node_7247,Solidago multiradiata,NA
+mangal_node_7248,Andrena costillensis,NA
+mangal_node_7249,Panurginus ineptus,NA
+mangal_node_7250,Pieridae,NA
+mangal_node_7251,Erythronium grandiflorum,NA
+mangal_node_7253,Osmia bucephala,NA
+mangal_node_7256,Andrena transnigra,NA
+mangal_node_7257,Anthophora terminalis,NA
+mangal_node_7259,Mertensia ciliata,NA
+mangal_node_7260,Rosa woodsii,NA
+mangal_node_7261,Senecio serra,NA
+mangal_node_7262,Osmia grindeliae,NA
+mangal_node_7263,Hydrophyllum fendleri,NA
+mangal_node_7264,Bombus insularis,NA
+mangal_node_7266,Bombus nevadensis,NA
+mangal_node_7267,Megachile melanophaea,NA
+mangal_node_7268,Glaucopsyche lygdamus,NA
+mangal_node_7269,Potentilla gracilis,NA
+mangal_node_7270,Chrysotoxum derivatum,NA
+mangal_node_7272,Andrena vicinoides,NA
+mangal_node_7273,Speyeria mormonia,NA
+mangal_node_7274,Bombus frigidus,NA
+mangal_node_7283,Callophrys affinis,NA
