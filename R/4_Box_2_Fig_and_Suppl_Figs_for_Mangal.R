@@ -44,6 +44,23 @@ mean_p_excl_data <- p_excl_data_aux %>%
 
 # Fig. 5 (box 2)
 
+mean_p_excl_data_5019 <- mean_p_excl_data  %>% filter(network_id=="mangal_5019",
+                                                      type != "no_intrasp_competition")
+
+
+mean_p_excl_data_5019_animal <- mean_p_excl_data_5019  %>% filter(kingdom!="Plantae")
+mean_p_excl_data_5019_plantae <- mean_p_excl_data_5019  %>% filter(kingdom=="Plantae")
+
+cor.test(mean_p_excl_data_5019$value,mean_p_excl_data_5019$degree)
+
+mean(mean_p_excl_data_5019_animal$value)
+sd(mean_p_excl_data_5019_animal$value)
+
+mean(mean_p_excl_data_5019_plantae$value)
+sd(mean_p_excl_data_5019_plantae$value)
+
+cor.test(mean_p_excl_data$value,mean_p_excl_data$degree, method = "spearman")
+
 png("Images/mangal_example_no_intrasp_competition.png",
     width = 11.69*0.5, # The width of the plot in inches
     height = 11.69*0.5, units = "in", res=300*2)
