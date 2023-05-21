@@ -17,7 +17,7 @@ ggplot(expectations, aes(x=x, y=y, color = name))+
   scale_color_discrete(labels = unname(TeX(c("$\\;\\;\\;\\;\\theta_A\\uparrow\\uparrow,\\;P_A^E\\downarrow\\downarrow,\\;ER_A\\downarrow\\downarrow$",
                                              "$\\;\\;\\;\\;\\theta_A\\downarrow\\downarrow,\\;P_A^E\\uparrow\\uparrow,\\;ER_A\\uparrow\\uparrow$"))))+
   theme_bw()+
-  labs(x="Time",y="Expected abundance",color=NULL)+
+  labs(x="Time",y="Expected population growth",color=NULL)+
   theme(legend.position="none")+
   annotate("text", x=12.5, y=15.5, size= 8, colour = "cyan3", label=TeX(c("$\\;\\;\\;\\;\\theta_A\\uparrow\\uparrow,\\;P_A^E\\downarrow\\downarrow,\\;ER_A\\downarrow\\downarrow$")))+
   annotate("text", x=12.5, y=9.5, size= 8, colour = "salmon", label=TeX(c("$\\;\\;\\;\\;\\theta_A\\downarrow\\downarrow,\\;P_A^E\\uparrow\\uparrow,\\;ER_A\\uparrow\\uparrow$")))+
