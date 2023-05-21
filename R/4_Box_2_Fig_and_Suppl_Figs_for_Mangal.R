@@ -42,8 +42,17 @@ p_excl_data_aux <-  mutate(p_excl_data_aux,
 mean_p_excl_data <- p_excl_data_aux %>% 
   group_by(network_id,species,type,kingdom, metric) %>% summarise_all(mean)
 
-# Fig. 5 (box 2)
 
+# Correlation between prob. of excl. and degree for 88 networks
+
+cor.test(mean_p_excl_data$value,mean_p_excl_data$degree)
+
+mean(mean_p_excl_data$value[mean_p_excl_data$kingdom=="Animalia"])
+mean(mean_p_excl_data$value[mean_p_excl_data$kingdom=="Plantae"])
+sd(mean_p_excl_data$value[mean_p_excl_data$kingdom=="Animalia"])
+sd(mean_p_excl_data$value[mean_p_excl_data$kingdom=="Plantae"])
+
+# Data for the network 5019: Old Fig. 5 (box 2)
 mean_p_excl_data_5019 <- mean_p_excl_data  %>% filter(network_id=="mangal_5019",
                                                       type != "no_intrasp_competition")
 
@@ -53,6 +62,7 @@ mean_p_excl_data_5019_plantae <- mean_p_excl_data_5019  %>% filter(kingdom=="Pla
 
 cor.test(mean_p_excl_data_5019$value,mean_p_excl_data_5019$degree)
 
+# Average data for the 88 networks
 mean(mean_p_excl_data_5019_animal$value)
 sd(mean_p_excl_data_5019_animal$value)
 
