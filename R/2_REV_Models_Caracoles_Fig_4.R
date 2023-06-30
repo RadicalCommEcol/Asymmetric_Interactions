@@ -250,7 +250,7 @@ ggplot(data,aes(x=prob_excl_prev_year,y=ratio_tplus1_over_t))+
 ggplot(data,aes(x=exclusion_ratio_prev_year,y=ratio_tplus1_over_t))+
   geom_point()
 
-ggplot(data,aes(x=exclusion_distance_prev_year,y=ratio_tplus1_over_t))+
+ggplot(data,aes(x=arc_distance_prev_year,y=ratio_tplus1_over_t))+
   geom_point()
 
 gamma_individuals_prev_year_model <- glm(ratio_tplus1_over_t ~ total_individuals_prev_year,data = data,
@@ -289,7 +289,7 @@ gaussian_prob_excl_model <- glm(ratio_tplus1_over_t ~ prob_excl_prev_year,data =
                              control = list(maxit = 100))# Converged
 
 summary(gaussian_individuals_prev_year_model)
-summary(gaussian_exclusion_ratio_model)
+summary(gaussian_exclusion_ratio_model) # Algorithm did not converge
 summary(gaussian_prob_excl_model)
 summary(gaussian_arc_distance_model)
 
@@ -609,13 +609,13 @@ data_growth$species_name[data_growth$species == "PUPA"] <- "Pulicaria\npaludosa"
 
 
 # Extract nls mean curve
-mean_curve_fit <- tibble(exclusion_ratio_prev_year = seq(min(data_growth$exclusion_ratio_prev_year), max(data_growth$exclusion_ratio_prev_year), by = 0.01),
+mean_curve_fit <- tibble(exclusion_ratio_prev_year = seq(min(data_growth$exclusion_ratio_prev_year), 2.5, by = 0.01),
                          log10_ratio_tplus1_over_t = 0.6462*exp(-0.3181*exclusion_ratio_prev_year))
 
 # Extract mean curve fir and confidence intervals from nls
 library(investr)
 
-new.data <- data.frame(exclusion_ratio_prev_year = seq(min(data_growth$exclusion_ratio_prev_year), max(data_growth$exclusion_ratio_prev_year),by = 0.01))
+new.data <- data.frame(exclusion_ratio_prev_year = seq(min(data_growth$exclusion_ratio_prev_year),2.5,by = 0.01))
 interval <- as_tibble(investr::predFit(fit_excl_ratio_exp_neg, newdata = new.data, interval = "confidence", level= 0.95)) %>% 
   mutate(exclusion_ratio_prev_year = new.data$exclusion_ratio_prev_year)
 
@@ -643,12 +643,12 @@ population_growth_plants
 library(patchwork)
 population_growth_plants + population_growth_boxplots
 
-png("Images/caracoles_negative_exp_simple_COMBO.png",
+png("Images/neg_exp_population_growth_model_ER.png",
     width = 11.69*1.5, # The width of the plot in inches
     height = 11.69*0.8, units = "in", res=300*2)
 (population_growth_plants+
-    ylim(c(-.1,2.5))) + (population_growth_boxplots+
-                           ylim(c(-.1,2.5)))
+    ylim(c(-.2,2.5))) + (population_growth_boxplots+
+                           ylim(c(-.2,2.5)))
 dev.off()
 
 
