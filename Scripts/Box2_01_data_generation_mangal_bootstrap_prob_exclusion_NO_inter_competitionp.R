@@ -1,4 +1,24 @@
 
+# Bootstrap of the probabilities of exclusion for the 88 networks in mangal,
+# by using a parameterization with NO interspecific competition (see Saavedra et
+# al. 2016 for further details [doi: 10.1002/ece3.1930])
+
+# To build the interaction matrix from raw data we use the following auxiliary 
+# function: "Scripts/aux_functions/interaction_strength_matrix_from_edge_list.R"
+
+# To bootstrap the probabilities of exclusion for each network we use the 
+# following auxiliary function: "Scripts/aux_functions/exclusion_probabilities_par_bootstrap.R"
+
+# INPUT: 
+# network information without NAs: "Results/mangal_processed_data/NO_NAs_mangal_links_processed_kingdom.csv"
+
+# OUTPUT:
+# Preprocessed species' probabilities of exclusion: 
+# "Results/mangal_processed_data/NO_NAs_NO_interspec_competition_mangal_boot_networks_rep_100000.csv"
+
+
+#-----------------------------------------------------------------------
+
 library(matlib) # to multiply matrices
 library(tidyverse)
 library(nleqslv) # to solve non-linear equations
@@ -12,8 +32,8 @@ library(boot)
 library(anisoFun)
 
 # Functions to run calculations about the isotropic area
-source("R/interaction_strength_matrix_from_edge_list.R")
-source("R/exclusion_probabilities_par_bootstrap.R")
+source("Scripts/aux_functions/interaction_strength_matrix_from_edge_list.R")
+source("Scripts/aux_functions/exclusion_probabilities_par_bootstrap.R")
 
 
 simple_mean <- function(x, indices){
@@ -21,7 +41,7 @@ simple_mean <- function(x, indices){
 }
 
 # Load link information
-matrix_links_raw <- read_csv("Data/mangal_processed_data/NO_NAs_mangal_links_processed_kingdom.csv")
+matrix_links_raw <- read_csv("Results/mangal_processed_data/NO_NAs_mangal_links_processed_kingdom.csv")
 networks_included <- matrix_links_raw$network_id %>% unique()
 
 # Sanity check
@@ -51,7 +71,7 @@ for(network_i in networks_included){
     rho = 0
     delta = .25
     
-    source("R/mutualistic_strength_solver.R")
+    source("Scripts/aux_functions/mutualistic_strength_solver.R")
     
     xstart <- c(1)
     mutualistic_strength_results <- nleqslv(xstart,mutualistic_strength_solver)
@@ -117,7 +137,7 @@ for(network_i in networks_included){
                                              mangal_prob_exclusion_aux)
     
     write_csv(mangal_prob_exclusion,
-              paste0("Data/mangal_processed_data/NO_NAs_NO_interspec_competition_mangal_boot_networks_rep_",
+              paste0("Results/mangal_processed_data/NO_NAs_NO_interspec_competition_mangal_boot_networks_rep_",
               number_Omega_replicates,".csv"))
 
   
