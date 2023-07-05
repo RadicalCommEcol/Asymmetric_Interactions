@@ -1,35 +1,30 @@
+
+# Estimation of asymmetry metric proposed by Grilli et al. 2017 
+# (DOI: 10.1038/ncomms14389) in Caracoles, across sampling years. 
+
+# To build the interaction matrix of the community in a given year
+# from raw data we use the following auxiliary function: "Scripts/aux_functions/matrix_year_i.R"
+
+# INPUT: 
+# interaction matrices: "Data/caracoles_raw_data/alpha_heterogeneous_time.csv"
+
+# OUTPUT:
+# Asymmetry metric by Grilli et al.: "Results/caracoles_processed_data/caracoles_grilli.csv"
+
+# -------------------------------------------------------------------------
+
 library(matlib) # to multiply matrices
 library(tidyverse)
 library(pracma) # to solve n-dimensional cross products
 library(anisoFun)
 
 # Functions to run calculations on arc distances
-source("R/matrix_year_i.R")
+source("Scripts/aux_functions/matrix_year_i.R")
 
 # We create the metaweb for each year
 matrix_entries_raw <- read_csv2("Data/caracoles_raw_data/alpha_heterogeneous_time.csv") %>%
   group_by(year,focal,neighbour) %>% summarise(magnitude = mean(magnitude, na.rm =T))
 
-growth_rates_raw_homo <- read_csv2("Data/caracoles_raw_data/lambda_heterogeneous_time.csv") %>%
-  group_by(year,sp) %>% summarise(lambda = mean(lambda, na.rm =T)) %>%
-  rename(focal = sp)
-
-growth_rates_raw_hete <- read_csv2("Data/caracoles_raw_data/lambda_heterogeneous_both.csv") %>%
-  group_by(year,sp) %>% summarise(mean_lambda_hete = mean(lambda, na.rm =T)) %>%
-  rename(focal = sp)
-
-abundance_raw <- read_csv("Data/caracoles_raw_data/abundance.csv") %>%
-  group_by(year, species) %>% summarise(abundance = sum(individuals, na.rm =T)) %>%
-  rename(focal = species)
-
-traits_raw <- read_csv2("Data/caracoles_raw_data/01_05_plant_species_traits.csv") %>%
-  rename(focal = species.code)
-
-growth_rates_raw <- growth_rates_raw_homo %>%
-  left_join(growth_rates_raw_hete, by = c("year", "focal")) %>%
-  left_join(abundance_raw, by = c("year", "focal")) %>%
-  left_join(traits_raw, by = c("focal")) %>%
-  mutate(r_LV = log((1-(1-germination.rate)*seed.survival)/germination.rate) - lambda)
 
 years_included <- matrix_entries_raw$year %>% unique()
 
@@ -68,4 +63,4 @@ for(year_i in years_included){
 
 caracoles_results <- tibble(year= years_included,
                             grilli_index=caracoles_grilli_index)
-write_csv(caracoles_results, paste0("Data/caracoles_processed_data/caracoles_grilli.csv"))
+write_csv(caracoles_results, paste0("Results/caracoles_processed_data/caracoles_grilli.csv"))
