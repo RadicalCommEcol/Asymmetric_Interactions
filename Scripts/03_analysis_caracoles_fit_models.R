@@ -1,4 +1,16 @@
 
+# Model fits to predict species population growth in Caracoles study system,
+# and their corresponding statistical analyses. 
+
+# INPUT: 
+# Data for models: "Results/abundance_model_data.csv"
+
+# OUTPUT:
+# Data for Results (main text) and supplementary tables S3-s13.
+
+# -------------------------------------------------------------------------
+
+
 library(tidyverse)
 library(MASS)
 library(fitdistrplus)
