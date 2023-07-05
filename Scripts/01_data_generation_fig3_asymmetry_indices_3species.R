@@ -1,4 +1,26 @@
 
+# Estimation of Asymmetry index by Allen-Perkins et al. and the asymmetry metric
+# by Grilli et al. (DOI: 10.1038/ncomms14389) when we reduce the size of the
+# feasibility domain but preserve the proportions of the distances between the 
+# domain’s vertices.
+
+# To calculate the value of our asymmetry index for a given interaction matrix 
+# we use # the following auxiliary functions: 
+# "Scripts/aux_functions/isotropy_index.R" and
+# "Scripts/aux_functions/isotropy_metrics_4_int_matrix.R". The latter provides
+# the 95% confidence intervals for such metric.
+
+# INPUT: 
+# number of species: 3
+
+# OUTPUT:
+# Asymmetry index by Allen-Perkins et al. and the asymmetry metric by
+# Grilli et al.: "Results/results_shape_indices_comparisson_D3.csv"
+
+# -------------------------------------------------------------------------
+
+
+
 library(matlib) # to multiply matrices
 library(tidyverse)
 library(anisoFun)
