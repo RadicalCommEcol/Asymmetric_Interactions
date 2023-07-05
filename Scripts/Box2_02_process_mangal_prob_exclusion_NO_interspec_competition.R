@@ -1,3 +1,32 @@
+
+
+# Extraction of the probabilities of exclusion for the 88 networks in mangal,
+# by using a parameterization NO interspecific competition (see Saavedra et al.
+# 2016 for further details [doi: 10.1002/ece3.1930])
+
+# To build the interaction matrix from raw data we use the following auxiliary 
+# function: "Scripts/aux_functions/interaction_strength_matrix_from_edge_list.R"
+
+# To estimate mutualistic strength of each network and parametererization,
+# we use the function: "Scripts/aux_functions/mutualistic_strength_solver.R"
+
+# INPUT: 
+# Pre-processed species' probabilities of exclusion: 
+# "Results/mangal_processed_data/NO_NAs_NO_mutualistic_tradeoff_mangal_boot_networks_rep_100000.csv"
+# nodes data: "Data/mangal_raw_data/mangal_pollination_quant_nodes.csv"
+# links data: "Data/mangal_raw_data/mangal_pollination_quant_links.csv"
+# other information: "Data/mangal_raw_data/mangal_pollination_quant_nets.csv"
+
+# OUTPUT:
+# species' probabilities of exclusion:
+# "Results/mangal_processed_data/NO_NAs_NO_interspec_competition_p_excl_data_aux_rep_100000.csv"
+
+# Note: Since the output is a 3GB file, it is not available in our public repository
+# due to storage constraints.
+
+#-----------------------------------------------------------------------
+
+
 library(tidyverse)
 library(anisoFun)
 library(nleqslv)
