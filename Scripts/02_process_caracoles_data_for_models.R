@@ -1,3 +1,20 @@
+
+# Preparing data to predict species population growth in Caracoles study system. 
+
+# INPUT: 
+# Pre-processed species' probabilities of exclusion: 
+# "Results/caracoles_processed_data/caracoles_boot_plants_year_rep_10000.csv"
+# species exclusion distances: 
+# "Results/caracoles_processed_data/caracoles_arc_distance.csv"
+# Asymmetry metric by Grilli et al.: 
+# "Results/caracoles_processed_data/caracoles_grilli.csv"
+
+# OUTPUT:
+# Data for models: "Results/abundance_model_data.csv"
+
+# -------------------------------------------------------------------------
+
+
 library(tidyverse)
 ############################################################
 # Load species' arc distances
