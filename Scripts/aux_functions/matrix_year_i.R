@@ -32,7 +32,7 @@ matrix_year_i <- function(matrix_entries_raw, year_i){
         matrix_year_i_out[focal_i, neigh_j] <- data_year_i %>% 
           filter(focal == name_plants[focal_i],
                  neighbour == name_plants[neigh_j]) %>% ungroup() %>%
-          select(magnitude) %>% as.numeric()
+          dplyr::select(magnitude) %>% as.numeric()
         
       }
       
