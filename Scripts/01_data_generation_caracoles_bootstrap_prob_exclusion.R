@@ -1,4 +1,22 @@
 
+
+# Estimation of the probabilities of exclusion for all the species in Caracoles,
+# across sampling years. .
+
+# To build the interaction matrix of the community in a given year
+# from raw data we use the following auxiliary function: "Scripts/aux_functions/matrix_year_i.R"
+
+# To bootstrap the probabilities of exclusion of the community in a given year
+# we use the following auxiliary function: "Scripts/aux_functions/exclusion_probabilities_par_bootstrap.R"
+
+# INPUT: 
+# interaction matrices: "Data/caracoles_raw_data/alpha_heterogeneous_time.csv"
+
+# OUTPUT:
+# species' probabilities of exclusion: "Results/caracoles_processed_data/caracoles_boot_plants_year_rep_10000.csv"
+
+
+
 library(matlib) # to multiply matrices
 library(tidyverse)
 library(nleqslv) # to solve non-linear equations
