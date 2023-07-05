@@ -1,16 +1,22 @@
 
+# Statistical information for the 88 networks from mangal, included in
+# the text Box 2.
+
+# INPUT: 
+# species' probabilities of exclusion when there is NO interspecific competition:
+# "Results/mangal_processed_data/NO_NAs_NO_interspec_competition_p_excl_data_aux_rep_100000.csv"
+# species' probabilities of exclusion when there is NO mutualistic tradeoff:
+# "Results/mangal_processed_data/NO_NAs_NO_mutualistic_tradeoff_p_excl_data_aux_rep_100000.csv"
 
 ################################################################################
-# Before running this script, you should run the following scripts:
-# - 3a_Process_Prob_exclusion_Mangal_NO_mutualistic_tradeoff.R
-# - 3b_Process_Prob_exclusion_Mangal_NO_interspec_competition.R
+# Before running this script, you should run the Box2_02_process_mangal scripts
+# Note: Some of the inputs are a 3GB files and are not available in our public 
+# repository due to storage constraints.
 ################################################################################
-
 
 library(tidyverse)
 library(anisoFun)
-# Functions to run calculations about the isotropic area
-source("Scripts/aux_functions/interaction_strength_matrix_from_edge_list.R")
+
 
 number_Omega_replicates <- 10000
 p_excl_data_aux_NO_mutualistic_tradeoff <- read_csv(
@@ -46,7 +52,6 @@ mean_p_excl_data <- p_excl_data_aux %>%
 # Correlation between prob. of excl. and degree for 88 networks
 
 cor.test(mean_p_excl_data$value,mean_p_excl_data$degree)
-
 mean(mean_p_excl_data$value[mean_p_excl_data$kingdom=="Animalia"])
 mean(mean_p_excl_data$value[mean_p_excl_data$kingdom=="Plantae"])
 sd(mean_p_excl_data$value[mean_p_excl_data$kingdom=="Animalia"])
