@@ -1,9 +1,32 @@
+
+
+# Estimation of exclusion distances for all the species in Caracoles,
+# across sampling years. To do so, we first estimate the growth vector
+# of the community in a given year.
+
+# To build the interaction matrix of the community in a given year
+# from raw data we use the following auxiliary function:
+# "Scripts/aux_functions/matrix_year_i.R"
+
+# INPUT: 
+# interaction matrices: "Data/caracoles_raw_data/alpha_heterogeneous_time.csv"
+# growth rates: "Data/caracoles_raw_data/lambda_heterogeneous_both.csv" and 
+# "Data/caracoles_raw_data/lambda_heterogeneous_both.csv"
+# plant abundances: "Data/caracoles_raw_data/abundance.csv"
+# plant traits: "Data/caracoles_raw_data/01_05_plant_species_traits.csv"
+
+# OUTPUT:
+# species exclusion distances: "Results/caracoles_processed_data/caracoles_arc_distance.csv"
+
+# -------------------------------------------------------------------------
+
+
 library(matlib) # to multiply matrices
 library(tidyverse)
 library(pracma) # to solve n-dimensional cross products
 library(anisoFun)
 
-# Functions to run calculations on arc distances
+# Functions to run calculations on exclusion distances
 source("Scripts/aux_functions/matrix_year_i.R")
 
 # We create the metaweb for each year
@@ -33,7 +56,7 @@ growth_rates_raw <- growth_rates_raw_homo %>%
 
 years_included <- matrix_entries_raw$year %>% unique()
 
-caracoles_arc_distances <- NULL
+caracoles_exclusion_distances <- NULL
 
 for(year_i in years_included){
   
@@ -75,9 +98,9 @@ for(year_i in years_included){
   
   arc_distance <- arc_distance[,c("species","year","arc_distance","incenter_arc_distace","relative_arc_distance")]
   
-  caracoles_arc_distances <- bind_rows(caracoles_arc_distances, arc_distance)
+  caracoles_exclusion_distances <- bind_rows(caracoles_exclusion_distances, arc_distance)
   
-  write_csv(caracoles_arc_distances, paste0("Results/caracoles_processed_data/caracoles_arc_distance.csv"))
+  write_csv(caracoles_exclusion_distances, paste0("Results/caracoles_processed_data/caracoles_arc_distance.csv"))
 
   
   
