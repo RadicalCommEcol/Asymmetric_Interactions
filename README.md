@@ -11,10 +11,10 @@ All results and figures from the study are already generated in the relevant fol
 
 In particular, figures and tables of the main text can be generated via the following scripts:
 
-- Figure 1: "04_plot_fig1_fig2.YPNB"
-- Figure 2: "04_plot_fig1_fig2.YPNB"
+- Figure 1: "04_plot_fig1_fig2.ipynb"
+- Figure 2: "04_plot_fig1_fig2.ipynb"
 - Figure 3: "04_plot_fig3.R"
-- Figure 4: "04_plot_fig4a.YPNB" and "04_plot_fig4b.R"
+- Figure 4: "04_plot_fig4a.ipynb" and "04_plot_fig4b.R"
 - Figure 5: "04_plot_fig5.R"
 
 Note that there are different auxiliary scripts both in the main /Scripts folder and in one subfolder. Also, please note that some of the scripts are very computationally demanding, especially those scripts with the prefix 01. Further, note that the Box2_02 scripts create files of such size (~3GB) that they could not be stored in this public repository (the outputs of Box2_02 files are the inputs of Box2_03 and Box2_04 files). Finally, please, note that the scripts used to represent three-dimensional images (Figs. 1, 2, 4a, S3, S4, S5 and S8) are in python (jupyter notebook), but all data processing and analysis is in R files.
