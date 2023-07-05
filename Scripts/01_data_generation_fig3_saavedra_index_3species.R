@@ -1,4 +1,20 @@
 
+# Estimation of the asymmetry index by Saavedra et al. 
+# (https://doi.org/10.1002/ecm.1263) when we reduce the size of the feasibility 
+# domain but preserve the proportions of the distances between the domain’s 
+# vertices.
+
+# INPUT: 
+# number of species: 3
+
+# OUTPUT:
+# Asymmetry index by ASaavedra et al.:
+# "Results/results_saavedra_shape_indices_comparisson_D3.csv"
+
+# -------------------------------------------------------------------------
+
+
+
 library(matlib) # to multiply matrices
 library(tidyverse)
 library(anisoFun)
@@ -9,7 +25,6 @@ library(iterators)
 library(nleqslv)
 library(boot)
 
-source("Scripts/aux_functions/isotropy_index.R")
 
 ################################################################################
 ################################################################################
