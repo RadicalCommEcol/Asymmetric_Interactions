@@ -13,7 +13,8 @@
 # interaction matrices: "Data/caracoles_raw_data/alpha_heterogeneous_time.csv"
 
 # OUTPUT:
-# species' probabilities of exclusion: "Results/caracoles_processed_data/caracoles_boot_plants_year_rep_10000.csv"
+# Pre-processed species' probabilities of exclusion: 
+# "Results/caracoles_processed_data/caracoles_boot_plants_year_rep_10000.csv"
 
 #-----------------------------------------------------------------------
 
