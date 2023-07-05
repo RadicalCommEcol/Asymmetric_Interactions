@@ -1,4 +1,19 @@
 
+
+# Estimation of the asymmetry index by Saavedra et al. 
+# (https://doi.org/10.1002/ecm.1263) when we reduce the size of the feasibility 
+# domain but preserve the proportions of the distances between the domain’s 
+# vertices.
+
+# INPUT: 
+# number of species: 10
+
+# OUTPUT:
+# Asymmetry index by ASaavedra et al.:
+# "Results/results_saavedra_shape_indices_comparisson_D10.csv"
+
+# -------------------------------------------------------------------------
+
 library(matlib) # to multiply matrices
 library(tidyverse)
 library(anisoFun)
@@ -9,7 +24,6 @@ library(iterators)
 library(nleqslv)
 library(boot)
 
-source("R/isotropy_index.R")
 
 ################################################################################
 ################################################################################
@@ -72,51 +86,7 @@ for(proportion in proportions_4_tests){
   
   new_pairs_vertices <- pairs_vertices
   new_pairs_vertices$arc_distance <- proportion * pairs_vertices$arc_distance
-  
-  
-  # new_vertices_prop_triangle <- function(x){
-  #   
-  #   V1 <- x[1:total_number_species]
-  #   V2 <- x[(1+1*total_number_species):(2*total_number_species)]
-  #   V3 <- x[(1+2*total_number_species):(3*total_number_species)]
-  #   V4 <- x[(1+3*total_number_species):(4*total_number_species)]
-  #   
-  #   d12 <- V2-V1
-  #   d13 <- V3-V1
-  #   d14 <- V4-V1
-  #   d23 <- V3-V2
-  #   d24 <- V4-V2
-  #   d34 <- V4-V3
-  #   
-  #   d21 <- -d12
-  #   d31 <- -d13
-  #   d41 <- -d14
-  #   d32 <- -d23
-  #   d42 <- -d24
-  #   d43 <- -d34
-  #   
-  #   path <- d21+d32+d43+d41
-  #   
-  #   return(c(sum(V1*V1)-1, #unitball
-  #            sum(V2*V2)-1, #unitball
-  #            sum(V3*V3)-1, #unitball
-  #            sum(V4*V4)-1, #unitball
-  #            sum(V1*V2)-cos(new_pairs_vertices$arc_distance[1]), # arc distance
-  #            sum(V1*V3)-cos(new_pairs_vertices$arc_distance[2]), # arc distance
-  #            sum(V1*V4)-cos(new_pairs_vertices$arc_distance[3]), # arc distance
-  #            sum(V2*V3)-cos(new_pairs_vertices$arc_distance[4]), # arc distance
-  #            sum(V2*V4)-cos(new_pairs_vertices$arc_distance[5]), # arc distance
-  #            sum(V3*V4)-cos(new_pairs_vertices$arc_distance[6]), # arc distance
-  #            sum(d12*d13)-sum(d13*d14), # angle
-  #            sum(d12*d13)-sum(d12*d14),# angle
-  #            abs(path[1]), #closed path
-  #            abs(path[2]), #closed path
-  #            abs(path[3]), #closed path
-  #            sum(V1)-1/sqrt(total_number_species)
-  #   ))
-  #   
-  # }
-  
+
   new_vertices_prop_triangle_V2 <- function(x){
     
     A_aux_trans <- matrix(x,ncol = total_number_species)
@@ -289,32 +259,6 @@ for(proportion in proportions_4_tests){
   asymmetry_index_saavedra <- bind_rows(asymmetry_index_saavedra,saavedra_results)
 
   write_csv(asymmetry_index_saavedra,
-            paste0("Data/results_saavedra_shape_indices_comparisson_D",total_number_species,".csv"))
+            paste0("Results/results_saavedra_shape_indices_comparisson_D",total_number_species,".csv"))
   
 }
-
-coeff <- 1 # Value used to transform the data
-saavedraColor <- "#009E73"
-
-
-ggplot(data = asymmetry_index_saavedra,
-       aes(x=proportions)) +
-  
-  geom_line( aes(y=saavedra_index), size=2, color=saavedraColor) + 
-  scale_y_continuous(
-    
-    # Features of the first axis
-    name = "saavedra",
-    
-    # Add a second axis and specify its features
-    sec.axis = sec_axis(~.*coeff, name="saaverda")
-  ) + 
-  scale_x_continuous(name="Ratio between the side lengths of an isosceles\nspherical triangle and \nthose of the reference triangle")+
-  theme_bw() +
-  
-  theme(
-    axis.title.y = element_text(color = saavedraColor, size=17),
-    axis.text=element_text(size=14),
-    axis.title=element_text(size=14,face="bold"),
-    plot.title = element_text(size = 14, face = "bold")
-  )
