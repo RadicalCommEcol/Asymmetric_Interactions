@@ -1,4 +1,20 @@
 
+# clean raw data extracted from mangal for 88 plant-pollinator networks,
+# check if the networks are bipartite, and identify plant and animal nodes.
+
+# INPUT: 
+# nodes data: "Data/mangal_raw_data/mangal_pollination_quant_nodes.csv"
+# links data: "Data/mangal_raw_data/mangal_pollination_quant_links.csv"
+# other information: "Data/mangal_raw_data/mangal_pollination_quant_nets.csv"
+
+# OUTPUT:
+# network information without NAs: "Results/mangal_processed_data/NO_NAs_mangal_links_processed_kingdom.csv"
+# network information with and without NAs: "Results/mangal_processed_data/ALL_mangal_links_processed_kingdom.csv"
+
+# -------------------------------------------------------------------------
+
+
+
 library("taxize")
 library(tidyverse)
 
