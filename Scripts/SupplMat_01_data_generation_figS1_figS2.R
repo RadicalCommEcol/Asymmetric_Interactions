@@ -1,41 +1,34 @@
+
+# Estimation of the size and asymmetry of random communities with 3, 6, and 10 
+# species, whose interaction strengths have been randomly sampled from a 
+# leptokurtic, normal, and platykurtic distribution. For each combination of 
+# community size and strength distribution (9 pairs in total), we generated 
+# randomly 201 interaction matrices (1,809 matrices in total). The elements of 
+# the interaction matrices were sampled from the Sinh-Arcsinh (SHASH) 
+# distributions in the R-package gamlss.dist v 6.0-5 
+# (Stasinopoulos & Rigby, 2022) with µ = 0, σ = 1, and the following ν = τ
+# values: ν = τ = 0.2 for leptokurtic distributions, ν = τ = 1 for a 
+# normal distribution, and ν = τ = 20 for platykurtic distributions.
+
+# INPUT: 
+# community_richness <- c(3,6,10)
+# kurtosis_index <- c(0.2,1,20)
+# number_repetitions <- 201
+
+# OUTPUT:
+# Data on the size and asymmetry of the feasibility domain of 1,809 communities,
+# accros a gradient of richness and interaction strengths: 
+# "Results/test_asymmetry_interactions_FD_",number_201.csv"
+
+#-----------------------------------------------------------------------
+
+
+
 library(tidyverse)
 library(anisoFun)
-source("Scripts/aux_functions/isotropy_index.R")
-source("Scripts/aux_functions/isotropy_metrics_4_int_matrix.R")
-source("Scripts/aux_functions/matrix_year_i.R")
 ################################################################################
 ################################################################################
 
-# We create the metaweb for each year
-
-matrix_entries_raw <- read_csv2("Data/caracoles_raw_data/alpha_heterogeneous_time.csv") %>%
-  group_by(year,focal,neighbour) %>% summarise(magnitude = mean(magnitude, na.rm =T))
-
-
-years_included <- matrix_entries_raw$year %>% unique()
-
-data_species <- NULL
-data_kurtosis <- NULL
-data_skewness <- NULL
-
-for(year_i in years_included){
-  
-  cat(year_i, "\n")
-  
-  A_int <- matrix_year_i(matrix_entries_raw, year_i)
-  elements_A <- as.vector(A_int) 
-  
-  data_species <- c(data_species,ncol(A_int))
-  data_kurtosis <- c(data_kurtosis,moments::kurtosis(elements_A))
-  data_skewness <- c(data_skewness,moments::skewness(elements_A))
-  
-  cat("richness: ",ncol(A_int),", kurtosis: ",moments::kurtosis(elements_A),", skewness: ",moments::skewness(elements_A), "\n")
-  
-}
-mean(data_species[data_species>8])
-
-################################################################################
-################################################################################
 # Init parallelization
 workers <- 8
 cl <- makeCluster(workers)
