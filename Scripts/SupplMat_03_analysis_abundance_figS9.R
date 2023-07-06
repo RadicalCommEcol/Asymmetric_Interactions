@@ -1,4 +1,21 @@
 
+# Estimation of the abundance at equilibrium of in-silico communities with
+# three species.
+
+# To estimate initial growth rates within the feasibility domain we use the 
+# following auxiliary function:
+# "Scripts/aux_functions/generate_random_feasible_growth_rates.R"
+
+
+# INPUT: 
+# interaction matrix of the in-silico community: A_int
+
+# OUTPUT: The statistics presented in Suppl. Section 8 for species abundances
+# at equilibrium.
+
+#-----------------------------------------------------------------------
+
+
 library(matlib) # to multiply matrices
 library(tidyverse)
 library(anisoFun)
@@ -7,7 +24,6 @@ library(foreach)
 library(doParallel)
 
 source("Scripts/aux_functions/generate_random_feasible_growth_rates.R")
-source("Scripts/aux_functions/log10_population_growth_evolution_ODE.R")
 
 # Init parallelization
 workers <- 8
