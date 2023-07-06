@@ -1,4 +1,22 @@
 
+
+# Estimation of the average computing time (in seconds) for randomly finding 
+# feasible intrinsic growth rates in symmetric communities, across a gradient of
+# species richness.
+
+# To estimate initial growth rates within the feasibility domain we use the 
+# following auxiliary function:
+# "Scripts/aux_functions/generate_random_feasible_growth_rates.R"
+
+
+# INPUT: 
+# list_total_number_species <- c(10,20,30,40,50,60,70,80,90,100)
+
+# OUTPUT: Average computing times for the above symmetric communities:
+# "Results/simulations/data_experiment_LV_times.csv"
+
+#-----------------------------------------------------------------------
+
 library(matlib) # to multiply matrices
 library(tidyverse)
 library(scales)
@@ -9,7 +27,7 @@ library(doParallel)
 library(iterators)
 
 source("Scripts/aux_functions/generate_random_feasible_growth_rates.R")
-source("Scripts/aux_functions/first_species_excluded_ODE.R")
+
 
 ################################################################################
 ################################################################################
@@ -57,7 +75,7 @@ for (total_number_species in list_total_number_species) {
   
   end_time <- Sys.time()
   
-  time_LV_list <- c(time_LV_list, (end_time - start_time)) # Cuidado esto no dice si son segundos, minutos o días 
+  time_LV_list <- c(time_LV_list, (end_time - start_time)) # Warning: this output does not inform on the time units: seconds, days,... 
   
 }
 
