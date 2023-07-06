@@ -1,4 +1,24 @@
 
+# Testing whether the interaction matrices of Caracoles are diagonally-stable 
+# (or d-stable). To do so, we look for a positive diagonal matrix D that meets 
+# the following condition: the eigenvalues of W = (A^T)D + DA are negative, 
+# where A^T is the transpose of the interaction matrix A (Takeuchi, 1996). In
+# this script we use a non-linear solver to optimize the values of D's  elements  
+# in a given year.
+
+# To build the interaction matrix of the community in a given year
+# from raw data we use the following auxiliary function:
+# "Scripts/aux_functions/matrix_year_i.R"
+
+# INPUT: 
+# interaction matrices: "Data/caracoles_raw_data/alpha_heterogeneous_time.csv"
+
+# OUTPUT: The values of D for a given year that were closer to the above 
+# requirements: ""Results/diagonal_matrix_year_XXX.csv""
+
+
+#-----------------------------------------------------------------------
+
 library(matlib) # to multiply matrices
 library(tidyverse)
 library(rlist)
