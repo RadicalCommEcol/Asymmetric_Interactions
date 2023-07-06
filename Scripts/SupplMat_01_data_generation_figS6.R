@@ -1,4 +1,32 @@
 
+# Estimation of the probabilities of exclusion for communities with 15 species,
+# across a gradient of asymmetry (J=1, 0.92, 0.72), by using computer simulations.
+
+# To estimate initial growth rates within the feasibility domain we use the 
+# following auxiliary function:
+# "Scripts/aux_functions/generate_random_feasible_growth_rates.R"
+
+# To estimate initial growth rates within the feasibility domain we use the 
+# following auxiliary function:
+# "Scripts/aux_functions/generate_random_feasible_growth_rates.R"
+
+# To determine which species goes excluded first for a given feasible condition
+# by solving LV equations, we use the following auxiliary function:
+# "Scripts/aux_functions/first_species_excluded_ODE.R"
+
+# INPUT: 
+# interaction matrices: those in the code below
+
+# OUTPUT: For each interaction matrix (XXX) we obtain the following information 
+# The list of random feasible growth rates "Results/simulations/random_feasible_growth_rates_XXX.csv")
+# The identity of the first excluded species for each random feasible growth rate:
+# "Results/simulations/first_sp_excluded_ODE_results_XXX.csv"
+# The probability of exclusion for each species:
+# "Results/simulations/prob_excl_AnisoFun_XXX.csv"
+
+#-----------------------------------------------------------------------
+
+
 library(matlib) # to multiply matrices
 library(tidyverse)
 library(anisoFun)
