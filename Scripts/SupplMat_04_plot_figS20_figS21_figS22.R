@@ -2,8 +2,8 @@
 
 ################################################################################
 # Before running this script, you should run the following scripts:
-# - 3a_Process_Prob_exclusion_Mangal_NO_mutualistic_tradeoff.R
-# - 3b_Process_Prob_exclusion_Mangal_NO_interspec_competition.R
+# - Box2_02_process_mangal_prob_exclusion_NO_interspec_competition.R
+# - Box2_02_process_mangal_prob_exclusion_NO_mutualistic_tradeoff.R
 ################################################################################
 
 
